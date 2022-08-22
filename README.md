@@ -8,16 +8,26 @@ The acronym SOAP is defined as:
 Serial: applications and its tasks (threads, are run mutually exclusive of any other processes. Technically, no other processes are in queue while one application is in run time. Context switching occurs only as a reformat of the operating system image. Developing a syscall process to allow context switching without restarting is a future goal. See Minix video: https://youtu.be/MG29rUtvNXg?t=2462 
 This experimental process uses:
 
-"A manager to request a process (e.g. Old-FS) to get ready-
+"A manager to request a process (e.g. Old-FS) to get ready
+
 Old-FS finishes its work and queues new work
+
 Manager creates New-DS process with new code
+
 LLVM puts tables inside New-FS listing its data objects
+
 New-FS contacts Old-FS and asks for state it needs
+
 The state is transferred one object at a time
+
 When all state is transferred, Third-FS is created
+
 It talks to New-FS and tries to recreaite Old-FS
+
 If they agree New-FS becomes FS, else revert to Old-FS
+
 ....
+
 Much better than Ksplice"
 
 The difference from that approach to SOAP is that this kernel would be designed to run different applications, rather than update a kernel for running multiple system process (such as a background process, like an email server) Since this would be a serial application processor, not other processes would likely be running anyways.
