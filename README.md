@@ -12,7 +12,7 @@ This experimental process uses:
 
 Old-FS finishes its work and queues new work
 
-Manager creates New-DS process with new code
+Manager creates New-FS process with new code
 
 LLVM puts tables inside New-FS listing its data objects
 
