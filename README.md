@@ -5,7 +5,7 @@ This project seeks to develop a kernel for user applications in memory constrain
 
 The acronym SOAP is defined as:
 
-Serial: applications and its tasks (threads, are run as exlusive of any other processes. Context switching occurs only as a reformat of the operating system image. Developing a process to allow context switching without restarting is a future goal.
+Serial: applications and its tasks (threads, are run mutually exclusive of any other processes. Technically, no other processes are in queue while one application is in run time. Context switching occurs only as a reformat of the operating system image. Developing a syscall process to allow context switching without restarting is a future goal.
 
 Operating: The kernel's purpose is an operating system. However, it is operating only a single application at a time, and device drivers, including networking, are not run as parallel nor as background processes, except in cases where it may be part of the application - i.e. a peripheral device such as a mouse or display driver. Initially, this system is being developed for non-networking and 2D graphics with a simple GUI.
 
