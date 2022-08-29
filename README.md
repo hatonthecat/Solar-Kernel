@@ -1,5 +1,5 @@
 # Soap-Kernel
-Serial(ly) Operating Application Processor Kernel
+Serial(ly) Operating Application Processor Kernel (part of https://hackaday.io/project/177716-the-open-source-autarkic-laptop)
 
 This project seeks to develop a kernel for user applications in memory constrained microcontrollers, using message passing, similar to or based on the microkernel used in Minix 3: https://en.wikipedia.org/wiki/Minix_3#Architecture
 
