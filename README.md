@@ -34,6 +34,14 @@ If they agree New-FS becomes FS, else revert to Old-FS
 
 Much better than Ksplice"
 
+Some other kernel projects include:
+
+https://github.com/vvaltchev/tilck
+and 
+
+https://github.com/managarm/managarm
+
+
 The difference from that approach to SOAP is that this kernel would be designed to toggle between different applications in a serial manner, rather than update a kernel for running multiple system processes (such as a background process, like an email server) Since this would be a serial application processor, no other processes would likely be running anyways.
 
 Thus, this could be a simplified process, depending on the applications switching over- some processes may benefit from clearing a cache/address for an application no longer needed. On the other hand, replacing the entire filesystem may effectively reboot the machine and there would be a noticeable lag in the display at the very least. That said, this process could be explored more to determine what can be retained during a context switch.
