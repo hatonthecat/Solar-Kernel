@@ -83,13 +83,20 @@ https://www.lawinsider.com/dictionary/non-competitive-products
 
 I find it a curious aspect that much of the software ecosystem is centered around competitive product development. If hardware were designed not to compete against higher performance products, would it appear any less intimidating? Developers do not seem to think power consumption is an issue in bridging the digital divide. See this article for confirmation: https://semiengineering.com/a-power-first-approach/ I am starting to see it as the central roadblock.
 
-Speed is a relativistic concept. in a world with internet for 1 minute a day may be better for receiving information from the outside world than one with no information at all. If i only had 1 minute to send a text a day, I would surely send my most important information. The predominate logic of today:
+Speed is a relativistic concept. in a region world with internet for 1 minute a day may be better for receiving information from the outside world than one with no information at all. If i only had 1 minute to send a text a day, I would surely send my most important information. The predominate Global North logic of today:
 
 1. Slow hardware has no use today, and people always want faster software.
 2. Slow hardware has a use, but it is counterintuitive to develop it because it is expensive.
 3. Slow hardware has a use, and it is worth the cost in the long term.
 
 I should add, that slow hardware is not actually slow, if one can efficiently design a simple 2D CLI/GUI without graphics acceleration for the purpose of displaying text. in the minimum number of pixels to be legible.
+
+If you've ever watched the Three Stooges, there is a recurring gag where all three stooges try to run through the doorway at the same time:
+https://www.youtube.com/watch?v=xbNkoB7gq3k 
+
+Every kernel module, whether it is a printer driver, or support for thousands of drivers that are unused on a portable device, make Linux heavy. What many users need is a linux that provides information in its most minimal form- the architecture 
+
+This is how I view the modern, bloated kernel: https://www.cnet.com/culture/linus-torvalds-linux-is-bloated/ But the issue now isn't the lack of options. Modern linux has many more modular options. I am not misunderstanding one instance of a kernel as the only one. I understand smaller kernels can and are compiled. My criticism is that few, if anyone with clout is able to make the connection between sponsoring linux projects that explicitly see power consumption as a design feature when developing a low-power kernel for the developing world. That is yet to be addressed specifically. And by addressing this issue in the sotware community, one can spread awareness. If one looks at Busybox, it is a consolidation of an already complex kernel: The authors dubbed it "The Swiss Army knife of Embedded Linux",[10] as the single executable replaces basic functions of more than 300 common commands. https://en.wikipedia.org/wiki/BusyBox What energy autarkic kernels need, is essentially a utility that is not running any background processes- no daemons- no heavy swiss army set of tools on standby in RAM. What it needs is a serial module, like a series of modules, for each application. A "single file line," unlike the three stooges. In a memory constrained microcontroller, 2MB of RAM is the difference between allowing one stooge through and three stoogs through. 
 
 https://bbenchoff.github.io/pages/dumb.html
 http://www.paperterm.org/notes.html
