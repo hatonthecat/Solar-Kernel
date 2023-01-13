@@ -14,22 +14,7 @@ This experimental process uses:
 
 "A manager to request a process (e.g. Old-FS) to get ready
 
-Old-FS finishes its work and queues new work
-
-Manager creates New-FS process with new code
-
-LLVM puts tables inside New-FS listing its data objects
-
-New-FS contacts Old-FS and asks for state it needs
-
-The state is transferred one object at a time
-
-When all state is transferred, Third-FS is created
-
-It talks to New-FS and tries to recreate Old-FS
-
-If they agree New-FS becomes FS, else revert to Old-FS
-
+Old-FS finishes its work and queues new work Manager creates New-FS process with new code LLVM puts tables inside New-FS listing its data objects New-FS contacts Old-FS and asks for state it needs The state is transferred one object at a time When all state is transferred, Third-FS is created It talks to New-FS and tries to recreate Old-FS If they agree New-FS becomes FS, else revert to Old-FS
 ....
 
 Much better than Ksplice"
@@ -39,7 +24,36 @@ Some other kernel projects include:
 https://github.com/vvaltchev/tilck
 and 
 
+
 https://github.com/managarm/managarm
+
+Some interesting words about kernel dev: https://medium.com/@azerella/how-to-become-a-linux-kernel-developer-20774c72ab07
+
+https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar#Lessons_for_creating_good_open_source_software
+"Raymond points to 19 "lessons" learned from various software development efforts, each describing attributes associated with good practice in open source software development:[3]
+
+Every good work of software starts by scratching a developer's personal itch."
+
+Kernel dev seems to be my itch. Every so often, I wonder, am I even capable of developing a kernel? By developing, I am referring to the agnostic modification of existing code and programming ideas to splice together some new kernel for a new purpose. New kernels are written to scratch some itch, whether it is a new ISA, application, or service. Thus, scratching an itch is also determining whether someone already scratched this itch, and whether it is platform dependent. Hence, platform independent architecture is more portable, but not entirely portable. 
+
+For example, this paragraph:
+
+"Tilck is a preemptable monolithic (but with compile-time modules) *NIX kernel, implementing about ~100 Linux syscalls (both via int 0x80 and sysenter) on x86. At its core, the kernel is not x86-centric even if it runs only on x86 at the moment. Everything arch-specific is isolated. Because of that, most of kernel's code can be already compiled for any architecture and can be used in kernel's unit tests."
+
+Understanding computer architecture is a necessity to understanding what allows code to be run on more than one arch. Code/Algorithmic efficiency is not a priority to a beginner, unless perhaps constrained memory controllers is part of the development process. Perhaps I am somewhat foolish to embrace kernel research without starting at some point in understanding how integrated circuits process binary bits. 
+
+The motivation of this project is algorithmic efficiency. Although assembly is understood to be "faster," efficiency is relativistic, based on the developer's experience in the context of novel hardware development. Thus, programmatic efficiency can, but does not always take priority. 
+
+The other motivation of this project is autarkic design-"crade to cradle" here is defined as a solar powered energy harvester integrated on a PCB, and a finite number of photons between zero and infinity, required to produce, flip and modify a binary bit of data, in both the central processing unit, and tthe display (for user applications). 
+
+Thus, this project adopts an Occam's razor approach of conceptualizing the simplest autarkic system. For reference:
+Although assembly is understood to be "faster," efficiency is relativistic, based on the developer's experience in the context of novel hardware development. Thus, programmatic efficiency can, but does not always take priority.
+
+https://conceptually.org/concepts/occams-razor
+
+https://en.wikipedia.org/wiki/Occam's_razor
+
+This logic, or approach, is useful in not just problem solving, but concept development. That is, this project isn't seeking to solve a problem, specifically. It could be argued that simpler computers are needed for certain tasks, and that technological convergence needs to deconverge (i.e smart phones should become smartphones). But for the purpose of developing such as system, those arguments are irrelevant. Thus that discussion is could be supplmental on a discussion or issue page. Feel free to raise it here, if the project encounters a philosophical fork in the road. As Yogi Berra once said, "if you encounter a fork in the road, take it." 
 
 
 The difference from that approach to SOAP is that this kernel would be designed to toggle between different applications in a serial manner, rather than update a kernel for running multiple system processes (such as a background process, like an email server) Since this would be a serial application processor, no other processes would likely be running anyways.
