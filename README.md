@@ -44,7 +44,7 @@ Understanding computer architecture is a necessity to understanding what allows 
 
 The motivation of this project is algorithmic efficiency. Although assembly is understood to be "faster," efficiency is relativistic, based on the developer's experience in the context of novel hardware development. Thus, programmatic efficiency can, but does not always take priority. 
 
-The other motivation of this project is autarkic design-"crade to cradle" here is defined as a solar powered energy harvester integrated on a PCB, and a finite number of photons between zero and infinity, required to produce, flip and modify a binary bit of data, in both the central processing unit, and tthe display (for user applications). 
+The other motivation of this project is autarkic design-"crade to cradle" here is defined as a solar powered energy harvester integrated on a PCB, and a finite number of photons between zero and infinity, required to produce, flip and modify a binary bit of data, in both the central processing unit, and the display (for user applications). 
 
 Thus, this project adopts an Occam's razor approach of conceptualizing the simplest autarkic system. For reference:
 Although assembly is understood to be "faster," efficiency is relativistic, based on the developer's experience in the context of novel hardware development. Thus, programmatic efficiency can, but does not always take priority.
@@ -54,6 +54,39 @@ https://conceptually.org/concepts/occams-razor
 https://en.wikipedia.org/wiki/Occam's_razor
 
 This logic, or approach, is useful in not just problem solving, but concept development. That is, this project isn't seeking to solve a problem, specifically. It could be argued that simpler computers are needed for certain tasks, and that technological convergence needs to deconverge (i.e smart phones should become smartphones). But for the purpose of developing such as system, those arguments are irrelevant. Thus that discussion is could be supplmental on a discussion or issue page. Feel free to raise it here, if the project encounters a philosophical fork in the road. As Yogi Berra once said, "if you encounter a fork in the road, take it." 
+
+Why would I autarkic design parsimonious? Because all computers have all relied on a power input. Before the linux kernel, free software and open source needed a platform. Now open source can be use to develop more open source. In a way, linux is like a self-replicating machine. Thus, I am conscious to how power consumption is necessary to develop software. But that also reveals an odd aspect of linux accessibility:
+
+"According to official statistics, a tad under half of the world population is not connected to the Internet. In Latin America, according to the most recent statistics, close to 30% of the population is not online. Different variables contribute to the problem of the digital divide, but these can be generally parsed into four categories: no coverage or services available; access is too expensive; a lack of digital skills; or, the Internet simply does not offer anything of interest. While the number of people connected does go up every year, the rate of expansion is fairly modest at about 2 or 3% annually, and at the current rate (which is actually slowing) it will take decades to get everyone online who wishes to be.'
+
+https://www.rhizomatica.org/keeping-it-analog-a-framework-for-opting-out-of-connectivity/ 
+
+The linux kernel was developed in 1991. It has been approximately 32 years since it was developed, and has gotten larger and larger over time, often to support many impressive features.
+
+Imagine the world decided in 2023, that there are actually multiple  different approaches reflecting on this progress. On the on hand, you have mainline linux kernel that sees no issue- that perhaps more can be connected and manufacturing will eventually allow everyone who wants a computer to have one.
+
+Another scenario is that there are already billions of computers available to develop energy efficient kernels for purpose-built hardware. What I mean by this is, a significant portion of mainline linux, whether it is a Linux Foundation sponsored project, such as Zephyr, or medium ground between RTOS and userspace-type desktop OS, that chooses to refocus their efforts in helping more users in the developing world get access to computing, whether or not they have interent access. Thus offine OS development is still immensely important, because the above paragraph by Rhizomatica acknowledges the fact that just under half the world is not connected to the internet. This reveals another limitation of existing systems. Internet access also requires a power source. This is may sound obvious to a Westerner, but this reveals an underexamined component of open source development. 
+
+If one reads some of the early writings of Eric Raymond and the Steven Levy, one might think that the early 90s were a time of much more cooperation across the political aisle. I am not implying any public figure's political leanings, nor does it actually matter. What I am trying to emphasize, is the overal mood of open source and free software today. How many developers are interested in developing energy efficiency operating systems, to help more users run hardware that could be used to develop more open source? When one reads an article on even very pro-open source websites, like Hacker News, Slashdot, the Register, CNX Software, they are covering, for the majority, hardware afforded by users in wealthier countries, or users who can afford a system on a chip like a raspberry pi in South America. But these hardware are getting more power intensive. https://www.pidramble.com/wiki/benchmarks/power-consumption The Raspberry Pi A+ used 0.8 Watts. The Rpi4 uses over 5 Watts of power. Who is the Raspberry Pi really interested in catering to?
+
+If there was a greater effort in developing a kernel that could run on a solar powered laptop, it could provide more information than a library with thousands of books. Manufacturing new technology is certainly a power intensive process, but once it is made, the only thing it needs to last 20 years is power. It doesn't need to be watered like a plant. It doesn't need an oil change like a car. Power is the only thing a laptop needs. Maybe it might need a new microSD card or SSD, if the onboard NOR is not corrupt, and if it supports external storage. These kinds of technologies are useful because they do not age as quickly as software designed for performance. If computers can be designed and viewed like books, then there does not need be a desire to compete against against performance machines. 
+
+"Non-Competitive Products means any (i) product or service that is not a Competitive Product (including products or services that are not sold in the Prior Areas, but would be Competitive Products if they were sold in the Prior Areas), (ii) product or service that is being designed, developed, manufactured, used, marketed, offered for sale or sold by Seller or its Affiliates (but excluding the Sold Companies) as of the date of this Agreement (or any improvements, new versions or successors thereof) or (iii) module or component that is incorporated into any product or service described in clause (i) or (ii) of this definition.'
+
+I find it a curious aspect that much of the software ecosystem is centered around competitive product development. If hardware were designed not to compete against higher performance products, would it appear any less intimidating? If I were to examine the logic of this statement, I could explore several possibilities:
+
+1. Slow hardware has no use today, and people always want faster software.
+2. Slow hardware has a use, but it is counterintuitive to develop it because it is expensive.
+3. Slow software has a use, and it is worth the cost in the long term.
+
+I should add, that slow hardware is not actually slow, if one can efficiently design a simple 2D CLI/GUI without graphics acceleration for the purpose of displaying text. in the minimum number of pixels to be legible.
+
+https://bbenchoff.github.io/pages/dumb.html
+http://www.paperterm.org/notes.html
+
+Why is this important? Computers are just a means of accessing and interacting with information. Today, Foundries can produce 5 nanometer chips that use extremely low computations per joule of energy dissipated: https://en.wikipedia.org/wiki/Koomey%27s_law
+
+Thus, while many environmentally conscious users prefer not to buy new pcs to save on the environment (and they are correct), another aspect of computing is that technology today allows for computing to be autarkic, but due to lack of awareness or interest, leading chip designers can willingly leave out 4 billion users by continuing to develop power hungry devices. To learn programming, one can read a book. But even if a book is available, one cannot interact with a command line interface. Thus the technology today is available to integrate leading edge components (low power Japan Display memory in pixels), Ambiq Apollo4 microcontrollers, to develop autarkic command line interfaces, that give access to the maximum amount of information (whether stored in gigbytes off line on a microSD) or via an online hardware- if the system on a chip has a wireless or ethernet capability. That said, the lowest power mechanism fot transferring data -whether it is LPWAN or a usb/cat 5 cable would need to be considered. Thus there is no concerted effort hitherto anywhere to develop this. I seek to be the first to explicitly call for this, since no one else wants to , or believes it is possible.
 
 -------
 
