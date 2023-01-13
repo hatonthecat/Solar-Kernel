@@ -78,7 +78,7 @@ I find it a curious aspect that much of the software ecosystem is centered aroun
 
 1. Slow hardware has no use today, and people always want faster software.
 2. Slow hardware has a use, but it is counterintuitive to develop it because it is expensive.
-3. Slow software has a use, and it is worth the cost in the long term.
+3. Slow hardware has a use, and it is worth the cost in the long term.
 
 I should add, that slow hardware is not actually slow, if one can efficiently design a simple 2D CLI/GUI without graphics acceleration for the purpose of displaying text. in the minimum number of pixels to be legible.
 
