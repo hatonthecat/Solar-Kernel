@@ -92,7 +92,7 @@ There's at least two things one can do with lower nodes (such as 5nm)
 1. You can pack more transistors, to do more computations. (The Atom N270 processor used 2.5 watts)
 https://www.intel.com/content/www/us/en/products/sku/36331/intel-atom-processor-n270-512k-cache-1-60-ghz-533-mhz-fsb/specifications.html
 If you look at one of the most modern Atom spiritual sucessors today, I could only find the 2021 Tremont, Atom x6200FE, which is a dual core, 4.5Watt BGA:
-https://en.wikipedia.org/wiki/List_of_Intel_Atom_processors#Tremont_microarchitecture
+https://en.wikipedia.org/wiki/List_of_Intel_Atom_processors#%22Elkhart_Lake%22_(10_nm)
 https://ark.intel.com/content/www/us/en/ark/products/207904/intel-atom-x6200fe-processor-1-5m-cache-1-00-ghz.html How many transistors in the x6200Fe? probably far more than needed to look up wikipedia.
 https://en.wikipedia.org/wiki/Gracemont_(microarchitecture) is the successor, and the lowest power chip is 6 Watts. It's safe to say, the industry trend is, pack more for the same since the mentality is, "6 watt is good enough for anybody") (yes, i am reversing the meaning to imply that 6 watt is too much, and actually 640K would actually be more useful in some cases)
 
