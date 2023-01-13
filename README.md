@@ -55,8 +55,10 @@ https://en.wikipedia.org/wiki/Occam's_razor
 
 This logic, or approach, is useful in not just problem solving, but concept development. That is, this project isn't seeking to solve a problem, specifically. It could be argued that simpler computers are needed for certain tasks, and that technological convergence needs to deconverge (i.e smart phones should become smartphones). But for the purpose of developing such as system, those arguments are irrelevant. Thus that discussion is could be supplmental on a discussion or issue page. Feel free to raise it here, if the project encounters a philosophical fork in the road. As Yogi Berra once said, "if you encounter a fork in the road, take it." 
 
+-------
 
-The difference from that approach to SOAP is that this kernel would be designed to toggle between different applications in a serial manner, rather than update a kernel for running multiple system processes (such as a background process, like an email server) Since this would be a serial application processor, no other processes would likely be running anyways.
+
+The difference from [multi threading] approach to SOAP is that this kernel would be designed to toggle between different applications in a serial manner, rather than update a kernel for running multiple system processes (such as a background process, like an email server) Since this would be a serial application processor, no other processes would likely be running anyways.
 
 Thus, this could be a simplified process, depending on the applications switching over- some processes may benefit from clearing a cache/address for an application no longer needed. On the other hand, replacing the entire filesystem may effectively reboot the machine and there would be a noticeable lag in the display at the very least. That said, this process could be explored more to determine what can be retained during a context switch.
 
