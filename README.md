@@ -94,7 +94,7 @@ https://en.wikipedia.org/wiki/The_Tortoise_and_the_Hare
 
 In elementary school, our school occasionally had guest speakers, some were motivational speakers in our auditorium. One of them was an acting couple, that told us the story of the the tortoise and the hare. They turned the gym into a racetrack, and one played a bipedal tortoise, and the other one a bipedal hare. The hare ran around the gym, and in his hubris, took a nap at about 75% near the finish line. The tortoise ran, diligently, around the gym, and the hare, sleeping, woke up just as he noticed the hare about the reach the finish line, and started sprinting but lost the race.
 
-Why am I sharing this story? Because it is one of the most inspiring story in my life. A person without internet access may not seem as cool to you. But they could be studying or reading even without a book or internet access, if only they had a computer that could power itself. So when they connect to the internet, they could upload a magnificent software or story (if they are a writer), which may appear out of nowhere, as the have wake up from their slumber. That is my dream. 
+Why am I sharing this story? Because it is one of the most inspiring stories in my life. A person without internet access may not seem as cool to you. But they could be studying or reading even without a book or internet access, if only they had a computer that could power itself. So when they connect to the internet, they could upload a magnificent software or story (if they are a writer), which may appear out of nowhere, as the have wake up from their slumber. That is my dream. 
 
 -------
 
