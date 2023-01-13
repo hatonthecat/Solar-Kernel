@@ -93,7 +93,7 @@ There's at least two things one can do with lower nodes (such as 5nm)
 https://www.intel.com/content/www/us/en/products/sku/36331/intel-atom-processor-n270-512k-cache-1-60-ghz-533-mhz-fsb/specifications.html
 If you look at one of the most modern Atom spiritual sucessors today, I could only find the 2021 Tremont, Atom x6200FE, which is a dual core, 4.5Watt BGA:
 https://en.wikipedia.org/wiki/List_of_Intel_Atom_processors#Tremont_microarchitecture
-https://ark.intel.com/content/www/us/en/ark/products/207904/intel-atom-x6200fe-processor-1-5m-cache-1-00-ghz.html How many transistors in the x6200Fe? probably far more than one to look up wikipedia.
+https://ark.intel.com/content/www/us/en/ark/products/207904/intel-atom-x6200fe-processor-1-5m-cache-1-00-ghz.html How many transistors in the x6200Fe? probably far more than needed to look up wikipedia.
 https://en.wikipedia.org/wiki/Gracemont_(microarchitecture) is the successor, and the lowest power chip is 6 Watts. It's safe to say, the industry trend is, pack more for the same since the mentality is, "6 watt is good enough for anybody") (yes, i am reversing the meaning to imply that 6 watt is too much, and actually 640K would actually be more useful in some cases)
 
 2. You can do the same number of computations as you were in 2010- you can still access the internet, use word processor, etc. https://rhombus-tech.net/whitepapers/ecocomputing_07sep2015/
