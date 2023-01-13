@@ -85,7 +85,14 @@ I should add, that slow hardware is not actually slow, if one can efficiently de
 https://bbenchoff.github.io/pages/dumb.html
 http://www.paperterm.org/notes.html
 
-Why is this important? Computers are just a means of accessing and interacting with information. Today, Foundries can produce 5 nanometer chips that use extremely low computations per joule of energy dissipated: https://en.wikipedia.org/wiki/Koomey%27s_law
+Why is this important? Computers are just a means of accessing and interacting with information. Today, foundries can produce 5 nanometer chips that use extremely low computations per joule of energy dissipated: https://en.wikipedia.org/wiki/Koomey%27s_law
+
+There's at least two things one can do with lower nodes (such as 5nm)
+
+You can pack more transistors, to do more computations.
+You can do the same number of computations as you were in 2010- you can still access the internet, use word processor, etc. https://rhombus-tech.net/whitepapers/ecocomputing_07sep2015/
+
+The question is, even if you want "more, more, more", have you really ever thought about someone else who just wants "something"? In a region with no electricity? 
 
 Thus, while many environmentally conscious users prefer not to buy new pcs to save on the environment (and they are correct), another aspect of computing is that technology today allows for computing to be autarkic, but due to lack of awareness or interest, leading chip designers can willingly leave out 4 billion users by continuing to develop power hungry devices. To learn programming, one can read a book. But even if a book is available, one cannot interact with a command line interface. Thus the technology today is available to integrate leading edge components (low power Japan Display memory in pixels), Ambiq Apollo4 microcontrollers, to develop autarkic command line interfaces, that give access to the maximum amount of information (whether stored in gigabytes off line on a microSD) or via an online hardware- if the system on a chip has a wireless or ethernet capability. That said, the lowest power mechanism for transferring data -whether it is LPWAN or a usb/cat 5 cable would need to be considered. Thus there is no concerted effort hitherto anywhere to develop this. I seek to be the first to explicitly call for this, since no one else wants to , or believes it is possible.
 
