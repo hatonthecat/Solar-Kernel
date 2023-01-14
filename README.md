@@ -203,3 +203,9 @@ The more I think about this project, it is more an exploration of an economics i
 https://whossavingtheplanet.com/read/innovation/green-coding-sustainability-in-software/2020-10-04 Datacenters have done this for years:
 https://www.computerweekly.com/blog/Green-Tech/Green-coding-A-sustainability-practice-all-software-engineers-should-adhere-to
 A solar powered laptop/phone would be a proof of concept that green coding can be applied to the microeconomic level, from kernel to the display monitor) to transform our dependency on lithium ion batteries, as well as the need to plug in to outlets at Starbucks.
+
+You could call this the Free Energy Foundation, modeled after the Free Software Foundation.
+
+Free as in gratis. You can count on the sun more than the grid, in some places of the world. Unless you're in the arctic winter for months where it's perpetually nighttime due to the tilt of the earth during its orbit around the sun. https://www.pmel.noaa.gov/arctic-zone/gallery_np_seasons.html  For as long as the earth is around it will have sunlight. Unless you're Mr. Burns and want to tax and block sunlight. Obviously, humanity is susceptible to tampering with abundance. https://www.youtube.com/watch?v=L3LbxDZRgA4 
+
+
