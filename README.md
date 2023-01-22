@@ -182,6 +182,9 @@ Processor: This refers both to hardware and software. The microcontroller is the
 
 The function of the kernel is to be both predictable (hard real time) and operate with interactive user inputs. It aims to utilize the benefits of RTOS and hybridize it with user's syscalls. This can only happen via context switching, and neither process can operate in parallel (at least in a single hardware core microcontroller).
 
+![image](https://user-images.githubusercontent.com/76194453/213939362-9f3e6d94-9289-45e4-addb-9cf5de2fd070.png)
+
+
 Another way of understanding this kernel is taking a more broad view of computers, from a historical perspective. If one asks, "what is a computer?"
 https://en.wikipedia.org/wiki/Computer
 
