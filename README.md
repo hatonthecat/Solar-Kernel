@@ -111,6 +111,10 @@ https://www.youtube.com/watch?v=xbNkoB7gq3k
 
 Every kernel module, whether it is a printer driver, or support for thousands of drivers that are unused on a portable device, make Linux heavy. What many users need is a linux that provides information in its most minimal form- the architecture 
 
+![image](https://user-images.githubusercontent.com/76194453/213938231-907057fa-cf8d-4ac1-aff6-1230b5db5cbe.png)
+
+![image](https://user-images.githubusercontent.com/76194453/213938331-29ff17c8-ccc5-497c-86bc-b30798010a21.png)
+
 This is how I view the modern, bloated kernel: https://www.cnet.com/culture/linus-torvalds-linux-is-bloated/ 
 https://news.ycombinator.com/item?id=17295386
 
