@@ -19,6 +19,9 @@ Old-FS finishes its work and queues new work Manager creates New-FS process with
 
 Much better than Ksplice"
 
+![image](https://user-images.githubusercontent.com/76194453/213937722-b3ee3e59-0b18-4895-9d65-5409c3437bb4.png)
+
+
 Some other kernel projects include:
 
 https://github.com/vvaltchev/tilck
