@@ -222,3 +222,31 @@ You could call this the Free Energy Foundation, modeled after the Free Software 
 Free as in gratis. You can count on the sun more than the grid, in some places of the world. Unless you're in the arctic winter for months where it's perpetually nighttime due to the tilt of the earth during its orbit around the sun. https://www.pmel.noaa.gov/arctic-zone/gallery_np_seasons.html  For as long as the earth is around it will have sunlight. Unless you're Mr. Burns and want to tax and block sunlight. Obviously, humanity is susceptible to tampering with abundance. https://www.youtube.com/watch?v=L3LbxDZRgA4 
 
 
+
+A key issue in design is selecting the applications for the hardware. General purpose hardware typically uses more computation to accommodate a suite of apps.  https://www.darpa.mil/program/software-defined-hardware  
+https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=315530
+A lower power thermal envelope allows alternative energy sources in a portable design, potentially requiring far less computation per application.
+
+What if energy design were a formula that would change the world? In the 2002 made-for TV film Copenhagen,
+https://www.youtube.com/watch?v=jx1Q5lhkff8
+https://en.wikipedia.org/wiki/Copenhagen_(2002_film) 
+Physicists Niels Bohr and Werner Heisenberg meet in Copenhagen (just about the only plot detail that was based on a real meeting in 1941). The play is about what they spoke about, or could have spoken about.
+
+Not in the above clip, but during the movie, a topic on factors of ten is brought up. The film portrays Heisenberg as plausibly fishing for clues to support Germany's nuclear program as much as meeting Bohr to devise a plausible excuse to stall the program. A detail that I have not been able to locate in a video clip, regards that Heisenberg was describing a quantity that was off by a factor of 10 or 100, and seeking a hint from Bohr, suggests that Heisenberg had the right concept in mind (for the net production/exothermic reaction of energy), but had not grasped the magnitude of the quantities involved. This, perhaps is the most direct clue that Bohr was willing to yield, and tantalizing for some, set in motion a new mode of thinking, not for nuclear development, but in setting the stage for deterrence and mutual assured destruction. The first concern was, if the chain reaction would never end, and, once that was resolved, on whether MAD would eventually result in a similar predicament. Thus, WWII was the last Great War because the power from the offensive munitions became so great that there was a permanent shift to deterrence. As has been said about using all of the coal and oil fuels, the destruction would limit humanity's growth far sooner than it would destroy the planet. https://www.newyorker.com/news/daily-comment/if-we-burned-all-the-fossil-fuel-in-the-world
+
+To that end, what would happen if semiconductor manufacturing continued at such a pace that it allocated an even greater quantity of the world's freshwater than 99% of the world's population? Would semiconductors continue to be that useful? Hyperbole is sometimes more useful rhetorically.
+
+Accomplishing more with less is only a mitigating factor, but it is not an insignificant one. Certainly demand in new products continues unabatedly. Demand for general information does not. What does change with Koomey's Law is that basic informational queries and communications can use less power on more advanced nodes (5nm, 3nm, 1nm, pico nanometer, and so on), allowing energy harvesting devices from the ambient environment to power completely software defined hardware. This approach does not replace omnibus operating systems such as linux, android, windows and apple, but allows potentially for hybrid kernels to run in parallel that rely on energy storage systems, selected for their efficient harvesting, storage, and delivery mechanisms that use less materials. Similar to hyperscaling processors (such as near threshold voltage), "hyper" harvesters could be the next best complement to efficient processors. Capacitors and Hybrid Lithium Ion capacitors can reduce the densities needed to provide long-term power solutions when singular and software defined hardware profiles provide the most efficient computation per joule: https://en.wikipedia.org/wiki/Performance_per_watt#Definition   
+
+A formula for energy efficiency can sound oversimplistic, but it is actually more a framework or a compass that leads to a new product category- autarkic systems. The other, human-centric question one can ask is, "What is something I don't I know about but need? (Or want)
+
+To that, I present Six Characters in Search of An Author, by Luigi Pirandello. 
+
+Autarkic computers are for many, a solution looking for a problem.  But because they are general purpose, they would appear to become the next general purpose technology, which could connect billions of more people who have never been online, or can stay online:
+
+https://www.thediff.co/archive/a-solution-in-search-of-a-problem/
+“One interesting trait of toys-turned-tools is that they seem more likely than average to become such general-purpose technologies. General-purpose technologies are fairly rare, and very important—many comprehensive lists of them will start with things like fire, writing, and the use of tools to improve other tools. A toy that finds another use case is more likely to be a general-purpose technology, in part because of the "Pirahã Are Off By One " phenomenon: most inventions are useless, some have an extremely specific use case, but if you discover that they have more than one use case, it's likely that this generalization will continue. And this is especially true from the standpoint of someone who hears about a new tool: it's going to be more viral if a) it spreads by being useful, and b) it spreads in as many different groups as possible, i.e. it has lots of use cases.”
+
+https://byrnehobart.medium.com/the-pirah%C3%A3-are-off-by-one-9c77eb66a6d9
+
+For more references, see my October 2022 post: https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/82800869.remaking-the-nokia-6110-and-psion.html
