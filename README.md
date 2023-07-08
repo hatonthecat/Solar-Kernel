@@ -250,3 +250,4 @@ https://www.thediff.co/archive/a-solution-in-search-of-a-problem/
 https://byrnehobart.medium.com/the-pirah%C3%A3-are-off-by-one-9c77eb66a6d9
 
 For more references, see my October 2022 post: https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/82800869.remaking-the-nokia-6110-and-psion.html
+(download RAW)
