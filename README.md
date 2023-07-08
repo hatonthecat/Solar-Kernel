@@ -221,9 +221,10 @@ You could call this the Free Energy Foundation, modeled after the Free Software 
 
 Free as in gratis. You can count on the sun more than the grid, in some places of the world. Unless you're in the arctic winter for months where it's perpetually nighttime due to the tilt of the earth during its orbit around the sun. https://www.pmel.noaa.gov/arctic-zone/gallery_np_seasons.html  For as long as the earth is around it will have sunlight. Unless you're Mr. Burns and want to tax and block sunlight. Obviously, humanity is susceptible to tampering with abundance. https://www.youtube.com/watch?v=L3LbxDZRgA4 
 
+----------------
+Update 7/7/2023: Some thoughts:
 
-
-A key issue in design is selecting the applications for the hardware. General purpose hardware typically uses more computation to accommodate a suite of apps.  https://www.darpa.mil/program/software-defined-hardware  
+A key issue in computer design is selecting the applications for the hardware. General purpose hardware typically uses more computation to accommodate a suite of apps.  https://www.darpa.mil/program/software-defined-hardware  
 https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=315530
 A lower power thermal envelope allows alternative energy sources in a portable design, potentially requiring far less computation per application.
 
