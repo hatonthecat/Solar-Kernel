@@ -85,6 +85,18 @@ So my thinking is, why should I contribute to this giant database project or som
 
 There is a tale of two SBCs. There is the Global North and the Global South. The global north is anyone who can afford a raspberrty pi, and a display, and a keyboard, and a power outlet:  [https://www.youtube.com/watch?v=TifReX38I8M](https://youtu.be/TifReX38I8M?t=123)  The South needs the metaphorical cheaper chicken. ![image](https://user-images.githubusercontent.com/76194453/212409691-5e93354b-5f24-492b-99b1-580a005fd00c.png) This isn't to say that some may only be able to afford a monochromatic laptop if some charity gave it to them for free, and they shouldn't be able to own one more powerful. No, that's not what I'm saying. What I'm saying is that at this pace, it will not be possible to manufacture a system that runs at 5 watts for everyone in the world, because no solar panel can fit on a lpatop that can power 5 watts of cpu power.  
 
+Pre-emptive self-criticism:
+
+Seinfeld's Muffin Tops Bakery Episode
+
+https://www.youtube.com/watch?v=YYkj2yYaGtU The problem: Creating a muffin top product leads to rejected muffin bottoms. The premise of a solar powered, underclocked processor creates the appearance, real or perceived of a 2nd-tier of product- "the Stumps", when this is not the case.
+
+https://www.youtube.com/watch?v=Jxph6zErgYI
+
+Enter: Newman, the Muffin Bottoms Cleaner
+
+https://youtu.be/Jxph6zErgYI?t=41
+
 "When NVIDIA purchased mobile-chip designer Arm Holdings from SoftBank last year, NVIDIA CEO Jensen Huang made the bold prediction that in the years ahead, there will be trillions of artificial intelligence (AI)-enabled Internet of Things (IoT) devices. "
 
 https://cacm.acm.org/magazines/2021/7/253454-a-battery-free-internet-of-things/abstract 
