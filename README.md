@@ -113,11 +113,38 @@ p.35
 
 The material-scarcity problem in the "developing" and "undeveloped world" is not necessarily scarcity to Raspberry Pi's. Even if 3 billion Raspberry Pis could be air-dropped for every person on earth without a PC, the scarcity issue that remains is power. Therefore solar-powerable mobile devices are deliberately avoided by the technocratic design class, if Barbrook's thesis remains true to this day.
 
+----
+640,000 Transistors should be enough for anyone
+----
+
+"There are two types of people: Those who think VR will change the world—and those who haven’t tried it yet." -Meta Blog:
+https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/
+
+There's actually three, or four, types of people. The third person, says, wait, VR is Silicon Valley's latest desperate attempt to get people to do away with their Mac M1s and M2s to buy more transistors to interactively compose a text file in 3D space.
+
+The amount of transistors needed to produce a VR headset is going to be in the hundreds of billions.
+
+The first linux operating system ran on the Intel 30386, which had 275,000 transistors.
+
+Operating systems such as Slackware <9.1  and Slitaz, could run on it: 
+https://tiny.slitaz.org/ 
+https://distrowatch.com/?newsid=00777
+[https://i.redd.it/9x2py4ba6rg41.jpg ](https://www.reddit.com/r/retrobattlestations/comments/f3gj45/slackware_112_1994_on_my_386sx40/)
+
+Chips like these are more than powerful to send text messages, read bulletin board news, even make voip sessions. Foundries have plenty of wafers to produce a small 275,000 transistor chip for every person on earth. 
+
+"The highest transistor count in a single chip processor is that of the deep learning processor Wafer Scale Engine 2 by Cerebras. It has 2.6 trillion MOSFETs in 84 exposed fields (dies) on a wafer, manufactured using TSMC's 7 nm FinFET process.[2][3][4][5][6] (2019)" 
+
+With each person having access to telecommunications and information, the world can become more informed, although it is not to suggest that it will lead to utopia or worldwide education/literacy. Rather, the means of access to information can be abundantly produced with no significant barriers to access whenever it is needed- long-range ad-hoc wireless networks as in Spain's Guifi grid (https://en.wikipedia.org/wiki/Guifi.net), and solar powereable PCs running on near/sub threshold voltage (see Ambiq Apollo4 and Intel Claremont). 
+
+---
+
+
 Pre-emptive self-criticism:
 
 Seinfeld's Muffin Tops Bakery Episode
 
-https://www.youtube.com/watch?v=YYkj2yYaGtU The problem: Creating a muffin top product leads to rejected muffin bottoms. The premise of a solar powered, underclocked processor creates the appearance, real or perceived of a 2nd-tier of product- "the Stumps", when this is not the case.
+https://www.youtube.co m/watch?v=YYkj2yYaGtU The problem: Creating a muffin top product leads to rejected muffin bottoms. The premise of a solar powered, underclocked processor creates the appearance, real or perceived of a 2nd-tier of product- "the Stumps", when this is not the case.
 
 https://www.youtube.com/watch?v=Jxph6zErgYI
 
