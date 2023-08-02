@@ -111,7 +111,7 @@ p.35
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/f5bc6a03-fdd9-499f-a303-2b743ff4b335)
 
-
+The material-scarcity problem in the "developing" and "undeveloped world" is not necessarily scarcity to Raspberry Pi's. Even if 3 billion Raspberry Pis could be air-dropped for every person on earth without a PC, the scarcity issue that remains is power. Therefore solar-powerable mobile devices are deliberately avoided by the technocratic design class, if Barbrook's thesis remains true to this day.
 
 Pre-emptive self-criticism:
 
