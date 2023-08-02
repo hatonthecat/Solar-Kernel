@@ -109,6 +109,10 @@ p.35
 
 [62] | See Tony Elger, ‘Valorisation and “Deskilling”: A Critique of Braverman’, Capital & Class 7 (Spring 1979), pp. 58-99.
 
+![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/f5bc6a03-fdd9-499f-a303-2b743ff4b335)
+
+
+
 Pre-emptive self-criticism:
 
 Seinfeld's Muffin Tops Bakery Episode
