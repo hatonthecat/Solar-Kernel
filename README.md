@@ -102,6 +102,11 @@ privileges, some professionals became enthusiastic supporters of reactionary mod
 ism. Instead of fighting for social equality, they dreamt of founding a new aristocracy: the
 technocracy"
 
+p.35 
+
+![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/76528e49-803f-45d9-85b9-9667738098a5)
+
+
 [62] | See Tony Elger, ‘Valorisation and “Deskilling”: A Critique of Braverman’, Capital & Class 7 (Spring 1979), pp. 58-99.
 
 Pre-emptive self-criticism:
