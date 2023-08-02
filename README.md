@@ -90,6 +90,20 @@ So my thinking is, why should I contribute to this giant database project or som
 
 There is a tale of two SBCs. There is the Global North and the Global South. The global north is anyone who can afford a raspberrty pi, and a display, and a keyboard, and a power outlet:  [https://www.youtube.com/watch?v=TifReX38I8M](https://youtu.be/TifReX38I8M?t=123)  The South needs the metaphorical cheaper chicken. ![image](https://user-images.githubusercontent.com/76194453/212409691-5e93354b-5f24-492b-99b1-580a005fd00c.png) This isn't to say that some may only be able to afford a monochromatic laptop if some charity gave it to them for free, and they shouldn't be able to own one more powerful. No, that's not what I'm saying. What I'm saying is that at this pace, it will not be possible to manufacture a system that runs at 5 watts for everyone in the world, because no solar panel can fit on a lpatop that can power 5 watts of cpu power.  
 
+https://networkcultures.org/wp-content/uploads/2015/10/0585-INC_NN10-totaal-RGB.pdf
+
+p.30 "The earliest versions of this reactionary fantasy emphasised the hierarchical division of
+labour under Fordism. Although many skills were destroyed by the industrial system, new
+specialisms were simultaneously created. Within Fordism, engineers, bureaucrats, teach-
+ers and other professionals formed an intermediate layer between management and
+the shopfloor[62]. Unlike most employees, this section of the working class received high
+incomes and escaped subordination to the assembly-line. Fearful of losing their limited
+privileges, some professionals became enthusiastic supporters of reactionary modern-
+ism. Instead of fighting for social equality, they dreamt of founding a new aristocracy: the
+technocracy"
+
+[62] | See Tony Elger, ‘Valorisation and “Deskilling”: A Critique of Braverman’, Capital & Class 7 (Spring 1979), pp. 58-99.
+
 Pre-emptive self-criticism:
 
 Seinfeld's Muffin Tops Bakery Episode
