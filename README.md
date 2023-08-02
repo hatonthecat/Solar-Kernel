@@ -114,7 +114,7 @@ p.35
 The material-scarcity problem in the "developing" and "undeveloped world" is not necessarily scarcity to Raspberry Pi's. Even if 3 billion Raspberry Pis could be air-dropped for every person on earth without a PC, the scarcity issue that remains is power. Therefore solar-powerable mobile devices are deliberately avoided by the technocratic design class, if Barbrook's thesis remains true to this day.
 
 ----
-640,000 Transistors should be enough for anyone
+640,000 transistors should be enough for anyone
 ----
 
 "There are two types of people: Those who think VR will change the world—and those who haven’t tried it yet." -Meta Blog:
