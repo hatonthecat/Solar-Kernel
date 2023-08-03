@@ -218,7 +218,7 @@ As Pierre Levy once joked,
 
 https://www.vice.com/en/article/ypw9vw/how-the-internets-collective-human-intelligence-could-outsmart-ai
 
-Levy understands great changes in collective intelligence intiatives- not super high tech cycles like Stalin in Silicon Valley (as Barbrook describes), but low-tech ubiquity to the point of a universal basic phone, and universal basic computer that can run on extremely low power, so low a tiny amount of sunlight can display text, make phone calls, and send emails.
+Levy understands great changes in collective intelligence intiatives- I'm not referring to super high tech cycles like Stalin in Silicon Valley (as Barbrook describes), but low-tech ubiquity to the point of a universal basic phone, and universal basic computer that can run on extremely low power, so low a tiny amount of sunlight can display text, make phone calls, and send emails. When the flow of information is frictionless, then the best information can be sought and by the best and brightest. 
 
 "People say, "We are going to make computers very smart," and they get all the funding. But what about making humans smarter? Collective intelligence is a research project about making people smarter with computers, and not making computers smarter than people. That's the real definition of collective intelligence."
 
@@ -235,12 +235,6 @@ Thus, in an ideal world where technologies are constantly evolving, job security
 ---
 Collective Intelligence as an End-goal of Computing for All 
 ---
-
-People say, "We are going to make computers very smart," and they get all the funding. But what about making humans smarter? Collective intelligence is a research project about making people smarter with computers, and not making computers smarter than people. That's the real definition of collective intelligence.
-
-
-
-https://www.vice.com/en/article/ypw9vw/how-the-internets-collective-human-intelligence-could-outsmart-ai
 
 
 ---
