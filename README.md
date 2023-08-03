@@ -196,6 +196,41 @@ https://www.reddit.com/r/mildlyinteresting/comments/11p1gzt/homeless_man_in_sili
 
 With each person having access to telecommunications and information, the world can become more informed, although it is not to suggest that it will lead to utopia or worldwide education/literacy. Rather, the means of access to information can be abundantly produced with no significant barriers to access whenever it is needed- long-range ad-hoc wireless networks as in Spain's Guifi grid (https://en.wikipedia.org/wiki/Guifi.net), and solar powereable PCs running on near/sub threshold voltage (see Ambiq Apollo4 and Intel Claremont). 
 
+One reason developers are probably afraid to make computing extremely accessible with no barrier to entry, is the existential risk to their own occupation:
+
+Companies aware of the WFH trend are already seeking to get the lowest labor costs by outsourcing their workforce overseas. If an employee can work from home, an OLPC (fast enough to do customer service) suddenly has 3 billion extra candidates. Yet, the moral importance of connecting more of the world to the digital commons is far more important than the risk to one's job security. This is what distinguishes the the middlemanagement sympathetic to the shop floor to that of the technocracy that wants to keep the candidate pool as limited as possible. One of the reasons I believe it is important to develop a well-rounded skill set is so that one isn't limited in their craft. While general labor often times involves a lot of lifting, the adaptability of a job in generla labor still is a flexible type of work, something that skilled trades become far more inflexible as technologies evolve:
+
+![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/28fbfae3-93f2-418d-a77e-ad6d5dcb599f)
+
+As Pierre Levy once joked,
+
+"Okay, so Plato's Phaedrus is a very important dialogue. He said the exact same thing that you are about to say, but not with machines—with writing. He said, "What? You are going to put all the information we have into a library?" So, you have a library—say, the Library of Alexandria—and the totality of human knowledge is encoded here, and so we don't need professors anymore. Everyone is becoming unemployed. It's terrible! [laughs]. You know, there were more than 3,000 people in Paris in the 18th century whose job it was to bear water to people. Then, they invented plumbing, and ah! They lost their jobs! It's terrible!"
+
+Levy understands great changes in collective intelligence intiatives- not super high tech cycles like Stalin in Silicon Valley (as Barbrook describes), but low-tech ubiquity to the point of a universal basic phone, and universal basic computer that can run on extremely low power, so low a tiny amount of sunlight can display text, make phone calls, and send emails.
+
+"People say, "We are going to make computers very smart," and they get all the funding. But what about making humans smarter? Collective intelligence is a research project about making people smarter with computers, and not making computers smarter than people. That's the real definition of collective intelligence."
+
+Thus what Levy is suggesting is, build a ubiquitously connnected world, allow the world to increase their collective intelligence (apparently by assuming more will see the signal in the hive consciousness, through the noise and echo chambers and chain mail and fake news, and 8 billion plus independent agents will autonomously improve their surroundings at a far more effective rate than a world where augmented AI along with trillions of IoT devices try to serve the rich and surveil the poor.
+
+Which isn't to say there isn't an ability for IoT to serve each human, but IoT is not nearly as a basic digital twin as a 2D pixelated screen that can send alphanumeric commands across an Ipv6 internet. Thus the first intelligent agent in all independent agents should always be the human, first and foremost. 
+
+
+---
+The Developer as Community Architect
+---
+Thus, in an ideal world where technologies are constantly evolving, job security can be improved with a strong training resource, one that employs more elite developers into community architects, receptive to mixed-space uses on diverse projects instead of being master architects with no input from the users. Quite different from serving a small group of shareholders, software and hardware architects could consult as closely as possible to the end-user with as few liasons as possible to develop technical solutions, much as an architect would design a custom built home for a bespoke customer. 
+
+---
+Collective Intelligence as an End-goal of Computing for All 
+---
+
+People say, "We are going to make computers very smart," and they get all the funding. But what about making humans smarter? Collective intelligence is a research project about making people smarter with computers, and not making computers smarter than people. That's the real definition of collective intelligence.
+
+
+
+https://www.vice.com/en/article/ypw9vw/how-the-internets-collective-human-intelligence-could-outsmart-ai
+
+
 ---
 
 
