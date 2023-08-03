@@ -206,6 +206,8 @@ As Pierre Levy once joked,
 
 "Okay, so Plato's Phaedrus is a very important dialogue. He said the exact same thing that you are about to say, but not with machines—with writing. He said, "What? You are going to put all the information we have into a library?" So, you have a library—say, the Library of Alexandria—and the totality of human knowledge is encoded here, and so we don't need professors anymore. Everyone is becoming unemployed. It's terrible! [laughs]. You know, there were more than 3,000 people in Paris in the 18th century whose job it was to bear water to people. Then, they invented plumbing, and ah! They lost their jobs! It's terrible!"
 
+https://www.vice.com/en/article/ypw9vw/how-the-internets-collective-human-intelligence-could-outsmart-ai
+
 Levy understands great changes in collective intelligence intiatives- not super high tech cycles like Stalin in Silicon Valley (as Barbrook describes), but low-tech ubiquity to the point of a universal basic phone, and universal basic computer that can run on extremely low power, so low a tiny amount of sunlight can display text, make phone calls, and send emails.
 
 "People say, "We are going to make computers very smart," and they get all the funding. But what about making humans smarter? Collective intelligence is a research project about making people smarter with computers, and not making computers smarter than people. That's the real definition of collective intelligence."
@@ -214,7 +216,7 @@ Thus what Levy is suggesting is, build a ubiquitously connnected world, allow th
 
 Which isn't to say there isn't an ability for IoT to serve each human, but IoT is not nearly as a basic digital twin as a 2D pixelated screen that can send alphanumeric commands across an Ipv6 internet. Thus the first intelligent agent in all independent agents should always be the human, first and foremost. 
 
-
+Levy's faith in Collective Intelligence in finding a solution mass unemployment from the race to the bottom wages being outsourced to the cheapest overseas country isn't because collective intelligence already has a solution for the problems that the employment scarcity that ubiquitous digital access creates, but rather that improved collective intelligence is more likely to create more solutions due to improvements in digital literacy and individual agency.  
 ---
 The Developer as Community Architect
 ---
