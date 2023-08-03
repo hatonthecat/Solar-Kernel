@@ -226,7 +226,7 @@ Thus what Levy is suggesting is, build a ubiquitously connnected world, allow th
 
 Which isn't to say there isn't an ability for IoT to serve each human, but IoT is not nearly as a basic digital twin as a 2D pixelated screen that can send alphanumeric commands across an IPv6 internet. Thus the first intelligent agent in all independent agent units should always be the human, first and foremost. An IoT can be the eyes and the ears of an agent, enhanced sentinels, but it is not, in most, if not all cases supposed to substitute the driver, as can be seen in many autonomous vehicle flaws/accidents. 
 
-Levy's faith in Collective Intelligence in finding a solution mass unemployment from the race to the bottom wages being outsourced to the cheapest overseas country isn't because collective intelligence already has a solution for the problems that the employment scarcity that ubiquitous digital access creates, but rather that improved collective intelligence is more likely to create more solutions due to improvements in digital literacy and individual agency.  
+Levy's faith in Collective Intelligence in finding a solution for mass unemployment from the race to the bottom wages being outsourced to the cheapest overseas country isn't because collective intelligence already has a solution for the problems that the employment scarcity that ubiquitous digital access creates, but rather because improved collective intelligence is more likely to create more solutions due to improvements in digital literacy and individual agency.  
 ---
 The Developer as Community Architect
 ---
