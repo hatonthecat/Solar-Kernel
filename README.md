@@ -85,6 +85,39 @@ In retrospect, all that open source cooperation back then, sounded just like a m
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/c5f0a253-24c3-414c-ba1f-b07d2a081b57)
 
+"The job of media is not to inform, but to misinform: Divert public attention from important issues and changes decided by the political and economic elites, by the technique of flood or continuous flood of distractions and insignificant information."
+
+https://www.autocraticforthepeople.com/2012/07/noam-chomsky-top-10-media-manipulation.html
+
+Noam Chomsky - "10 strategies of manipulation" by the media
+https://www.demenzemedicinagenerale.net/pdf/14-10-strategies-of-manipulation.pdf 
+
+"Renowned critic and always MIT linguist Noam Chomsky, one of the classic voices of
+intellectual dissent in the last decade, has compiled a list of the ten most common and
+effective strategies resorted to by the agendas “hidden” to establish a manipulation of the
+population through the media.
+Historically the media have proven highly efficient to mold public opinion. Thanks to the media
+paraphernalia and propaganda, have been created or destroyed social movements, justified
+wars, tempered financial crisis, spurred on some other ideological currents, and even given
+the phenomenon of media as producers of reality within the collective psyche.
+
+But how to detect the most common strategies for understanding these psychosocial tools
+which, surely, we participate? Fortunately Chomsky has been given the task of synthesizing
+and expose these practices, some more obvious and more sophisticated, but apparently all
+equally effective and, from a certain point of view, demeaning. Encourage stupidity, promote a
+sense of guilt, promote distraction, or construct artificial problems and then magically, solve
+them, are just some of these tactics.
+
+1. The strategy of distraction
+The primary element of social control is the strategy of distraction which is to divert public
+attention from important issues and changes determined by the political and economic elites,
+by the technique of flood or flooding continuous distractions and insignificant information.
+distraction strategy is also essential to prevent the public interest in the essential knowledge
+in the area of the science, economics, psychology, neurobiology and cybernetics.
+“Maintaining public attention diverted away from the real social problems, captivated by
+matters of no real importance. Keep the public busy, busy, busy, no time to think, back to
+farm and other animals (quote from text Silent Weapons for Quiet War ).”
+
 
 So my thinking is, why should I contribute to this giant database project or some super high-level programming language front end that has hundreds of dependencies that someone will never be able to experience themselves unless they are running a quad core 15 watt i3? I really have little interest in that. I think there is enough software for users to navigate their way across the internet to provide services. The phrase "hardware is hard" certainly got its name from this fear by software developers, that it is not just technically hard, but economically hard. I can't blame anyone. But with more awareness, perhaps this can change. Until then, it is still Victorian England in the designer market.
 
@@ -134,7 +167,21 @@ https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f87
 What LED lights could do in 2009 (https://archive.nytimes.com/green.blogs.nytimes.com/2009/09/23/bringing-solar-power-to-africas-poor/)
 <22nm CPUS can do on solar power in 2022. Ambiq Apollo 5 SoCs are said to be in development with an interest to run linux on 12nm, and 6nm (see: https://user-images.githubusercontent.com/76194453/246301923-84264e2a-edab-47a0-8731-054d0bc3d53b.png). Thus, the movers and shakers in bridging the Digital Divide are not AMD or Intel, who have had the resources to develop a true OLPC, but the "small startups", for lack of a better word. It remains to be seen whether the next few years will result in an influx of portable, and autarkic mobile computers, or, whether this product will be catered to an elite group of tech-consumers. The foundry space is there. The choice, however, is whether the tech-bros at Meta want the foundries to produce their VR chipsets instead of trying to connect the rest of the world first. 
 
+Thus, Chomsky's strategy #2 applies with new tech:
 
+"2. Create problems, then offer solutions
+
+ This method is also called “problem -reaction- solution.”
+ It creates a problem, a “situation” referred to cause some reaction in the audience, so this is the principal of the steps that you want to accept.
+ For example: let it unfold and intensify urban violence, or arrange for bloody attacks in order that the public is the applicant’s security laws and policies to the detriment of freedom.
+ Or create an economic crisis to accept as a necessary evil retreat of social rights and the dismantling of public services."
+
+ The problem is that your Apple Silicon circa 2020 is too old. The Solution is a VR Headset (so you can also forget about the real world):
+
+ ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/65e17dd8-61f4-4642-86c3-16946dde0e2a)
+
+https://www.reddit.com/r/mildlyinteresting/comments/11p1gzt/homeless_man_in_silicon_valley_with_vr_headset/
+ 
 Operating systems such as Slackware <9.1  and Slitaz, could run on it: 
 https://tiny.slitaz.org/ 
 https://distrowatch.com/?newsid=00777
