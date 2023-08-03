@@ -212,7 +212,7 @@ Levy understands great changes in collective intelligence intiatives- not super 
 
 "People say, "We are going to make computers very smart," and they get all the funding. But what about making humans smarter? Collective intelligence is a research project about making people smarter with computers, and not making computers smarter than people. That's the real definition of collective intelligence."
 
-Thus what Levy is suggesting is, build a ubiquitously connnected world, allow the world to increase their collective intelligence (apparently by assuming more will see the signal in the hive consciousness, through the noise and echo chambers and chain mail and fake news, and 8 billion plus independent agents will autonomously improve their surroundings at a far more effective rate than a world where augmented AI along with trillions of IoT devices try to serve the rich and surveil the poor.
+Thus what Levy is suggesting is, build a ubiquitously connnected world, allow the world to increase their collective intelligence (apparently by assuming more will see the signal in the hive consciousness, through the noise and echo chambers and chain mail and fake news) because 8 billion plus independent agents will autonomously improve their surroundings at a far more effective rate than a world where augmented AI along with trillions of IoT devices try to serve the rich and surveil the poor.
 
 Which isn't to say there isn't an ability for IoT to serve each human, but IoT is not nearly as a basic digital twin as a 2D pixelated screen that can send alphanumeric commands across an Ipv6 internet. Thus the first intelligent agent in all independent agents should always be the human, first and foremost. 
 
