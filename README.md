@@ -126,6 +126,15 @@ The amount of transistors needed to produce a VR headset is going to be in the h
 
 The first linux operating system ran on the Intel 30386, which had 275,000 transistors.
 
+https://www.quora.com/Why-was-it-so-hard-for-Unix-to-run-on-a-386-CPU-before-Linux
+A great point is that UNIX  was still a major competitor (it still is, but the ecosystem changed), until Linux came along. That much software could run on a 386 is no small fact. Obviously, most people today cannot rely on a 386 processor for most work (even an ARMv6 Raspberry Pi Zero v1.3 is far faster); however, Intel and Ambiq Micro have manufactured solar powered processors that have more FLOPS than a 80386, yet few chip designers have sought to harness this capability of the leading edge foundries to deliver solar powerable Nokia dumb phones and basic terminals for low cost and "low-tech" accessibility for many more individuals in the remotest villages:
+
+https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee
+
+What LED lights could do in 2009 (https://archive.nytimes.com/green.blogs.nytimes.com/2009/09/23/bringing-solar-power-to-africas-poor/)
+<22nm CPUS can do on solar power in 2022. Ambiq Apollo 5 SoCs are said to be in development with an interest to run linux on 12nm, and 6nm. Thus, the movers and shakers in bridging the Digital Divide are not AMD or Intel, who have had the resources to develop a true OLPC, but the "small startups", for lack of a better word. It remains to be seen whether the next few years will result in an influx of portable, and autarkic mobile computers, or, whether this product will be catered to an elite group of tech-consumers. The foundry space is there. The choice, however, is whether the tech-bros at Meta want the foundries to produce their VR chipsets instead of trying to connect the rest of the world first. 
+
+
 Operating systems such as Slackware <9.1  and Slitaz, could run on it: 
 https://tiny.slitaz.org/ 
 https://distrowatch.com/?newsid=00777
