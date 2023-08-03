@@ -198,9 +198,19 @@ With each person having access to telecommunications and information, the world 
 
 One reason developers are probably afraid to make computing extremely accessible with no barrier to entry, is the existential risk to their own occupation:
 
-Companies aware of the WFH trend are already seeking to get the lowest labor costs by outsourcing their workforce overseas. If an employee can work from home, an OLPC (fast enough to do customer service) suddenly has 3 billion extra candidates. Yet, the moral importance of connecting more of the world to the digital commons is far more important than the risk to one's job security. This is what distinguishes the the middlemanagement sympathetic to the shop floor to that of the technocracy that wants to keep the candidate pool as limited as possible. One of the reasons I believe it is important to develop a well-rounded skill set is so that one isn't limited in their craft. While general labor often times involves a lot of lifting, the adaptability of a job in generla labor still is a flexible type of work, something that skilled trades become far more inflexible as technologies evolve:
+Companies aware of the WFH trend are already seeking to get the lowest labor costs by outsourcing their workforce overseas. If an employee can work from home, an OLPC (fast enough to do customer service) suddenly has 3 billion extra candidates. Yet, the moral importance of connecting more of the world to the digital commons is far more important than the risk to one's job security. This is what distinguishes the the middlemanagement sympathetic to the shop floor to that of the technocracy that wants to keep the candidate pool as limited as possible. One of the reasons I believe it is important to develop a well-rounded skill set is so that one isn't limited in their craft. While general labor often times involves a lot of lifting, the adaptability of a job in general labor still is a flexible type of work, something that skilled trades become far more inflexible as technologies evolve:
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/28fbfae3-93f2-418d-a77e-ad6d5dcb599f)
+
+The pay scale is of course, another source of fear. The structure of employment and pay, especially with AI leading to further loss of employment, is likely to create a new demand for job security when automation requires less maintenance. It is very possible that existential crises will distill a new form of dialectical materialism, where most forms of high-tech progress gets re-appraised in a fire sale. Social networks that get absorbed by corporate raiders often get sold for pennies on the dollar:
+
+"Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die."
+
+https://boingboing.net/2023/08/02/cory-doctorows-new-book-on-beating-big-tech-at-its-own-game.html
+
+One wonders how much resale value hardware like VR, AR glasses and even self-driving cars will have when the parts cannot be reused without the entire product being totalled: [ https://www.businessinsider.com/why-tesla-cars-get-totaled-insurance-repair-costs-2023-6](https://www.caranddriver.com/news/a42709679/tesla-insurance-fixes-expense/)
+
+Thus, the high-tech world of disposable everything creates a world where backyards will one day becomes the next NIMBY landfills due to the actions of high-mass-produced, un-interoperable, and short-cycle hardware. 
 
 As Pierre Levy once joked,
 
