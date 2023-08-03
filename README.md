@@ -378,7 +378,6 @@ Processing power today has reached a transistor node that microcontrollers today
 
 ![image](https://user-images.githubusercontent.com/76194453/213939045-32f61a9d-9218-44e0-a896-494bda38e157.png)
 
-
 The more I think about this project, it is more an exploration of an economics issue. It seeks to address a gap in access to not just basic ownership of a phone, but a device that can accomplish simple communication and digital processing tasks without needing to devote a sizeable percentage of one's income to a phone plan. In some parts of the world, where one's salary is only a few dollars a month, owning a phone is a larger percentage of one's income than in higher GDP countries (where the cost of rent is also a very high proportion of one's income). consider the discontinuation of 2G and 3G cell phone towers in the U.S. It may not have affected many people that they needed to upgrade to a new phone as many already had a 4G or 5G device, but what happens when upgrading a device causes a significant hardship? Sometimes it is possible to do without a phone in urban environments, but in some places, a phone is a lifeline both for both one's ability to stay employed as well-as one's well being. I know I've veered into using the phrase phone quite frequently in the past paragraph. And that may be the most frequently used movile device. But phones are chosen because they are often convenient to carry, as they fit in a pocket, not because laptops are unaffordable to many. That said, what if our next superstar programmer is in a rural village with no internet or power? He or she wouldn't be able to learn/practice coding, even if someone donated them an i9 laptop, without a solar panel or wind turbine. Designing and  Manufacturing laptops with integrated solar panels is a one time transplant of solar to remote regions and creates a decentralized grid of computer access to the last 14% of people in the world without a phone/or electricity. To get there, software needs to be designed to match the low power of microprocessors, using already low power microprocesors.
 https://whossavingtheplanet.com/read/innovation/green-coding-sustainability-in-software/2020-10-04 Datacenters have done this for years:
 https://www.computerweekly.com/blog/Green-Tech/Green-coding-A-sustainability-practice-all-software-engineers-should-adhere-to
@@ -419,3 +418,5 @@ https://byrnehobart.medium.com/the-pirah%C3%A3-are-off-by-one-9c77eb66a6d9
 
 For more references, see my October 2022 post: https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/82800869.remaking-the-nokia-6110-and-psion.html
 (download RAW)
+
+"It is difficult to get a man to understand something when his salary depends on his not understanding it." Upton Sinclair
