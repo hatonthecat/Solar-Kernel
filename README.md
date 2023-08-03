@@ -160,7 +160,16 @@ The amount of transistors needed to produce a VR headset is going to be in the h
 The first linux operating system ran on the Intel 30386, which had 275,000 transistors.
 
 https://www.quora.com/Why-was-it-so-hard-for-Unix-to-run-on-a-386-CPU-before-Linux
-A great point is that UNIX  was still a major competitor (it still is, but the ecosystem changed), until Linux came along. That much software could run on a 386 is no small fact. Obviously, most people today cannot rely on a 386 processor for most work (even an ARMv6 Raspberry Pi Zero v1.3 is far faster); however, Intel and Ambiq Micro have manufactured solar powered processors that have more FLOPS than a 80386, yet few chip designers have sought to harness this capability of the leading edge foundries to deliver solar powerable Nokia dumb phones and basic terminals for low cost and "low-tech" accessibility for many more individuals in the remotest villages:
+A great point is that UNIX  was still a major competitor (it still is, but the ecosystem changed), until Linux came along. That much software could run on a 386 is no small fact. 
+
+Operating systems such as Slackware <9.1  and Slitaz, could run on it: 
+https://tiny.slitaz.org/ 
+https://distrowatch.com/?newsid=00777
+[https://i.redd.it/9x2py4ba6rg41.jpg ](https://www.reddit.com/r/retrobattlestations/comments/f3gj45/slackware_112_1994_on_my_386sx40/)
+
+Chips like these are more than powerful to send text messages, read bulletin board news, even make voip sessions. Foundries have plenty of wafers to produce a small 275,000 transistor chip for every person on earth. 
+
+Obviously, most people today cannot rely on a 386 processor for most work (even an ARMv6 Raspberry Pi Zero v1.3 is far faster); however, Intel and Ambiq Micro have manufactured solar powered processors that have more FLOPS than a 80386, yet few chip designers have sought to harness this capability of the leading edge foundries to deliver solar powerable Nokia dumb phones and basic terminals for low cost and "low-tech" accessibility for many more individuals in the remotest villages:
 
 https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee
 
@@ -182,12 +191,6 @@ Thus, Chomsky's strategy #2 applies with new tech:
 
 https://www.reddit.com/r/mildlyinteresting/comments/11p1gzt/homeless_man_in_silicon_valley_with_vr_headset/
  
-Operating systems such as Slackware <9.1  and Slitaz, could run on it: 
-https://tiny.slitaz.org/ 
-https://distrowatch.com/?newsid=00777
-[https://i.redd.it/9x2py4ba6rg41.jpg ](https://www.reddit.com/r/retrobattlestations/comments/f3gj45/slackware_112_1994_on_my_386sx40/)
-
-Chips like these are more than powerful to send text messages, read bulletin board news, even make voip sessions. Foundries have plenty of wafers to produce a small 275,000 transistor chip for every person on earth. 
 
 "The highest transistor count in a single chip processor is that of the deep learning processor Wafer Scale Engine 2 by Cerebras. It has 2.6 trillion MOSFETs in 84 exposed fields (dies) on a wafer, manufactured using TSMC's 7 nm FinFET process.[2][3][4][5][6] (2019)" 
 
