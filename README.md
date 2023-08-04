@@ -190,7 +190,8 @@ Thus, Chomsky's strategy #2 applies with new tech:
  ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/65e17dd8-61f4-4642-86c3-16946dde0e2a)
 
 https://www.reddit.com/r/mildlyinteresting/comments/11p1gzt/homeless_man_in_silicon_valley_with_vr_headset/
- 
+
+https://www.youtube.com/watch?v=K4XA6amZ8mk 
 
 "The highest transistor count in a single chip processor is that of the deep learning processor Wafer Scale Engine 2 by Cerebras. It has 2.6 trillion MOSFETs in 84 exposed fields (dies) on a wafer, manufactured using TSMC's 7 nm FinFET process.[2][3][4][5][6] (2019)" 
 
