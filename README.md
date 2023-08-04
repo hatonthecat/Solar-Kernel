@@ -228,6 +228,33 @@ Thus what Levy is suggesting is, build a ubiquitously connnected world, allow th
 
 Which isn't to say there isn't an ability for IoT to serve each human, but IoT is not nearly as a basic digital twin as a 2D pixelated screen that can send alphanumeric commands across an IPv6 internet. Thus the first intelligent agent in all independent agent units should always be the human, first and foremost. An IoT can be the eyes and the ears of an agent, enhanced sentinels, but it is not, in most, if not all cases supposed to substitute the driver, as can be seen in many autonomous vehicle flaws/accidents. 
 
+There is an emphasis on "smart"technology. "Smart" is a buzzword for new, when it necessitates administrative control over user agency. What is overshadowed by smart is the resourcefulness of dumb technology to allow the smarter user  to exercise agency. From Nathan Schneider's "Homesteading on a SuperHighway: THe California Ideology and Everyday Politics, he deconstructs the California ideology by citing earlier writings forseeing its decline: 
+
+"As the Californian Ideology’s anti-politics established itself on the West Coast, Agre was inverting
+it at MIT, calling for technology that invites people into developing skills through everyday politics. He
+concludes his essay “The Practical Republic”—the final essay listed on his faculty website before his sudden
+departure from public life—like this: “technology is not central; what is central are the choices that we make,
+each of us, in laying claim to the rights and responsibilities of citizenship in our own lives” (Agre, 2004,
+“Citizenship”). The technology that we need is technology that does not take or demand credit. brown seems
+to forget about Instagram on summoning her community there; the homeplace becomes the subject."
+
+from https://ijoc.org/index.php/ijoc/article/view/19342/4234 
+
+A similar parallel can be seen in the kernel development community. While ostensibly, kernel maintainers are the core of most widely used operating systems of today (Android, linux servers), they also play a role as the sysadmins of operating systems and limitations of hardware that frame the user experience. 
+
+Thus, as in the phrase "Wag the dog", is software ruling hardware, or hardware ruling software? 
+
+![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/16c3671c-9cf8-45fc-ab90-840fc67835e1)
+
+While anyone can create a kernel and use any combination of kernel modules, there is still a walled garden effect with ecosystems. GPL and BSD are two types of licenses, and enforcement and forks are another issue. 
+
+Since this repository is about kernels, I will circle back to the original focus: A comic can best explain how kernel processes work:
+
+https://www.oilshell.org/blog/2020/04/comics.html
+![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/234bca03-75af-48ed-8344-78f38322b32a)
+
+While application processors offer a userspace environment, its processes, at their core, are very deterministic. The above caption suggests that the machinations of kernel development, are anything but simple. While userspace does allow for some limited navigation, in a poorly designed, bloated operating system, the user is at the mercy of the kernel space (and its design). This isn't to suggest that kernels are bad-in fact these notes wouldn't be possible a misbehaving kernel supervisor. What these notes seek to explore, however, is how much supervison do users really need, when they can choose more application-specific operating systems, ones that can provide more efficiency, not just in energy (shutting down large swaths of unused kernel drivers), but improving focus until the inevitable context switch is needed (for both the user and the kernel)? To that, I would suggest kernel development be more tailored to individual applications, hence serial operating application processor (SOAP).
+
 Levy's faith in Collective Intelligence in finding a solution for mass unemployment from the race to the bottom wages being outsourced to the cheapest overseas country isn't because collective intelligence already has a solution for the problems that the employment scarcity that ubiquitous digital access creates, but rather because improved collective intelligence is more likely to create more solutions due to improvements in digital literacy and individual agency.  
 ---
 The Developer as Community Architect
