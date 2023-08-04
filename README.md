@@ -238,11 +238,13 @@ each of us, in laying claim to the rights and responsibilities of citizenship in
 “Citizenship”). The technology that we need is technology that does not take or demand credit. brown seems
 to forget about Instagram on summoning her community there; the homeplace becomes the subject."
 
+from https://ijoc.org/index.php/ijoc/article/view/19342/4234 
+
 Technology that does not take or demand credit, by definition, is a dumb phone, a dumb terminal. A smart phone, and a smart phone, takes notes, "notes the delay", and "notes the time":
 
 https://www.youtube.com/watch?v=S_Yyzqx7hhs
 
-from https://ijoc.org/index.php/ijoc/article/view/19342/4234 
+
 
 A similar parallel can be seen in the kernel development community. While ostensibly, kernel maintainers are the core of most widely used operating systems of today (Android, linux servers), they also play a role as the sysadmins of operating systems and limitations of hardware that frame the user experience. 
 
