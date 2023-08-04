@@ -240,7 +240,7 @@ to forget about Instagram on summoning her community there; the homeplace become
 
 from https://ijoc.org/index.php/ijoc/article/view/19342/4234 
 
-Technology that does not take or demand credit, by definition, is a dumb phone, a dumb terminal. A smart phone, and a smart phone, takes notes, "notes the delay", and "notes the time":
+Technology that does not take or demand credit, by definition, is a dumb phone, a dumb terminal. A smart phone takes notes, "the delay has been logged", and "notes the time":
 
 https://www.youtube.com/watch?v=S_Yyzqx7hhs
 
