@@ -265,7 +265,7 @@ Thus my "thought-probe" is my pastiche (if you view the glass half-full) of the 
 
 While the sentence may appear to be a fragment, the low battery indicator is meant to indicate "the powerless", both literal and figurative. In that powerless could be a powerless person, or a person who has an otherwise functioning laptop or cell phone, but with low battery.
 
-Marshall McLuhan's "The Medium is the Message" could be combined with " ‘At the height of the Cold War, the US military funded the creation of the only working model of communism in human history: the Internet!’" to suggest that "the message is not accessible to all, because the medium is not accessible to all."
+Marshall McLuhan's "The Medium is the Message" could be combined with Barbrook's "‘At the height of the Cold War, the US military funded the creation of the only working model of communism in human history: the Internet!’" to suggest that "the message is not accessible to all, because the medium is not accessible to all." It thus could refute the 2nd statement, since it was not completely successful. However, that may have been the intention, as McLuhan also wasn't interested in playing either side.
 
 ---
 
