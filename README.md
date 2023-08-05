@@ -228,6 +228,43 @@ Thus what Levy is suggesting is, build a ubiquitously connnected world, allow th
 
 Which isn't to say there isn't an ability for IoT to serve each human, but IoT is not nearly as a basic digital twin as a 2D pixelated screen that can send alphanumeric commands across an IPv6 internet. Thus the first intelligent agent in all independent agent units should always be the human, first and foremost. An IoT can be the eyes and the ears of an agent, enhanced sentinels, but it is not, in most, if not all cases supposed to substitute the driver, as can be seen in many autonomous vehicle flaws/accidents. 
 
+Pierre Levy's non-resistance to technological change, as demonstrated by his amusement at the ancient professors fear of the embrace of writing and books Library of Alexandria, and his embrace of plumbing in 18th century Paris, suggests non-resistance to accelerationist beliefs:
+
+https://en.wikipedia.org/wiki/Accelerationism 
+
+"Accelerationism is a range of Marxist ideas in critical theory—and reactionary ideas in right-wing ideology—that call for the drastic intensification of capitalist growth, technological change, infrastructure sabotage and other processes of social change to destabilize existing systems and create radical social transformations, otherwise referred to as "acceleration".[1][2][3][4] It has been regarded as an ideological spectrum divided into mutually contradictory left-wing and right-wing variants, both of which support the indefinite intensification of capitalism and its structures as well as the conditions for a technological singularity, a hypothetical point in time where technological growth becomes uncontrollable and irreversible.[5][6][7]"
+
+Alarmist concerns aside, the placement of any single individual in the spectrum should not be assumed. However, this draft explores to what extent that current changes in AI are embraced, and the valves that increase access to internet are resisted by the technocratic class.
+
+"Differential technological development is a strategy of technology governance aiming to decrease risks from emerging technologies by influencing the sequence in which they are developed. On this strategy, societies would strive to delay the development of harmful technologies and their applications, while accelerating the development of beneficial technologies, especially those that offer protection against the harmful ones.[1][2]"
+
+Therefore, there is a clear decision-making process by well-funded venture capitalists on the direction of semiconductor design. They have decided that AI is more important than solar power, therefore this essay/draft can serve as a purely contrarian exercise into questioning why that direction is considered to have more merit. 
+
+I take the same contrarian approach as Richard Barbrook did at a guest lecture in 1998 at Fordham University, following the tradition of Marshall McLuhan:
+
+". In 1998, as this speculative frenzy was reaching its peak, I was
+contacted by Lance Strate from Fordham University in New York who was organising the
+50th anniversary celebration of the first time that Marshall McLuhan had taught at this
+esteemed institution. ‘We’ve got lots of academics giving papers at our event,’ he told me,
+‘but they’re all very respectable. I was wondering whether you could stir things up by creating a suitably wacky McLuhan-style ‘thought probe’ for the conference?’ Intrigued by Lance’s request, I set to work on the lecture which was the starting point for the second
+article in this book. Back in the 1960s, McLuhan’s thought probes had provoked his audiences with wild assertions which encouraged them think about contemporary reality in a different way. For instance, in one of his most famous slogans, he emphasised that people
+were more influenced by the psychological impact of communications technologies than
+their ideological content: ‘the medium is the message’. Much to his delight, McLuhan
+had succeeded in outraging both the defenders of bourgeois morality and the devotees of
+Bolshevik politics. My task for Lance was now to devise a similarly contrarian proposition.
+Since the conventional wisdom in the late-1990s was that the Net was the apotheosis of
+free market capitalism, I thought why not argue the exact opposite? The faith of the Californian Ideologists in the unilinear march of history towards hi-tech neoliberalism had long reminded me of Stalinist hymns to the inevitable victory of ‘really existing socialism’
+during the Cold War. The widespread flouting of copyright could easily be interpreted as
+the imminent demise of commodity production within the emerging information economy. Delighted that I’d found the perfect thought probe, I was ready for my intervention at Fordham’s McLuhan conference. When my turn came, I went up to the podium and began my talk by loudly proclaiming: ‘At the height of the Cold War, the US military funded the creation of the only working model of communism in human history: the Internet!’"
+
+Thus my "thought-probe" is my pastiche (if you view the glass half-full) of the NBC telethon after Hurricane Katrina in 2005. As an environmentalist, I believe in recycling media to adapt meanings for an era where there can be a relevant analogy. While it can be said that Ye's statement did not age well, the moment was a rare act of vulnerable and true espression that was not just a hiccup in the annals of history. It did not occur out of nowhere, and therefore its cache resonated because others identified with it:
+
+"Though unrehearsed and emotionally fueled, Kanye’s speech wasn’t nonsense. It was messy because grief is messy. It was complex because the truth is. He’s expected to say something along the lines of whatever passive and inoffensive text Myers read off of the teleprompter, but instead he says, “I hate the way they portray us in the media.” He gives examples. He confesses his own complicity. He states facts. He presents a logical conclusion. I often consider the conditions that create revolutions, and the acts that might be deemed revolutionary. How an average person, not otherwise a political actor, might be an agent of change. How maybe resistance looks like interruption."
+
+^from https://www.thecut.com/2018/03/i-think-about-this-a-lot-kanye-west-at-the-katrina-telethon.html
+
+---
+
 There is an emphasis on "smart"technology. "Smart" is a buzzword for new, when it necessitates administrative control over user agency. What is overshadowed by smart is the resourcefulness of dumb technology to allow the smarter user  to exercise agency. From Nathan Schneider's "Homesteading on a SuperHighway: THe California Ideology and Everyday Politics, he deconstructs the California ideology by citing earlier writings forseeing its decline: 
 
 "As the Californian Ideology’s anti-politics established itself on the West Coast, Agre was inverting
