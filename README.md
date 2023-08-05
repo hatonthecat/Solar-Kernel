@@ -263,6 +263,10 @@ Thus my "thought-probe" is my pastiche (if you view the glass half-full) of the 
 
 ^from https://www.thecut.com/2018/03/i-think-about-this-a-lot-kanye-west-at-the-katrina-telethon.html
 
+While the sentence may appear to be a fragment, the low battery indicator is meant to indicate "the powerless", both literal and figurative. In that powerless could be a powerless person, or a person who has an otherwise functioning laptop or cell phone, but with low battery.
+
+Marshall McLuhan's "The Medium is the Message" could be combined with " ‘At the height of the Cold War, the US military funded the creation of the only working model of communism in human history: the Internet!’" to suggest that "the message is not accessible to all, because the medium is not accessible to all."
+
 ---
 
 There is an emphasis on "smart"technology. "Smart" is a buzzword for new, when it necessitates administrative control over user agency. What is overshadowed by smart is the resourcefulness of dumb technology to allow the smarter user  to exercise agency. From Nathan Schneider's "Homesteading on a SuperHighway: THe California Ideology and Everyday Politics, he deconstructs the California ideology by citing earlier writings forseeing its decline: 
