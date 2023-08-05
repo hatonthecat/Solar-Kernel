@@ -240,9 +240,9 @@ Alarmist concerns aside, the placement of any single individual in the spectrum 
 
 Therefore, there is a clear decision-making process by well-funded venture capitalists on the direction of semiconductor design. They have decided that AI is more important than solar power, therefore this essay/draft can serve as a purely contrarian exercise into questioning why that direction is considered to have more merit. 
 
-I take the same contrarian approach as Richard Barbrook did at a guest lecture in 1998 at Fordham University, following the tradition of Marshall McLuhan:
+I take the same contrarian approach as Richard Barbrook did at a guest lecture in 1998 at Fordham University, following the tradition of Marshall McLuhan, from his essay, "The Owl of Minerva Flies at Dusk":
 
-". In 1998, as this speculative frenzy was reaching its peak, I was
+"In 1998, as this speculative frenzy was reaching its peak, I was
 contacted by Lance Strate from Fordham University in New York who was organising the
 50th anniversary celebration of the first time that Marshall McLuhan had taught at this
 esteemed institution. ‘We’ve got lots of academics giving papers at our event,’ he told me,
