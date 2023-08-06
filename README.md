@@ -265,6 +265,9 @@ I already want to bridge an even earlier critic, to the train- William Morris: h
 
 The rise of feature-creep and 3D graphical performance today in operating systems is comparable to the "ornament" that Morris and Jones criticized, which users must pay a premium for. Even if the most underpowered Qualcomm or Exynos Chip uses a MaliGPU driver, it taxes the battery life far more than a 2D, spartan-like Nokia phone with Symbian S60. 
 
+![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/afffe495-3b5a-494b-8112-96ff5989ba9e)
+
+
 I take the same contrarian approach as Richard Barbrook did at a guest lecture in 1998 at Fordham University, following the tradition of Marshall McLuhan, from his essay, "The Owl of Minerva Flies at Dusk":
 
 "In 1998, as this speculative frenzy was reaching its peak, I was
