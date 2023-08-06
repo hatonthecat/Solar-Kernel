@@ -259,6 +259,12 @@ Walter Benjamin's 1935 “The Work of Art in the Age of Mechanical Reproduction,
 
 https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction I have been thinking of this topic on mass production, because, art and telecommunications began to share mass-production as a more common medium in the 20th century.
 
+I already want to bridge an even earlier critic, to the train- William Morris: https://en.wikipedia.org/wiki/Arts_and_Crafts_movement#Critique_of_industry and Owen Jones (1809–1874)
+
+"Jones declared that ornament "must be secondary to the thing decorated", that there must be "fitness in the ornament to the thing ornamented", and that wallpapers and carpets must not have any patterns "suggestive of anything but a level or plain".[14] A fabric or wallpaper in the Great Exhibition might be decorated with a natural motif made to look as real as possible, whereas these writers advocated flat and simplified natural motifs. Redgrave insisted that "style" demanded sound construction before ornamentation, and a proper awareness of the quality of materials used. "Utility must have precedence over ornamentation."[15]"
+
+The rise of feature-creep and 3D graphical performance today in operating systems is comparable to the "ornament" that Morris and Jones criticized, which users must pay a premium for. Even if the most underpowered Qualcomm or Exynos Chip uses a MaliGPU driver, it taxes the battery life far more than a 2D, spartan-like Nokia phone with Symbian S60. 
+
 I take the same contrarian approach as Richard Barbrook did at a guest lecture in 1998 at Fordham University, following the tradition of Marshall McLuhan, from his essay, "The Owl of Minerva Flies at Dusk":
 
 "In 1998, as this speculative frenzy was reaching its peak, I was
