@@ -267,6 +267,28 @@ While the sentence may appear to be a fragment, the low battery indicator is mea
 
 Marshall McLuhan's "The Medium is the Message" could be combined with Barbrook's "‘At the height of the Cold War, the US military funded the creation of the only working model of communism in human history: the Internet!’" to suggest that "the message is not accessible to all, because the medium is not accessible to all." It thus could refute the 2nd statement, since it was not completely successful. However, that may have been the intention, as McLuhan also wasn't interested in playing either side.
 
+As the internet arrived in the 90s to the masses, journalists began to write about the commercialization of Linux:
+
+https://archive.nytimes.com/www.nytimes.com/library/tech/99/10/biztech/articles/18linu.html
+
+"Others disagree. "Only the trade press is really squeaking about this," said Eric S. Raymond, president of the Open Source Initiative, a programmer group, because it makes a good story hook when you have nothing real to write about and the advertising department is pressuring you to make closed-software vendors look good.
+
+Raymond added: "The actual Linux developers know better. Fragmentation isn't going to happen, because developers outside of the Linux distributors effectively control all the key pieces." That is because Torvalds and a small group of his colleagues control the Linux standard and subject all modifications to peer review."
+
+Linux was a very clever marketing campaign, something thought of by someone like Don Draper, or Apple's marketing department. 
+
+![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/36c7ae4a-37f0-4df0-beef-de240af6fe1c)
+
+Thus Linus is selling Happiness, in a libertarian, neo-liberal market. It certainly works as a cover:
+
+![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/2d5bbb71-725a-46b1-b64d-019166d3d55d)
+
+https://www.computerworld.com/article/2566721/commercialization-of-linux-helps-microsoft--exec-says.html
+
+I think of McLuhan and Barbrook as Situationist-like Don-Drapers. They pose a question, but one that doesn't promote the product. In the 60s, it was the one-way TV. In the 90s, it was the 2-way Internet. The advertising "defender of the free world" can be re-examined since today linux is disproportionately focused on software, and not hardware. In that way, it seeks to downplay and distract attention away from the medium (since it is not accessible to all), towards the message. Thus it is offering the promise to the medium, the same way Spacelink is promising internet access to all. But would anyone want their internet to run under a single company, if given the chance? Linux is the message; the medium exists in a walled garden, and the messsage, even if it were accessible, may not even be applicable to those who want it. Thus, for all those who cannot afford the internet, must rely on the newspaper, or the ancient herald:
+
+![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/84481e5e-d208-489b-aea5-9cbd68548a1a)
+
 ---
 
 There is an emphasis on "smart"technology. "Smart" is a buzzword for new, when it necessitates administrative control over user agency. What is overshadowed by smart is the resourcefulness of dumb technology to allow the smarter user  to exercise agency. From Nathan Schneider's "Homesteading on a SuperHighway: THe California Ideology and Everyday Politics, he deconstructs the California ideology by citing earlier writings forseeing its decline: 
