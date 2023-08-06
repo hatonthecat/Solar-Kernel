@@ -389,11 +389,11 @@ https://www.lawinsider.com/dictionary/non-competitive-products
 
 I find it a curious aspect that much of the software ecosystem is centered around competitive product development. If hardware were designed not to compete against higher performance products, would it appear any less intimidating? Developers do not seem to think power consumption is an issue in bridging the digital divide. See this article for confirmation: https://semiengineering.com/a-power-first-approach/ I am starting to see it as the central roadblock.
 
-Speed is a relativistic concept. in a region world with internet for 1 minute a day may be better for receiving information from the outside world than one with no information at all. If i only had 1 minute to send a text a day, I would surely send my most important information. The predominate Global North logic of today:
+Speed is a relativistic concept. in a region world with internet for 1 minute a day may be better for receiving information from the outside world than one with no information at all. If i only had 1 minute to send a text a day, I would surely send my most important information. The predominate Global North logic of today, in order of highest importance:
 
 1. Slow hardware has no use today, and people always want faster software.
-2. Slow hardware has a use, but it is counterintuitive to develop it because it is expensive.
-3. Slow hardware has a use, and it is worth the cost in the long term.
+2. Slow hardware has a use, but it is counterintuitive to develop it in short-term and long-term because it is expensive.
+3. Slow hardware has a use, but and it is worth the cost in the long term, when all other options have been exhausted.
 
 I should add, that slow hardware is not actually slow, if one can efficiently design a simple 2D CLI/GUI without graphics acceleration for the purpose of displaying text. in the minimum number of pixels to be legible.
 
