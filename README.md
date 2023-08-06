@@ -270,7 +270,7 @@ I already want to bridge an even earlier critic, to the train- William Morris (1
 
 The rise of feature-creep and 3D graphical performance today in operating systems is comparable to the "ornament" that Morris and Jones criticized, which users must pay a premium for. Even if the most underpowered Qualcomm or Exynos Chip uses a MaliGPU driver, it taxes the battery life far more than a 2D, spartan-like Nokia phone with Symbian S60. 
 
-Barbrook, likewise, refers to Minitel as a "dumb terminal," but not disparangingly. Rather, he higlights the success of an internet that was able to connect many people, without ornament. While Minitel was of an era, the technology today does not need to evolve so quickly as to become obsolete- while landlines are certainly outdated, 40-50 year old protocols that still exist today could be paired with more efficient semiconductors powering 2d operating systems, low-power screens, and wireless radios.
+Barbrook, likewise, refers to Minitel as a "dumb terminal," but not disparagingly. Rather, he higlights the success of an internet that was able to connect many people, without ornament. While Minitel was of an era, the technology today does not need to evolve so quickly as to become obsolete- while landlines are certainly outdated, 40-50 year old protocols that still exist today could be paired with more efficient semiconductors powering 2d operating systems, low-power screens, and wireless radios.
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/afffe495-3b5a-494b-8112-96ff5989ba9e)
 
