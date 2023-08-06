@@ -260,6 +260,8 @@ Walter Benjamin's 1935 “The Work of Art in the Age of Mechanical Reproduction,
 
 https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction I have been thinking of this topic on mass production, because, art and telecommunications began to share mass-production as a more common medium in the 20th century.
 
+"In "The Work of Art in the Age of Mechanical Reproduction" (1935), Walter Benjamin presents the thematic basis for a theory of art by quoting the essay "The Conquest of Ubiquity" (1928), by Paul Valéry, to establish how works of art created and developed in past eras are different from contemporary works of art; that the understanding and treatment of art and of artistic technique must progressively develop in order to understand a work of art in the context of the modern time."
+
 I already want to bridge an even earlier critic, to the train- William Morris (1834-1896): https://en.wikipedia.org/wiki/Arts_and_Crafts_movement#Critique_of_industry and Owen Jones (1809–1874)
 
 "Jones declared that ornament "must be secondary to the thing decorated", that there must be "fitness in the ornament to the thing ornamented", and that wallpapers and carpets must not have any patterns "suggestive of anything but a level or plain".[14] A fabric or wallpaper in the Great Exhibition might be decorated with a natural motif made to look as real as possible, whereas these writers advocated flat and simplified natural motifs. Redgrave insisted that "style" demanded sound construction before ornamentation, and a proper awareness of the quality of materials used. "Utility must have precedence over ornamentation."[15]"
