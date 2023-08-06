@@ -268,6 +268,11 @@ The rise of feature-creep and 3D graphical performance today in operating system
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/afffe495-3b5a-494b-8112-96ff5989ba9e)
 
+The roles each theorist was not solely of criticism- some were Quality Assurance- as in Morris. Others were more observers- but each highlighted generational changes to how both information and products were accessed or divided.
+
+"In a culture like ours, long accustomed to splitting and dividing all things as a
+means of control, it is sometimes a bit of a shock to be reminded that, in opera-
+tional and practical fact, the medium is the message." McLuhan's introductory paragraph begins- thus the frame of the argument begins. Is the medium interesting? Who knows who will want the message? Maybe some reject the message, because the medium is too expensive.
 
 I take the same contrarian approach as Richard Barbrook did at a guest lecture in 1998 at Fordham University, following the tradition of Marshall McLuhan, from his essay, "The Owl of Minerva Flies at Dusk":
 
