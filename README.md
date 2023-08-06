@@ -258,7 +258,9 @@ Tracing the Morris-Benjamin-McLuhan-Barbook Path
 
 Walter Benjamin's 1935 “The Work of Art in the Age of Mechanical Reproduction,” could almost be considered a pre-cursor to McLuhan's 1964 essay, "The Medium is the Message".
 
-https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction I have been thinking of this topic on mass production, because, art and telecommunications began to share mass-production as a more common medium in the 20th century.
+https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction I have been thinking of this topic on mass production, because, art and telecommunications began to share mass-production as a more common medium in the 20th century:
+
+"and that in the age of mechanical reproduction and the absence of traditional and ritualistic value, the production of art would be inherently based upon the praxis of politics. "
 
 "In "The Work of Art in the Age of Mechanical Reproduction" (1935), Walter Benjamin presents the thematic basis for a theory of art by quoting the essay "The Conquest of Ubiquity" (1928), by Paul Valéry, to establish how works of art created and developed in past eras are different from contemporary works of art; that the understanding and treatment of art and of artistic technique must progressively develop in order to understand a work of art in the context of the modern time."
 
