@@ -238,6 +238,8 @@ https://en.wikipedia.org/wiki/Rise_of_the_Robots_(book)
 
 https://www.latimes.com/books/jacketcopy/la-ca-jc-martin-ford-20150524-story.html
 
+https://www.youtube.com/watch?v=NZjvYFFVr1s
+
 Pierre Levy's non-resistance to technological change, as demonstrated by his amusement at the ancient professors fear of the embrace of writing and books Library of Alexandria, and his embrace of plumbing in 18th century Paris, suggests non-resistance to accelerationist beliefs:
 
 https://en.wikipedia.org/wiki/Accelerationism 
