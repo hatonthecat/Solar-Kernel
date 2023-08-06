@@ -228,6 +228,14 @@ Thus what Levy is suggesting is, build a ubiquitously connnected world, allow th
 
 Which isn't to say there isn't an ability for IoT to serve each human, but IoT is not nearly as a basic digital twin as a 2D pixelated screen that can send alphanumeric commands across an IPv6 internet. Thus the first intelligent agent in all independent agent units should always be the human, first and foremost. An IoT can be the eyes and the ears of an agent, enhanced sentinels, but it is not, in most, if not all cases supposed to substitute the driver, as can be seen in many autonomous vehicle flaws/accidents. 
 
+In Martin Ford's 2015 "Rise of the Robots" (Also the name of a futuristic Super Nintendo Game that I read about in Nintendo Power in the late 90s), 
+
+"What are the jobs of the future? How many will there be? And who will have them? As technology continues to accelerate and machines begin taking care of themselves, fewer people will be necessary. Artificial intelligence is already well on its way to making "good jobs" obsolete: many paralegals, journalists, office workers, and even computer programmers are poised to be replaced by robots and smart software. As progress continues, blue and white collar jobs alike will evaporate, squeezing working -- and middle-class families ever further. At the same time, households are under assault from exploding costs, especially from the two major industries-education and health care-that, so far, have not been transformed by information technology. The result could well be massive unemployment and inequality as well as the implosion of the consumer economy itself. [1]"
+
+"The Guardian's review points out the book gets more speculative as it goes on, and states: "Although it may be difficult to overstate the dangers posed by the new technology", Rise may have managed to do so, but is regardless well worth reading.[6] "
+
+https://en.wikipedia.org/wiki/Rise_of_the_Robots_(book)
+
 Pierre Levy's non-resistance to technological change, as demonstrated by his amusement at the ancient professors fear of the embrace of writing and books Library of Alexandria, and his embrace of plumbing in 18th century Paris, suggests non-resistance to accelerationist beliefs:
 
 https://en.wikipedia.org/wiki/Accelerationism 
