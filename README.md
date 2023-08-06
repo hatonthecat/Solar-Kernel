@@ -295,9 +295,9 @@ The success of Linux shows that kernel, OS, and application software ecosystems 
 
 Hackaday wrote "The State of the SBC Interface Ecosystem: Is it Time to Design a Standard?" 10/2022: https://hackaday.com/2022/10/05/the-state-of-the-sbc-interface-ecosystem-is-it-time-to-design-a-standard/ 
 
-https://hackaday.com/wp-content/uploads/2022/09/standards.png
+![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/1524c53d-6737-432b-8c6a-dd7fbb05c61e)
 
-One can apply standards to many components of a hardware, and even while 2 competing standards may never reach an agreement, let alone 14, it is a question that even a non technical person can ask: "can we get along?"
+One can apply standards to many components of a hardware, and even while 2 competing standards may never reach an agreement, let alone 14, it is a question that even a non technical person can ask: "Can we get along?"
 
 ---
 
