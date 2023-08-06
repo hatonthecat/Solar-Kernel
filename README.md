@@ -250,7 +250,14 @@ Alarmist concerns aside, the placement of any single individual in the spectrum 
 
 "Differential technological development is a strategy of technology governance aiming to decrease risks from emerging technologies by influencing the sequence in which they are developed. On this strategy, societies would strive to delay the development of harmful technologies and their applications, while accelerating the development of beneficial technologies, especially those that offer protection against the harmful ones.[1][2]"
 
+---
+Tracing the Benjamin-McLuhan-Barbook Path
+---
 Therefore, there is a clear decision-making process by well-funded venture capitalists on the direction of semiconductor design. They have decided that AI is more important than solar power, therefore this essay/draft can serve as a purely contrarian exercise into questioning why that direction is considered to have more merit. 
+
+Walter Benjamin's 1935 “The Work of Art in the Age of Mechanical Reproduction,” could almost be considered a pre-cursor to McLuhan's 1964 essay, "The Medium is the Message".
+
+https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction I have been thinking of this topic on mass production, because, art and telecommunications began to share mass-production as a more common medium in the 20th century.
 
 I take the same contrarian approach as Richard Barbrook did at a guest lecture in 1998 at Fordham University, following the tradition of Marshall McLuhan, from his essay, "The Owl of Minerva Flies at Dusk":
 
