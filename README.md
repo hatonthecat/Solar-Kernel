@@ -409,7 +409,7 @@ Isn't that what Web Analytics do today? Except for the Webadmin? It appears Wire
 The article clearly labels McLuhan as a random, irreverent mystic- seeking to label him as a clown 16 years after his death suggests Wired was still afraid of his influence.
 
 "His characteristic comment during one academic debate has taken on a mythic life of its own. In response to a renowned American sociologist, McLuhan countered: "You don't like those ideas? I got others."
-In my attempt to be a partial McLuhan's apologist, at least in that intriguing statement, I think he viewed discussion not as a debate, with a pre-conceived arsenal of statements, ready to invoke upon attack, but as a dialectic: https://en.wikipedia.org/wiki/Dialectic
+In my hagiographic attempt to be a partial McLuhan's apologist, at least in that intriguing statement, I think he viewed discussion not as a debate, with a pre-conceived arsenal of statements, ready to invoke upon attack, but as a dialectic: https://en.wikipedia.org/wiki/Dialectic
 
 
 The Developer as Community Architect
