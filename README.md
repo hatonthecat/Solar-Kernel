@@ -414,7 +414,7 @@ In my attempt to be a partial McLuhan's apologist, at least in that intriguing s
 
 The Developer as Community Architect
 ---
-Thus, in an ideal world where technologies are constantly evolving, job security can be improved with a strong training resource, one that employs more elite developers into community architects, receptive to mixed-space uses on diverse projects instead of being master architects with no input from the users. Quite different from serving a small group of shareholders, software and hardware architects could consult as closely as possible to the end-user with as few liasons as possible to develop technical solutions, much as an architect would design a custom built home for a bespoke customer. 
+In an ideal world where technologies are constantly evolving, job security can be improved with a strong training resource, one that employs more elite developers into community architects, receptive to mixed-space uses on diverse projects instead of being master architects with no input from the users. Quite different from serving a small group of shareholders, software and hardware architects could consult as closely as possible to the end-user with as few liasons as possible to develop technical solutions, much as an architect would design a custom built home for a bespoke customer. 
 
 ---
 Collective Intelligence as an End-goal of Computing for All 
