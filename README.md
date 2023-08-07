@@ -192,6 +192,10 @@ Thus, Chomsky's strategy #2 applies with new tech:
 
 https://www.reddit.com/r/mildlyinteresting/comments/11p1gzt/homeless_man_in_silicon_valley_with_vr_headset/
 
+https://en.wikipedia.org/wiki/Experience_machine#In_fiction
+
+"It also is a running theme of the 1999 film The Matrix.[13] Agent Smith's account of the early history of the Matrix includes the idea that humans reject a virtual reality that offers them paradise; however, later his informant Cypher is willing to betray his colleagues because he would prefer to be reinserted into an (admittedly less perfect) Matrix as a wealthy and successful man than continue to live in the harsh realities outside the simulation."
+
 https://www.youtube.com/watch?v=K4XA6amZ8mk 
 
 "The highest transistor count in a single chip processor is that of the deep learning processor Wafer Scale Engine 2 by Cerebras. It has 2.6 trillion MOSFETs in 84 exposed fields (dies) on a wafer, manufactured using TSMC's 7 nm FinFET process.[2][3][4][5][6] (2019)" 
