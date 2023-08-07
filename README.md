@@ -379,7 +379,39 @@ While application processors offer a userspace environment, its processes, at th
 The role of the kernel developer is somewhat like the feudal lord- a parent to a userspace child who will never learn the craft of supervision. Thus, the user in many ways is a serf to the operating system- no say in the scheduling of tasks, no say in the permit to travel to other provinces or ecosystems (unless "portable" and architecture independent source code).
 
 Levy's faith in Collective Intelligence in finding a solution for mass unemployment from the race to the bottom wages being outsourced to the cheapest overseas country isn't because collective intelligence already has a solution for the problems that the employment scarcity that ubiquitous digital access creates, but rather because improved collective intelligence is more likely to create more solutions due to improvements in digital literacy and individual agency.  
+
 ---
+A Timeline of Wired's Response from Mute Magazine's 1995 Publication of Barbrook's California Ideology (09-01) to Wired's Hit Piece on McLuhan 1-01-1996
+---
+"The original essay was published in Mute magazine[2] in 1995 and later appeared on the nettime Internet mailing list for debate. " September 1, 1995:
+
+https://en.wikipedia.org/wiki/The_Californian_Ideology#cite_note-Barbrook,_Cameron_1995-2
+https://www.metamute.org/editorial/articles/californian-ideology
+
+"In contrast, Wired magazine publisher Louis Rossetto criticized the essay as showing "a profound ignorance of economics".[4]
+ 
+ https://web.archive.org/web/19970614205217/http://www.wmin.ac.uk/media/HRC/ci/calif2.html
+
+On January 1st, 1996, Wired went after Barbrook's shaman, McLuhan: https://www.wired.com/1996/01/saint-marshal/ The Wisdom of Saint Marshall, the Holy Fool
+
+While a good biography of the academic's life, some of the criticisms appear questionable:
+
+"Also, McLuhan was never a cheerleader for the technological elite. "There are many people for whom 'thinking' necessarily means identifying with existing trends," he wrote in a 1974 missive to the The Toronto Star. In this letter, McLuhan warned that electronic civilization was creating conditions in which human life would be treated as an expendable fungus, and he passionately protested against it."
+
+A proper academic/philosopher would not be identifying with a trend, but identifying it, to demonstrate thinking. So I'm not sure why Wired/Wolf thought this was clownish to his role, as it tries to paint him in much of the piece.
+
+Furthermore, it states, "At heart, McLuhan was not a futurist at all but a critic and an academic rebel in the tradition of Henry Adams, another conservative Christian mystic who preferred analyzing large-scale trends to compiling sober catalogs of unenlightening facts." 
+
+Isn't that what Web Analytics do today? Except for the Webadmin? It appears Wired misunderstands the purpose of philosopher...
+
+"Esoteric writing serves several purposes: protecting the philosopher from the retribution of the regime, and protecting the regime from the corrosion of philosophy; it attracts the right kind of reader and repels the wrong kind; and ferreting out the interior message is in itself an exercise of philosophic reasoning.[54][55][56] " from: https://en.wikipedia.org/wiki/Leo_Strauss#On_reading
+
+The article clearly recognizes McLuhan as a random, irreverent mystic- seeking to label him as a clown 16 years after his death suggests Wired was still afraid of his influence.
+
+"His characteristic comment during one academic debate has taken on a mythic life of its own. In response to a renowned American sociologist, McLuhan countered: "You don't like those ideas? I got others."
+In my attempt to be a partial McLuhan's apologist, at least in that intriguing statement, I think he viewed discussion not as a debate, with a fixel arsenal of statements, ready to invoke upon attack, but as a dialectic: https://en.wikipedia.org/wiki/Dialectic
+
+
 The Developer as Community Architect
 ---
 Thus, in an ideal world where technologies are constantly evolving, job security can be improved with a strong training resource, one that employs more elite developers into community architects, receptive to mixed-space uses on diverse projects instead of being master architects with no input from the users. Quite different from serving a small group of shareholders, software and hardware architects could consult as closely as possible to the end-user with as few liasons as possible to develop technical solutions, much as an architect would design a custom built home for a bespoke customer. 
