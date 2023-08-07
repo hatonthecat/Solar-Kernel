@@ -624,6 +624,14 @@ https://www.thediff.co/archive/a-solution-in-search-of-a-problem/
 
 https://byrnehobart.medium.com/the-pirah%C3%A3-are-off-by-one-9c77eb66a6d9
 
+The general purposeness of a toy actually signifies the ability for a product to be used as a tool, rather than a divertimento.
+
+https://en.wikipedia.org/wiki/Land_of_Toys "To its unsuspecting visitors (like Pinocchio and Candlewick), the Land of Toys appears to be a fantastic haven for wayward children to do whatever they want with no consequences or law; to act as they please without recrimination. However, the truer and more sinister purpose of the Land of Toys is eventually revealed: by means of a disease called "donkey fever" that affects children who never study or work, the children turn physically into donkeys (in Italian culture, the donkey is symbolic of ignorance, stupidity, goofiness and labor). Subsequently, they get sold by The Coachman to different places."
+
+The original representation of the Land of Toys mixes the aspects of a morality tale with those of social critique.
+
+---
+
 For more references, see my October 2022 post: https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/82800869.remaking-the-nokia-6110-and-psion.html
 (download RAW)
 
