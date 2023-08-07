@@ -406,7 +406,7 @@ Isn't that what Web Analytics do today? Except for the Webadmin? It appears Wire
 
 "Esoteric writing serves several purposes: protecting the philosopher from the retribution of the regime, and protecting the regime from the corrosion of philosophy; it attracts the right kind of reader and repels the wrong kind; and ferreting out the interior message is in itself an exercise of philosophic reasoning.[54][55][56] " from: https://en.wikipedia.org/wiki/Leo_Strauss#On_reading
 
-The article clearly recognizes McLuhan as a random, irreverent mystic- seeking to label him as a clown 16 years after his death suggests Wired was still afraid of his influence.
+The article clearly labels McLuhan as a random, irreverent mystic- seeking to label him as a clown 16 years after his death suggests Wired was still afraid of his influence.
 
 "His characteristic comment during one academic debate has taken on a mythic life of its own. In response to a renowned American sociologist, McLuhan countered: "You don't like those ideas? I got others."
 In my attempt to be a partial McLuhan's apologist, at least in that intriguing statement, I think he viewed discussion not as a debate, with a fixel arsenal of statements, ready to invoke upon attack, but as a dialectic: https://en.wikipedia.org/wiki/Dialectic
