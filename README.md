@@ -412,6 +412,26 @@ The article clearly labels McLuhan as a random, irreverent mystic- seeking to la
 In my hagiographic attempt to be a partial McLuhan's apologist, at least in that intriguing statement, I think he viewed discussion not as a debate, with a pre-conceived arsenal of statements, ready to invoke upon attack, but as a dialectic: https://en.wikipedia.org/wiki/Dialectic
 
 
+Other responses to the 9-1-95 article on the Internet Archive are also quite a great read:
+
+https://web.archive.org/web/19970614175642/http://www.wmin.ac.uk/media/HRC/ci/calif9.html
+
+https://web.archive.org/web/19970710071823/http://www.wmin.ac.uk/media/HRC/ci/calif10.html
+
+---
+Shifting focus from technological and economic ideologies to ideologies of infrastructure
+
+---
+"Bricolage is considered the jumbled effect produced by the close proximity of buildings from different periods and in different architectural styles.[6]
+
+It is also a term that is admiringly applied to the architectural work of Le Corbusier, by Colin Rowe and Fred Koetter in their book Collage City, whom they called "a fox in hedgehog disguise," commenting on his wily approach to assembling ideas from found objects of the history of architecture, in contrast to Frank Lloyd Wright, who is called a "hedgehog" for being overly focused on a narrow concept.[7]"
+https://en.wikipedia.org/wiki/Bricolage 
+
+James Billington describes an apparatchik as "a man not of grand plans, but of a hundred carefully executed details."[1] The term is often considered derogatory, with negative connotations in terms of the quality, competence, and attitude of a person thus described.[2]
+
+When the internet is referred to the "Information Superhighway", I can't help but think an overpass designed by Robert Moses and LeCorbusier. Silicon Valley has created a homestead for hedgehog apparatchiks, while few have attempted to challenge the concrete legacy of LeCorbusier. What counterpoint thinkers aspire to, is more grand planners, perhaps ones that use more sustainable asphault.  
+
+
 The Developer as Community Architect
 ---
 In an ideal world where technologies are constantly evolving, job security can be improved with a strong training resource, one that employs more elite developers into community architects, receptive to mixed-space uses on diverse projects instead of being master architects with no input from the users. Quite different from serving a small group of shareholders, software and hardware architects could consult as closely as possible to the end-user with as few liasons as possible to develop technical solutions, much as an architect would design a custom built home for a bespoke customer. 
