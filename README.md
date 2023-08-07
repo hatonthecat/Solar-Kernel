@@ -628,7 +628,7 @@ The general purposeness of a toy actually signifies the ability for a product to
 
 https://en.wikipedia.org/wiki/Land_of_Toys "To its unsuspecting visitors (like Pinocchio and Candlewick), the Land of Toys appears to be a fantastic haven for wayward children to do whatever they want with no consequences or law; to act as they please without recrimination. However, the truer and more sinister purpose of the Land of Toys is eventually revealed: by means of a disease called "donkey fever" that affects children who never study or work, the children turn physically into donkeys (in Italian culture, the donkey is symbolic of ignorance, stupidity, goofiness and labor). Subsequently, they get sold by The Coachman to different places."
 
-The original representation of the Land of Toys mixes the aspects of a morality tale with those of social critique.
+The original representation of the Land of Toys mixes the aspects of a morality tale with those of social critique. What separates Silicon Valley from the Land of Toys? Maturity and a Super-ego.
 
 ---
 
