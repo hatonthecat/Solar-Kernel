@@ -341,6 +341,11 @@ Thus Linus is selling Happiness, in a libertarian, neo-liberal market. It certai
 
 https://www.computerworld.com/article/2566721/commercialization-of-linux-helps-microsoft--exec-says.html
 
+---
+Camping in No-Man's Land, with Academic Dispassion
+---
+It's one thing to be a fence-sitter, where a moderate is unsure. It's another thing entirely to be perfectly content to observe the war from the academic armchair. Yet, in a place perceived to be so dangeous as a no-man's land, it turns out the trench that McLuhan and Barbrook found have  actually been abandoned since the end of WWI in 1917. Thus, it is somewhat evolved to take this opinion, where the rest of the world still believes in taking a side, no matter the cause.
+
 I think of McLuhan and Barbrook as Situationist-like Don-Drapers. They pose a question, but one that doesn't promote the product. In the 60s, it was the one-way TV. In the 90s, it was the 2-way Internet. The advertising "defender of the free world" can be re-examined since today linux is disproportionately focused on software, and not hardware. In that way, it seeks to downplay and distract attention away from the medium (since it is not accessible to all), towards the message. Thus it is offering the promise to the medium, the same way Spacelink is promising internet access to all. But would anyone want their internet to run under a single company, if given the chance? Linux is the message; the medium exists in a walled garden, and the messsage, even if it were accessible, may not even be applicable to those who want it. Thus, for all those who cannot afford the internet, must rely on the newspaper, or the ancient herald:
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/84481e5e-d208-489b-aea5-9cbd68548a1a)
