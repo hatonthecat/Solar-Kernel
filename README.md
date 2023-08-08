@@ -453,16 +453,24 @@ When the internet is referred to the "Information Superhighway", I can't help bu
 
 The Developer as Community Architect
 ---
+
 In an ideal world where technologies are constantly evolving, job security can be improved with a strong training resource, one that employs more elite developers into community architects, receptive to mixed-space uses on diverse projects instead of being master architects with no input from the users. Quite different from serving a small group of shareholders, software and hardware architects could consult as closely as possible to the end-user with as few liasons as possible to develop technical solutions, much as an architect would design a custom built home for a bespoke customer. 
 
 ---
-Collective Intelligence as an End-goal of Computing for All 
----
+"To prevent undue wreckage in society, the artist tends now to move
+from the ivory tower to the control tower of society. Just as higher education is no
+longer a frill or luxury but a stark need of production and operational design in the
+electric age, so the artist is indispensable in the shaping and analysis and under-
+standing of the life of forms, and structures created by electric technology."
 
+"The percussed victims of the new technology have invariably muttered clichés
+about the impracticality of artists and their fanciful preferences. But in the past
+century it has come to be generally acknowledged that, in the words of Wyndham
+Lewis, “The artist is always engaged in writing a detailed history of the future be-
+cause he is the only person aware of the nature of the present.”
+p.12 "The Medium is the Message"
 
----
-
-
+----
 Pre-emptive self-criticism:
 
 Seinfeld's Muffin Tops Bakery Episode
