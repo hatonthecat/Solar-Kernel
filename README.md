@@ -196,6 +196,16 @@ https://en.wikipedia.org/wiki/Experience_machine#In_fiction
 
 "It also is a running theme of the 1999 film The Matrix.[13] Agent Smith's account of the early history of the Matrix includes the idea that humans reject a virtual reality that offers them paradise; however, later his informant Cypher is willing to betray his colleagues because he would prefer to be reinserted into an (admittedly less perfect) Matrix as a wealthy and successful man than continue to live in the harsh realities outside the simulation."
 
+How has media changed in the past 180 years? Charles Dickens first visited the United States in 1842:
+
+"Charles Dickens came away from his American experience with a sense of disappointment. To his friend William Macready he wrote "this is not the republic I came to see; this is not the republic of my imagination" (Letters, 1974, v. 3, p. 156). On returning to England Dickens began an account of his American trip which he completed in four months. Not only did Dickens attack slavery in American Notes, he also attacked the American press whom he blamed for the American's lack of general information. In Dickens' next novel, Martin Chuzzlewit, he sends young Martin to America where he continues to vent his feelings for the young republic. American response to both books was extremely negative and passions flared. Dickens made amends during his second visit to America in 1867-68 with a conciliatory speech in New York."
+
+https://www.charlesdickenspage.com/charles-dickens-in-america.html 
+How informed are Americans today? https://thehill.com/opinion/education/522725-how-much-do-americans-know-about-the-news/ 
+https://www.statista.com/chart/28490/news-consumption-on-social-media/ https://www.youtube.com/watch?v=FFytCr0VKnU
+
+
+
 https://www.youtube.com/watch?v=K4XA6amZ8mk 
 
 "The highest transistor count in a single chip processor is that of the deep learning processor Wafer Scale Engine 2 by Cerebras. It has 2.6 trillion MOSFETs in 84 exposed fields (dies) on a wafer, manufactured using TSMC's 7 nm FinFET process.[2][3][4][5][6] (2019)" 
