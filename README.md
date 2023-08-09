@@ -288,6 +288,14 @@ Barbrook, likewise, refers to Minitel as a "dumb terminal," but not disparagingl
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/afffe495-3b5a-494b-8112-96ff5989ba9e)
 
+Games and Telecommunications?
+
+"This emphasis on restraint notwithstanding, Stone wants to question the idea that making and playing games in a sustainable way is a question of self-denial. “It's this philosophical push that the environmental movement doesn't have to be about cutting things away,” she says, citing Kate Soper's book Post-Growth Living: For an Alternative Hedonism. “[It's] actually trying to find pleasure in sustainability.” While it might discourage power-hogging graphics techniques such as ray-tracing, games that run on renewable power can also nurture “different forms of experimentation, different things that come about through whatever constraints. Because there are always constraints. Even if you're working at a triple-A studio, there's something constraining the game and making it the way that it is.” " 
+
+https://www.techradar.com/features/the-quest-for-the-solar-powered-gaming-console 
+
+Emphasis on gaming, when Rhizomatica states over 30% of the world has no internet, surely the development of games should take secondary priority over village to infrastructure, much like word processing and BBS was used before MMORPGS?
+
 The roles each theorist was not solely of criticism- some were Quality Assurance- as in Morris. Others were more observers- but each highlighted generational changes to how both information and products were accessed or divided.
 
 "In a culture like ours, long accustomed to splitting and dividing all things as a
