@@ -521,8 +521,12 @@ Every kernel module, whether it is a printer driver, or support for thousands of
 
 ![image](https://user-images.githubusercontent.com/76194453/213938331-29ff17c8-ccc5-497c-86bc-b30798010a21.png)
 
-This is how I view the modern, bloated kernel: https://www.cnet.com/culture/linus-torvalds-linux-is-bloated/ 
-https://news.ycombinator.com/item?id=17295386
+This is how I view the modern, bloated kernel: https://www.theregister.com/2009/09/22/linus_torvalds_linux_bloated_huge/
+
+""I mean, sometimes it's a bit sad that we are definitely not the streamlined, small, hyper-efficient kernel that I envisioned 15 years ago...The kernel is huge and bloated, and our icache footprint is scary. I mean, there is no question about that. And whenever we add a new feature, it only gets worse.""
+
+(link broken: https://www.cnet.com/culture/linus-torvalds-linux-is-bloated/ - link deleted by CNET-the below was quoted from there: 
+https://news.ycombinator.com/item?id=17295386 there may be an archived copy somewhere.
 
 "The truth of the matter is, to say that Linux is bloated is like saying a LEGO set that comes with a million LEGOs is bloated. Just because it has all the pieces doesn’t mean they’ll be used to create a single, monolithic creation. Make what you want. Take those LEGOs and make a bunch of really cool toys. You are free to do with those individual pieces what you want. Of course, some of those pieces will be used more than others (like the Luke Skywalker and Darth Vader figures). Same thing with Linux."
 
