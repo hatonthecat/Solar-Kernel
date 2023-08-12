@@ -352,9 +352,28 @@ https://www.computerworld.com/article/2566721/commercialization-of-linux-helps-m
 ---
 Camping in No-Man's Land, with Academic Dispassion
 ---
-It's one thing to be a fence-sitter, where a moderate is unsure. It's another thing entirely to be perfectly content to observe the war from the academic armchair. Yet, in a place perceived to be so dangeous as a no-man's land, it turns out the trench that McLuhan and Barbrook found have  actually been abandoned since the end of WWI in 1917. Thus, it is somewhat evolved to take this opinion, where the rest of the world still believes in taking a side, no matter the cause.
 
-I think of McLuhan and Barbrook as Situationist-like Don-Drapers. They pose a question, but one that doesn't promote the product. In the 60s, it was the one-way TV. In the 90s, it was the 2-way Internet. The advertising "defender of the free world" can be re-examined since today linux is disproportionately focused on software, and not hardware. In that way, it seeks to downplay and distract attention away from the medium (since it is not accessible to all), towards the message. Thus it is offering the promise to the medium, the same way Spacelink is promising internet access to all. But would anyone want their internet to run under a single company, if given the chance? Linux is the message; the medium exists in a walled garden, and the messsage, even if it were accessible, may not even be applicable to those who want it. Thus, for all those who cannot afford the internet, must rely on the newspaper, or the ancient herald:
+
+It's one thing to be a fence-sitter, where a moderate is unsure. It's another thing entirely to be perfectly content to observe the war from the academic armchair. Yet, in a place perceived to be so dangeous as a no-man's land, it turns out the trenches that McLuhan and Barbrook found have actually been abandoned since the end of WWI in 1917*. Thus, it is somewhat evolved to take this opinion, where the rest of the world still believes in taking a side, no matter the cause. 
+
+*Technically it hasn't been, although virtue signalling from the comfort of one's basement can often sound tinny. Susan Sontag Directed Waiting For Godot in Sarajevo in 1993. _The Hurt Locker_ was filmed in Jordan, near the Iraqi border, in 2007. Going into or near a warzone to create art takes courage, and creating a play within a play is an effective technique of farce. https://en.wikipedia.org/wiki/Farce 
+
+I think of McLuhan and Barbrook as Situationist-like Don-Drapers. They pose a question, but one that doesn't promote the product, but acknowledges the tradition:
+
+"The Most Radical Gesture is the first major study of the Situationist
+International, a revolutionary movement of extraordinary ambition and
+influence whose reflections on art, everyday life, pleasure, spontaneity,
+the city, and the spectacle have ensured it a vital, but largely hidden, role
+in the development of twentieth-century culture and politics.... 
+...It suggests that Baudrillard’s reflections on hyperreality are impoverished
+reworkings of the situationists’ critical analysis of capitalist society as a
+spectacle, and challenges postmodern denials of meaning, reality, and
+history by showing that postmodernism itself depends on a tradition which
+completely undermines the purposeless pessimism it promotes."
+from:
+https://monoskop.org/images/2/24/Plant_Sadie_The_Most_Radical_Gesture_The_Situationist_International_in_a_Postmodern_Age.pdf
+
+In the 60s, it was the one-way TV. In the 90s, it was the 2-way Internet. The advertising "defender of the free world" can be re-examined since today linux is disproportionately focused on software, and not hardware. In that way, it seeks to downplay and distract attention away from the medium (since it is not accessible to all), towards the message. Thus it is offering the promise to the medium, the same way Spacelink is promising internet access to all. But would anyone want their internet to run under a single company, if given the chance? Linux is the message; the medium exists in a walled garden, and the messsage, even if it were accessible, may not even be applicable to those who want it. Thus, for all those who cannot afford the internet, must rely on the newspaper, or the ancient herald:
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/84481e5e-d208-489b-aea5-9cbd68548a1a)
 
