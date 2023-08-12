@@ -749,3 +749,8 @@ For more references, see my October 2022 post: https://github.com/EI2030/Low-pow
 (download RAW)
 
 "It is difficult to get a man to understand something when his salary depends on his not understanding it." Upton Sinclair
+
+Thank you for reading.  Writing was made possible by:
+
+![7vj3eb](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/267e7b9a-81d7-4f6a-a881-1461bdae21d2)
+
