@@ -685,6 +685,20 @@ https://en.wikipedia.org/wiki/Land_of_Toys "To its unsuspecting visitors (like P
 The original representation of the Land of Toys mixes the aspects of a morality tale with those of social critique. What separates Silicon Valley from the Land of Toys? Maturity and a Super-ego.
 
 ---
+11th Dimensional Chess
+---
+https://scifi.stackexchange.com/questions/230776/where-did-eleven-dimensional-chess-originate#:~:text=%2211th%20dimensional%20chess%22%20is%20a,than%20they%20appear%20at%20first.
+
+"11th dimensional chess" is a term used to describe someone whose planning and actions are deeper than they appear at first. The derivation of the term comes from the fact that while chess is a complicated game, variants of it in higher dimensions would take such a fine strategic mind that their actions would appear random, confusing or even foolish to the uninitiated. The term has some variants, with the number of dimensions varying, or somethings just "nth dimensional chess", but the idea is that the strategies and subterfuges involved are so complicated as to be opaque to an observer."
+
+http://www.talkleft.com/story/2009/2/10/8179/36722/media/-11-Dimensional-Chess-Goes-Viral
+
+"position seems to be that everything has been  exquisitely planned, leaving no room for synchronism.  Course corrections as well as external influences, ranging from hostile criticisms to the well-meaning 'dutch uncles', were superfluous to the grand plan.  As I read Herbert's column my mind when back to the dark old days of Rummy, when "stuff happens" was the non-explanation for events; now the non-explanation is faith in unseen and foreboding political powers--the wisdom of the eternal chess player."
+
+Software can be an open book, but the documentation and politics around it can be anything but. 
+
+
+---
 
 For more references, see my October 2022 post: https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/82800869.remaking-the-nokia-6110-and-psion.html
 (download RAW)
