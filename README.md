@@ -373,10 +373,11 @@ https://www.computerworld.com/article/2566721/commercialization-of-linux-helps-m
 Camping in No-Man's Land, with Academic Dispassion
 ---
 
-
 It's one thing to be a fence-sitter, where a moderate is unsure. It's another thing entirely to be perfectly content to observe the war from the academic armchair. Yet, in a place perceived to be so dangeous as a no-man's land, it turns out the trenches that McLuhan and Barbrook found have actually been abandoned since the end of WWI in 1917*. Thus, it is somewhat evolved to take this opinion, where the rest of the world still believes in taking a side, no matter the cause. 
 
 *Technically it hasn't been, although virtue signalling from the comfort of one's basement can often sound tinny. Susan Sontag Directed Waiting For Godot in Sarajevo in 1993. _The Hurt Locker_ was filmed in Jordan, near the Iraqi border, in 2007. Going into or near a warzone to create art takes courage, and creating a play within a play is an effective technique of farce. https://en.wikipedia.org/wiki/Farce 
+
+Wake me up when the AI debate is over. My boredom is not unlike Mr. Burns during WWII: [https://www.youtube.com/watch?v=rldtGYBODrc](https://youtu.be/rldtGYBODrc?t=38)
 
 I think of McLuhan and Barbrook as Situationist-like Don-Drapers. They pose a question, but one that doesn't promote the product, but acknowledges the tradition:
 
