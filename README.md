@@ -244,20 +244,23 @@ Which isn't to say there isn't an ability for IoT to serve each human, but IoT i
 
 Collective intelligence appears to share concepts similar to "Differential Intellectual Progress," as proposed by Luke Muehlhauser and Anna Salamon:
 
-
 "Informal discussion
+
 Paul Christiano believes that while accelerating technological progress appears to be one of the best ways to improve human welfare in the next few decades,[5] a faster rate of growth cannot be equally important for the far future because growth must eventually saturate due to physical limits. Hence, from the perspective of the far future, differential technological development appears more crucial.[6][unreliable source?]
 
 Inspired by Bostrom's proposal, Luke Muehlhauser and Anna Salamon suggested a more general project of "differential intellectual progress", in which society advances its wisdom, philosophical sophistication, and understanding of risks faster than its technological power.[7][unreliable source?][8][unreliable source?] Brian Tomasik has expanded on this notion.[9][unreliable source?]"
 
-[https://en.wikipedia.org/wiki/Differential_technological_development
-](https://en.wikipedia.org/wiki/Differential_technological_development#Informal_discussion) 
+from (https://en.wikipedia.org/wiki/Differential_technological_development#Informal_discussion) 
 
-Intelligence Explosion: Evidence and Import (2012): https://web.archive.org/web/20141026105011/http://intelligence.org/files/IE-EI.pdf
+ [6] Christiano, Paul (15 Oct 2014). "On Progress and Prosperity". Effective Altruism Forum. Retrieved 21 October 2014. https://forum.effectivealtruism.org/posts/L9tpuR6ZZ3CGHackY/on-progress-and-prosperity
 
-https://longtermrisk.org/differential-intellectual-progress-as-a-positive-sum-project/ "Differential Intellectual Progress as a Positive-Sum Project"
+[7] Intelligence Explosion: Evidence and Import (2012): https://web.archive.org/web/20141026105011/http://intelligence.org/files/IE-EI.pdf
 
+[8] Muehlhauser, Luke (2013). Facing the Intelligence Explosion. Machine Intelligence Research Institute. Retrieved 29 November 2013. https://intelligenceexplosion.com/2012/ai-the-problem-with-solutions/
+
+[9] https://longtermrisk.org/differential-intellectual-progress-as-a-positive-sum-project/ "Differential Intellectual Progress as a Positive-Sum Project"
 https://longtermrisk.org/files/Differential_Intellectual_Progress_as_a_Positive_Sum_Project.pdf
+
 
 In Martin Ford's 2015 "Rise of the Robots" (Also the name of a futuristic Super Nintendo Game that I read about in _Nintendo Power_ (the only subscription I had at the time) in the late 90s), 
 
