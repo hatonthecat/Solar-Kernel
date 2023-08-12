@@ -741,6 +741,7 @@ http://www.talkleft.com/story/2009/2/10/8179/36722/media/-11-Dimensional-Chess-G
 
 Software can be an open book, but the documentation and politics around it can be anything but. 
 
+I'm a little paranoid that I will be forced to wear the Scarlet Letters "TESCREAL" on my shirt one day https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/
 
 ---
 
