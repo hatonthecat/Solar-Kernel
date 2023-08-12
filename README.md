@@ -394,6 +394,29 @@ completely undermines the purposeless pessimism it promotes."
 from:
 https://monoskop.org/images/2/24/Plant_Sadie_The_Most_Radical_Gesture_The_Situationist_International_in_a_Postmodern_Age.pdf
 
+To question the utility of SI in the contemporary era, it is also important to examine its origins: https://github.com/users/hatonthecat/projects/3?pane=issue&itemId=35138100 
+
+---
+The Cyber dérive
+---
+
+https://en.wikipedia.org/wiki/Psychogeography#D%C3%A9rive
+
+"Contemporary psychogeography
+
+Along with détournement, one of the main Situationist practices is the dérive (French: [de.ʁiv], "drift").[3][5][7] The dérive is a method of drifting through space to explore how the city is constructed, as well as how it makes us feel. Guy Debord defined the dérive as "a mode of experimental behavior linked to the conditions of urban society: a technique of rapid passage through varied ambiances."[15] He gave a fuller explanation in "Theory of the Dérive" (1956), first written as a member of the Letterist International:
+
+In a dérive one or more persons during a certain period drop their usual motives for movement and action, their relations, their work and leisure activities, and let themselves be drawn by the attractions of the terrain and the encounters they find there… But the dérive includes both this letting go and its necessary contradiction: the domination of psychogeographical variations by the knowledge and calculation of their possibilities.[16]
+
+The dérive's goals include studying the terrain of the city (psychogeography) and emotional disorientation, both of which lead to the potential creation of Situations.[16]"
+
+A proliferation of psychogeographical groups in the 90s and early 00s was credited to the re-emergence of the London Psychogeographical Association. evoL PsychogeogrAphix 2003
+
+Since the 1990s, as situationist theory became popular in artistic and academic circles, avant-garde, neoist, and revolutionary groups emerged, developing psychogeographical praxis in various ways. Influenced primarily through the re-emergence of the London Psychogeographical Association and the foundation of The Workshop for Non-Linear Architecture, these groups have assisted in the development of a contemporary psychogeography.[17] Between 1992 and 1996 The Workshop for Non-Linear Architecture undertook an extensive programme of practical research into classic (situationist) psychogeography in both Glasgow and London. The discoveries made during this period, documented in the group's journal Viscosity, expanded the terrain of the psychogeographic into that of urban design and architectural performance. Morag Rose has identified three dominant strands in contemporary psychogeography: literary, activist and creative.[18]:29"
+
+Much space today is virtual, and online. Thus the Cyber Dérive.
+
+---
 In the 60s, it was the one-way TV. In the 90s, it was the 2-way Internet. The advertising "defender of the free world" can be re-examined since today linux is disproportionately focused on software, and not hardware. In that way, it seeks to downplay and distract attention away from the medium (since it is not accessible to all), towards the message. Thus it is offering the promise to the medium, the same way Spacelink is promising internet access to all. But would anyone want their internet to run under a single company, if given the chance? Linux is the message; the medium exists in a walled garden, and the messsage, even if it were accessible, may not even be applicable to those who want it. Thus, for all those who cannot afford the internet, must rely on the newspaper, or the ancient herald:
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/84481e5e-d208-489b-aea5-9cbd68548a1a)
