@@ -739,7 +739,7 @@ http://www.talkleft.com/story/2009/2/10/8179/36722/media/-11-Dimensional-Chess-G
 
 "position seems to be that everything has been  exquisitely planned, leaving no room for synchronism.  Course corrections as well as external influences, ranging from hostile criticisms to the well-meaning 'dutch uncles', were superfluous to the grand plan.  As I read Herbert's column my mind when back to the dark old days of Rummy, when "stuff happens" was the non-explanation for events; now the non-explanation is faith in unseen and foreboding political powers--the wisdom of the eternal chess player."
 
-Software can be an open book, but the documentation and politics around it can be anything but. 
+Software source code can be an open book, but the documentation and politics around it can be anything but. 
 
 I'm a little paranoid that I will be forced to wear the Scarlet Letters "TESCREAL" on my shirt one day https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/
 
