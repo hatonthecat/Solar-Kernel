@@ -743,6 +743,8 @@ Software can be an open book, but the documentation and politics around it can b
 
 I'm a little paranoid that I will be forced to wear the Scarlet Letters "TESCREAL" on my shirt one day https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/
 
+My objective is now clear. I must write and speak with words and opinions that fall just below the threshold of virtue-signalling, as well as just below the threshold of vice-signalling. The No-man's land where neither side regognizes. 
+
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/cbd481a3-83d3-46bb-805a-9442437aaca8)
 
 
