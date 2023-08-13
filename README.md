@@ -747,7 +747,7 @@ I'm a little paranoid that I will be forced to wear the Scarlet Letters "TESCREA
 
 My objective is now clear. I must write and speak with words and opinions that fall just below the threshold of virtue-signalling, as well as just below the threshold of vice-signalling. The No-man's land where neither side regognizes. 
 
-When you have opponents labelling you both terms, you know their eyesight is worse than your own.
+When you have opponents labelling you both terms, you know that at least one of the sides' eyesights is worse than your own.
 
 ---
 
