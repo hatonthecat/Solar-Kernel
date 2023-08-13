@@ -743,6 +743,9 @@ Software can be an open book, but the documentation and politics around it can b
 
 I'm a little paranoid that I will be forced to wear the Scarlet Letters "TESCREAL" on my shirt one day https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/
 
+![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/cbd481a3-83d3-46bb-805a-9442437aaca8)
+
+
 ---
 
 For more references, see my October 2022 post: https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/82800869.remaking-the-nokia-6110-and-psion.html
