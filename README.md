@@ -748,6 +748,11 @@ I'm a little paranoid that I will be forced to wear the Scarlet Letters "TESCREA
 
 ---
 
+
+![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/4b913146-2720-4d93-be27-ccbe165622b8)
+
+Tough Actin SI-actin
+
 For more references, see my October 2022 post: https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/82800869.remaking-the-nokia-6110-and-psion.html
 (download RAW)
 
