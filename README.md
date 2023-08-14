@@ -773,6 +773,7 @@ My objective is now clear. I must write and speak with words and opinions that f
 
 When you have opponents labelling you both terms, you know that at least one of the sides' eyesights is worse than your own.
 
+https://www.adamsmith.org/blog/stop-saying-virtue-signalling (may be old news to some, and not a brand new term to me either)
 ---
 
 
