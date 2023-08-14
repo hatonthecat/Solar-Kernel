@@ -204,9 +204,9 @@ https://www.charlesdickenspage.com/charles-dickens-in-america.html
 How informed are Americans today? https://thehill.com/opinion/education/522725-how-much-do-americans-know-about-the-news/ 
 https://www.statista.com/chart/28490/news-consumption-on-social-media/ https://www.youtube.com/watch?v=FFytCr0VKnU
 
-
-
 https://www.youtube.com/watch?v=K4XA6amZ8mk 
+
+"Similarly, in 1944 economist Ludwig von Mises described Brave New World as a satire of utopian predictions of socialism: "Aldous Huxley was even courageous enough to make socialism's dreamed paradise the target of his sardonic irony."[39]"
 
 "The highest transistor count in a single chip processor is that of the deep learning processor Wafer Scale Engine 2 by Cerebras. It has 2.6 trillion MOSFETs in 84 exposed fields (dies) on a wafer, manufactured using TSMC's 7 nm FinFET process.[2][3][4][5][6] (2019)" 
 
