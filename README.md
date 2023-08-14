@@ -339,7 +339,7 @@ free market capitalism, I thought why not argue the exact opposite? The faith of
 during the Cold War. The widespread flouting of copyright could easily be interpreted as
 the imminent demise of commodity production within the emerging information economy. Delighted that I’d found the perfect thought probe, I was ready for my intervention at Fordham’s McLuhan conference. When my turn came, I went up to the podium and began my talk by loudly proclaiming: ‘At the height of the Cold War, the US military funded the creation of the only working model of communism in human history: the Internet!’"
 
-Thus my "thought-probe" is my pastiche (if you view the glass half-full) of the NBC telethon after Hurricane Katrina in 2005. As an environmentalist, I believe in recycling media to adapt meanings for an era where there can be a relevant analogy. While it can be said that Ye's statement did not age well, the moment was a rare act of vulnerable and true espression that was not just a hiccup in the annals of history. It did not occur out of nowhere, and therefore its cache resonated because others identified with it:
+Thus my "thought-probe" is my pastiche (if you view the glass half-full) of the NBC telethon after Hurricane Katrina in 2005. As an environmentalist, I believe in recycling media (détournement) to adapt meanings for an era where there can be a relevant analogy. While it can be said that Ye's statement did not age well, the moment was a rare act of vulnerable and true espression that was not just a hiccup in the annals of history. It did not occur out of nowhere, and therefore its cache resonated because others identified with it:
 
 "Though unrehearsed and emotionally fueled, Kanye’s speech wasn’t nonsense. It was messy because grief is messy. It was complex because the truth is. He’s expected to say something along the lines of whatever passive and inoffensive text Myers read off of the teleprompter, but instead he says, “I hate the way they portray us in the media.” He gives examples. He confesses his own complicity. He states facts. He presents a logical conclusion. I often consider the conditions that create revolutions, and the acts that might be deemed revolutionary. How an average person, not otherwise a political actor, might be an agent of change. How maybe resistance looks like interruption."
 
@@ -393,6 +393,27 @@ history by showing that postmodernism itself depends on a tradition which
 completely undermines the purposeless pessimism it promotes."
 from:
 https://monoskop.org/images/2/24/Plant_Sadie_The_Most_Radical_Gesture_The_Situationist_International_in_a_Postmodern_Age.pdf
+
+p.12
+
+"The spectacle is the ‘materialization of ideology’;10 a
+society in which the particular perspective of the bourgeoisie is
+given a concrete form. It is a society asleep, in hibernation or a state
+of suspended animation, for which ‘ideology is no longer a
+historical choice, but simply an assertion of the obvious’.11
+This absolute realisation of commodity relations produces an
+entirely inverted world, in which everything ‘that was directly lived
+has become mere representation’,12 a ‘dull reflection’13 of itself.
+Mystified by this removal, it is difficult to understand why the world
+appears to be so whole, natural, and unremarkable, yet is so
+extraordinarily difficult to really engage and feel at home in. ‘The
+spectator feels at home nowhere, for the spectacle is everywhere’,
+and areas of life which were once untouched by the logic of the
+commodity form are now possible only within it."
+
+I have been thinking about the observation of spectacle during the high-profile debates between ex-AI researchers, now critics who believe in just "safety" or "speed bumps" and AI researchers without any restriction.
+
+Much like any other political theater, the critics of AI and the State of the Art (SOTA) researchers engage in a spectacle for all to watch, and yet, both parties benefit, as if in a symbiotic relationship, to the mutual exclusion of other research fields cast aside. While the benefactors of AI research are certainly interested in developing AI to save cost (through automation, downsizing, it is very curious to see how often the most prominent critics are portrayed in the media as framing the conversation between AI and anti-AI, as opposed to representing other non-scientific fields as in the humanities, arts, and non-AI dependent technologies.
 
 To question the utility of SI in the contemporary era, it is also important to examine its origins: https://github.com/users/hatonthecat/projects/3?pane=issue&itemId=35138100 
 
@@ -633,7 +654,7 @@ https://en.wikipedia.org/wiki/The_Tortoise_and_the_Hare
 
 In elementary school, our school occasionally had guest speakers, some were motivational speakers in our auditorium. One of them was an acting couple, that told us the story of the the tortoise and the hare. They turned the gym into a racetrack, and one played a bipedal tortoise, and the other one a bipedal hare. The hare ran around the gym, and in his hubris, took a nap at about 75% near the finish line. The tortoise ran, diligently, around the gym, and the hare, sleeping, woke up just as he noticed the hare about the reach the finish line, and started sprinting but lost the race.
 
-Why am I sharing this story? Because it is one of the most inspiring stories in my life. A person without internet access may not seem as cool to you. But they could be studying or reading even without a book or internet access, if only they had a computer that could power itself. So when they connect to the internet, they could upload a magnificent software or story (if they are a writer), which may appear out of nowhere, as the have wake up from their slumber. That is my dream. 
+Why am I sharing this story? Because it is one of the most inspiring stories in my life. A person without internet access may not seem as cool to you. But they could be studying or reading even without a book or internet access, if only they had a computer that could power itself. So when they connect to the internet, they could upload a magnificent software or story (if they are a writer), which may appear out of nowhere, as the have wake up from their slumber. That is my dream. (It's more like an anecdote worth mentioning at least once)
 
 -------
 
@@ -744,6 +765,7 @@ Software source code can be an open book, but the documentation and politics aro
 I'm a little paranoid that I will be forced to wear the Scarlet Letters "TESCREAL" on my shirt one day https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/cbd481a3-83d3-46bb-805a-9442437aaca8)
+(Not recuperation. Not rehabilitation https://en.wikipedia.org/wiki/Recuperation_(politics)
 
 My objective is now clear. I must write and speak with words and opinions that fall just below the threshold of virtue-signalling, as well as just below the threshold of vice-signalling. The No-man's land where neither side regognizes. 
 
