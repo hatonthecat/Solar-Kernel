@@ -415,6 +415,8 @@ I have been thinking about the observation of spectacle during the high-profile 
 
 Much like any other political theater, the critics of AI and the State of the Art (SOTA) researchers engage in a spectacle for all to watch, and yet, both parties benefit, as if in a symbiotic relationship, to the exclusion of other research fields cast aside. While the benefactors of AI research are certainly interested in developing AI to save cost (through automation, downsizing, it is very curious to see how often the most prominent critics are portrayed in the media as framing the conversation between AI and anti-AI, as opposed to representing other non-scientific fields as in the humanities, arts, and non-AI dependent technologies.
 
+During the 2016 campaign, there soon emerged criticism that the media focused too much on certain candidates, with some going so far as to say it resulted in free publicity. It appears that the media is interested in covering AI with the same habituation, claiming it is news and thus worthy of coverage. At the same time, one can wonder, what if AI were simply ignored? Could the public develop other interests with a balanced focused on other topics? 
+
 To question the utility of SI in the contemporary era, it is also important to examine its origins: https://github.com/users/hatonthecat/projects/3?pane=issue&itemId=35138100 
 
 ---
