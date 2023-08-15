@@ -729,7 +729,13 @@ https://czasopisma.uni.lodz.pl/textmatters/article/view/3752
 
 Having never left the cave, and having no experience of that larger, extra-cavern universe, the cave-dwellers naïvely experience shadows on the wall as actuality, appearances as the real thing, these mere semblances as the “really real.” Could this be our condition in today’s world of media images? Have the misleading images on the cave wall been replaced by the relentless flickering lights of television and movie screens? (307)"
 
+p.5 (369)"From Plotinus, then, we may infer a very different definition of the simulacrum from the Platonic model. In Plotinus, the “false” image is deliberately detached from the real. The simulacrum in this sense does not refer to the real, but to the ideal; it seeks to participate in the Platonic “Idea.” It changes the viewer’s way of seeing, redirecting their gaze from the material to the immaterial, and affording them an insight into a “transcendental beauty” which “has all the hallmarks of the sublime” (Porter 609)"
+
 from "David AllenM idland Actors Theatre, UK Agata Handley University of Łódź 'The Most Photographed Barn in America”: Simulacra of the Sublime in American Art and Photograph'y, Text  Matters, Number 8, 2018" 
+
+I had a theater teacher at a community college once, who compared the original Sweeny Todd play to the film version ( (Sweeney Todd: The Demon Barber of Fleet Street, 2007)) (after a student asked about the movie -then new at the time). He said, the film version leaves nothing to the imagination
+
+Thus 3D graphics and user-generated video, from social media, often leave little to the imagination today, and at times frame the discussion and perception of the story, creating often times, the appearance of certainty, when it still it a much futher departure from a primitive terminal or 2D forum.
 
 ----
 
