@@ -715,7 +715,21 @@ According to MIT Press, "In Image Objects, Jacob Gaboury offers a prehistory of 
 
 "Gaboury’s Image Objects is a remarkable and rigorously researched book. Through narrating a history of computer graphics, the author demonstrates that “The computer is not a visual medium. And yet computation as we know it today has been fundamentally shaped by computer graphics” (200). The author’s history traces a professional network of computer scientists with a hub in the University of Utah’s Computer Science Department founded in 1966 by Salt Lake City native David C. Evans with initial funding from Ivan Sutherland, then a program director at the Department of Defense’s Advanced Research Projects Agency (ARPA). Sutherland later joined Evans in Utah to co-found the computer graphics company Evans & Sutherland (E&S). The network, rooted at the University of Utah and E&S, is illustrated by examining work accomplished by faculty and graduate students in the department from, roughly, 1966 to 1980 and by following graduates and former faculty out of the department as they founded and/or shaped Pixar, Adobe, Silicon Graphics, Netscape, Atari, WordPerfect, Xerox PARC, NASA’s Jet Propulsion Laboratory, the New York Institute of Technology, and Industrial Light & Magic." 
 
+"All of these and Gaboury’s image objects are further developments of what philosopher Jean Baudrillard, in the nineteen eighties, referred to as the “precession of simulacra,” the notion that representation precedes and determines the real or, in Baudrillard’s words, “[h]enceforth, it is the map that precedes the territory … it is the map that engenders the territory.”9"
+
 from http://computationalculture.net/object-lessons/ 
+
+Compared to non-computational art, photographs, as in Don Delillo's White Noise serve a similar territorial mapping:
+
+https://czasopisma.uni.lodz.pl/textmatters/article/view/3752
+
+" It is as if the visitors to the barn are “prisoners” in a Platonic cave, fixated on, and even driven into a kind of rapture by, the endless stream of information and images cast on the cave wall. The term “aura” in this context appears to refer to the aura of the commodity, or what Baudrillard terms the “power and pomp of fascination” (4) of the simulacrum. In the silences when Murray isn’t speaking, the only sounds are “the incessant clicking of shutter release buttons, the rustling crank of levers that advanced the film” (DeLillo 13). It seems the photographers are themselves part of a “machine” for producing images, to reinforce the “aura”; all they can do is keep clicking. Mark Schuster suggests that “they exist primarily to service the barn, to maintain, as Murray insists, its image. Just as the barn serves no other purpose than to be photographed, the tourists serve no other purpose than to photograph it” (16–17) 
+
+...The simulacrum, in Plato’s definition, is a distorted copy—for  example,  a  statue  which  uses  illusory  effects  such  as  false perspective: outwardly, it simulates the real thing, but this is only an effect of resemblance. Any link to the divine Form has been lost; but there is a danger that the spectator may nevertheless mistake the copy for the Idea or Form.3Plato’s  famous  parable  of  the  prisoners  in  a  cave,  mesmerized by shadows cast on the cave wall, has frequently been conflated with Baudrillard’s notion of hyperreality. Carl Plantinga, for example, observes: 
+
+Having never left the cave, and having no experience of that larger, extra-cavern universe, the cave-dwellers naïvely experience shadows on the wall as actuality, appearances as the real thing, these mere semblances as the “really real.” Could this be our condition in today’s world of media images? Have the misleading images on the cave wall been replaced by the relentless flickering lights of television and movie screens? (307)"
+
+from "David AllenM idland Actors Theatre, UK Agata Handley University of Łódź 'The Most Photographed Barn in America”: Simulacra of the Sublime in American Art and Photograph'y, Text  Matters, Number 8, 2018" 
 
 ----
 
