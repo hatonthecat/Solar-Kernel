@@ -733,9 +733,13 @@ p.5 (369)"From Plotinus, then, we may infer a very different definition of the s
 
 from "David AllenM idland Actors Theatre, UK Agata Handley University of Łódź 'The Most Photographed Barn in America”: Simulacra of the Sublime in American Art and Photograph'y, Text  Matters, Number 8, 2018" 
 
-I had a theater teacher at a community college once, who compared the original Sweeney Todd play to the film version ( (Sweeney Todd: The Demon Barber of Fleet Street, 2007)) (after a student asked about the movie -then new at the time). He said, the film version leaves nothing to the imagination
+I had a theater teacher at a community college once, who compared the original Sweeney Todd play to the film version ( (Sweeney Todd: The Demon Barber of Fleet Street, 2007)) (after a student asked about the movie -then new at the time). He said that the film version leaves nothing to the imagination.
 
-Thus 3D graphics and user-generated video, from social media, often leave little to the imagination today, and at times frame the discussion and perception of the story, creating often times, the appearance of certainty, when it still it a much futher departure from a primitive terminal or 2D forum.
+Likewise, 3D graphics and user-generated video, from social media, often leave little to the imagination today, and at times frame the discussion and perception of the story, creating often times, the appearance of certainty, when it still it a much futher departure from a primitive terminal or 2D forum, where reasoning and thought had to be used more. To go even futher back, the spacing of letters in Latin was another evolution of pre-masticated text: https://en.wikipedia.org/wiki/Scriptio_continua
+
+"By saving the reader the taxing process of interpreting pauses and breaks, the inclusion of spaces enables the brain to comprehend written text more rapidly. Furthermore, the brain has a greater capacity to profoundly synthesize text and commit a greater portion of information to memory.[7]: 16–17 "
+
+[7] https://www.google.com/books/edition/Space_Between_Words/w3vZaFoaa3EC?hl=en&gbpv=1&bsq=%22short-term+memory+of+word+order%22&pg=PA17&printsec=frontcover
 
 ----
 
