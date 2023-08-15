@@ -713,6 +713,11 @@ According to MIT Press, "In Image Objects, Jacob Gaboury offers a prehistory of 
 
 ...The development of computer graphics, Gaboury argues, signals a change not only in the way we make images but also in the way we mediate our world through the computer—and how we have come to reimagine that world as computational." from https://mitpress.mit.edu/9780262045032/
 
+"Gaboury’s Image Objects is a remarkable and rigorously researched book. Through narrating a history of computer graphics, the author demonstrates that “The computer is not a visual medium. And yet computation as we know it today has been fundamentally shaped by computer graphics” (200). The author’s history traces a professional network of computer scientists with a hub in the University of Utah’s Computer Science Department founded in 1966 by Salt Lake City native David C. Evans with initial funding from Ivan Sutherland, then a program director at the Department of Defense’s Advanced Research Projects Agency (ARPA). Sutherland later joined Evans in Utah to co-found the computer graphics company Evans & Sutherland (E&S). The network, rooted at the University of Utah and E&S, is illustrated by examining work accomplished by faculty and graduate students in the department from, roughly, 1966 to 1980 and by following graduates and former faculty out of the department as they founded and/or shaped Pixar, Adobe, Silicon Graphics, Netscape, Atari, WordPerfect, Xerox PARC, NASA’s Jet Propulsion Laboratory, the New York Institute of Technology, and Industrial Light & Magic." 
+
+from http://computationalculture.net/object-lessons/ 
+
+----
 
 ![image](https://user-images.githubusercontent.com/76194453/213939045-32f61a9d-9218-44e0-a896-494bda38e157.png)
 
