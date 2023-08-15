@@ -723,9 +723,11 @@ Compared to non-computational art, photographs, as in Don Delillo's White Noise 
 
 https://czasopisma.uni.lodz.pl/textmatters/article/view/3752
 
-" It is as if the visitors to the barn are “prisoners” in a Platonic cave, fixated on, and even driven into a kind of rapture by, the endless stream of information and images cast on the cave wall. The term “aura” in this context appears to refer to the aura of the commodity, or what Baudrillard terms the “power and pomp of fascination” (4) of the simulacrum. In the silences when Murray isn’t speaking, the only sounds are “the incessant clicking of shutter release buttons, the rustling crank of levers that advanced the film” (DeLillo 13). It seems the photographers are themselves part of a “machine” for producing images, to reinforce the “aura”; all they can do is keep clicking. Mark Schuster suggests that “they exist primarily to service the barn, to maintain, as Murray insists, its image. Just as the barn serves no other purpose than to be photographed, the tourists serve no other purpose than to photograph it” (16–17) 
+" It is as if the visitors to the barn are “prisoners” in a Platonic cave, fixated on, and even driven into a kind of rapture by, the endless stream of information and images cast on the cave wall. The term “aura” in this context appears to refer to the aura of the commodity, or what Baudrillard terms the “power and pomp of fascination” (4) of the simulacrum. In the silences when Murray isn’t speaking, the only sounds are “the incessant clicking of shutter release buttons, the rustling crank of levers that advanced the film” (DeLillo 13). It seems the photographers are themselves part of a “machine” for producing images, to reinforce the “aura”; all they can do is keep clicking. Mark Schuster suggests that “they exist primarily to service the barn, to maintain, as Murray insists, its image. Just as the barn serves no other purpose than to be photographed, the tourists serve no other purpose than to photograph it” (16–17)" 
 
-...The simulacrum, in Plato’s definition, is a distorted copy—for  example,  a  statue  which  uses  illusory  effects  such  as  false perspective: outwardly, it simulates the real thing, but this is only an effect of resemblance. Any link to the divine Form has been lost; but there is a danger that the spectator may nevertheless mistake the copy for the Idea or Form.3Plato’s  famous  parable  of  the  prisoners  in  a  cave,  mesmerized by shadows cast on the cave wall, has frequently been conflated with Baudrillard’s notion of hyperreality. Carl Plantinga, for example, observes: 
+Tourism becomes performatism: https://en.wikipedia.org/wiki/Performativity
+
+Furthermore, "...The simulacrum, in Plato’s definition, is a distorted copy—for  example,  a  statue  which  uses  illusory  effects  such  as  false perspective: outwardly, it simulates the real thing, but this is only an effect of resemblance. Any link to the divine Form has been lost; but there is a danger that the spectator may nevertheless mistake the copy for the Idea or Form.3Plato’s  famous  parable  of  the  prisoners  in  a  cave,  mesmerized by shadows cast on the cave wall, has frequently been conflated with Baudrillard’s notion of hyperreality. Carl Plantinga, for example, observes: 
 
 Having never left the cave, and having no experience of that larger, extra-cavern universe, the cave-dwellers naïvely experience shadows on the wall as actuality, appearances as the real thing, these mere semblances as the “really real.” Could this be our condition in today’s world of media images? Have the misleading images on the cave wall been replaced by the relentless flickering lights of television and movie screens? (307)"
 
@@ -740,6 +742,8 @@ Likewise, 3D graphics and user-generated video, from social media, often leave l
 "By saving the reader the taxing process of interpreting pauses and breaks, the inclusion of spaces enables the brain to comprehend written text more rapidly. Furthermore, the brain has a greater capacity to profoundly synthesize text and commit a greater portion of information to memory.[7]: 16–17 "
 
 [7] https://www.google.com/books/edition/Space_Between_Words/w3vZaFoaa3EC?hl=en&gbpv=1&bsq=%22short-term+memory+of+word+order%22&pg=PA17&printsec=frontcover
+
+Reading without interpretation, and likewise, accelerated graphics, becomes wholesale transactional performatism. 
 
 ----
 
