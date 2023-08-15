@@ -733,7 +733,7 @@ p.5 (369)"From Plotinus, then, we may infer a very different definition of the s
 
 from "David AllenM idland Actors Theatre, UK Agata Handley University of Łódź 'The Most Photographed Barn in America”: Simulacra of the Sublime in American Art and Photograph'y, Text  Matters, Number 8, 2018" 
 
-I had a theater teacher at a community college once, who compared the original Sweeny Todd play to the film version ( (Sweeney Todd: The Demon Barber of Fleet Street, 2007)) (after a student asked about the movie -then new at the time). He said, the film version leaves nothing to the imagination
+I had a theater teacher at a community college once, who compared the original Sweeney Todd play to the film version ( (Sweeney Todd: The Demon Barber of Fleet Street, 2007)) (after a student asked about the movie -then new at the time). He said, the film version leaves nothing to the imagination
 
 Thus 3D graphics and user-generated video, from social media, often leave little to the imagination today, and at times frame the discussion and perception of the story, creating often times, the appearance of certainty, when it still it a much futher departure from a primitive terminal or 2D forum.
 
