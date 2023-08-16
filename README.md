@@ -861,6 +861,46 @@ https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)#Demons_as_satire
 
 Thus to combat nihilistic AI, one might want to read Dostoevsky.
 
+https://en.wikipedia.org/wiki/Polyphony_(literature)#The_voice-idea
+
+"In contrast to this model of truth, Bakhtin postulates a truth that requires a multiplicity of consciousnesses, something that cannot be contained within a single consciousness; rather it comes into existence at the point of contact between diverse consciousnesses, and is intrinsically "full of event potential."[6] Bakhtin's criticism of the monologic conception of truth is that it abstracts and effaces the "eventness" of the event – everything about it that makes it unique, unfinalizable and full of unrealized potential. In his conception, unknown and unforeseen possibilities arise out of the interaction of autonomous, unfinalized consciousnesses, and this is the true, lived nature of human existence.[7] The "open-ended dialogue" is the verbal manifestation of this truth, and polyphony is its artistic representation in literary form."
+
+"In polyphonic writing, the author must relinquish monologic control over the work. If they do not, there is no possibility of realizing a dialogic sense of the world, where autonomous and unfinalized personalities interact on their own terms. It is only possible if the character is truly an other consciousness, with equal rights to signify, and not merely a 'created' character in the author's imposed reality. The author of the polyphonic novel confronts his characters as equals. He does not withdraw his own ideological position for the sake of an illusory objectivity: rather he places it directly among the equally signifying voice-ideas that are at variance with it, and provokes their confrontation with it and with the other voice-ideas. As his own voice has no more or less existential significance than any other voice, the author himself does not know in advance what the outcome of these confrontations will be. The interactions thus provoked are ripe with "event potential": conclusions are not foreordained, nothing truly comes to an end, and no character can be ultimately finalized from without. Thus the author's role in the polyphonic novel is twofold: "he creates a world where many disparate points of view enter into dialogue, and, in a quite distinct role, he himself participates in that dialogue. He is one of the interlocutors in the "great dialogue" that he himself has created."[16]" 
+
+For someone who has been aware of AI and technology as a way of life, it is interesting to see how some research fields ebb and flow. In the early 2000's, there was a lot of debate that genetic therapies would be like playing God. Later on, it was Nanotechnology (https://web.archive.org/web/20101223170126/http://www.hplusmagazine.com/articles/nano/singularity-nanotech-or-ai) It's not clear why so much emphasis was placed on nanofactories, but today the only analog could be IoT and other chips that augment AI.
+
+
+"The Baptists And Bootleggers Of AI
+
+Economists have observed a longstanding pattern in reform movements of this kind. The actors within movements like these fall into two categories – “Baptists” and “Bootleggers” – drawing on the historical example of the prohibition of alcohol in the United States in the 1920’s:
+
+“Baptists” are the true believer social reformers who legitimately feel – deeply and emotionally, if not rationally – that new restrictions, regulations, and laws are required to prevent societal disaster.
+
+For alcohol prohibition, these actors were often literally devout Christians who felt that alcohol was destroying the moral fabric of society.
+
+For AI risk, these actors are true believers that AI presents one or another existential risks – strap them to a polygraph, they really mean it.
+
+“Bootleggers” are the self-interested opportunists who stand to financially profit by the imposition of new restrictions, regulations, and laws that insulate them from competitors.
+
+For alcohol prohibition, these were the literal bootleggers who made a fortune selling illicit alcohol to Americans when legitimate alcohol sales were banned.
+
+For AI risk, these are CEOs who stand to make more money if regulatory barriers are erected that form a cartel of government-blessed AI vendors protected from new startup and open source competition – the software version of “too big to fail” banks.
+
+A cynic would suggest that some of the apparent Baptists are also Bootleggers – specifically the ones paid to attack AI by their universities, think tanks, activist groups, and media outlets. If you are paid a salary or receive grants to foster AI panic…you are probably a Bootlegger.
+
+The problem with the Bootleggers is that they win. The Baptists are naive ideologues, the Bootleggers are cynical operators, and so the result of reform movements like these is often that the Bootleggers get what they want – regulatory capture, insulation from competition, the formation of a cartel – and the Baptists are left wondering where their drive for social improvement went so wrong.
+
+We just lived through a stunning example of this – banking reform after the 2008 global financial crisis. The Baptists told us that we needed new laws and regulations to break up the “too big to fail” banks to prevent such a crisis from ever happening again. So Congress passed the Dodd-Frank Act of 2010, which was marketed as satisfying the Baptists’ goal, but in reality was coopted by the Bootleggers – the big banks. The result is that the same banks that were “too big to fail” in 2008 are much, much larger now.
+
+So in practice, even when the Baptists are genuine – and even when the Baptists are right – they are used as cover by manipulative and venal Bootleggers to benefit themselves. 
+
+And this is what is happening in the drive for AI regulation right now.
+
+However, it isn’t sufficient to simply identify the actors and impugn their motives. We should consider the arguments of both the Baptists and the Bootleggers on their merits."
+
+This reasoning seems to miss that the Dodd-Frank bill wasn't as strong as it could have been, and some of the regulations on derivatives, such as bespoke tranche opportunities, have been loosened again: https://money.usnews.com/investing/stock-market-news/articles/what-is-a-bespoke-tranche-opportunity
+Banks aren't bigger because of regulation, but because there weren't many other players that survived, and the ones that did just happened to grow with more customers (population).
+
 ---
 
 
