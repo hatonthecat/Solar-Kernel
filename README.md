@@ -909,6 +909,12 @@ Banks aren't bigger because of regulation, but because there weren't many other 
 
 Tough Actin SI-actin
 
+If AI "news" could be stopped across the entire internet, I would hear a printing press somewhere, exclaim, "Stop the AI!"
+
+https://en.wikipedia.org/wiki/Stop_press 
+
+https://archive.nytimes.com/www.nytimes.com/times-insider/2014/05/27/stop-the-presses/
+
 For more references, see my October 2022 post: https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/82800869.remaking-the-nokia-6110-and-psion.html
 (download RAW)
 
