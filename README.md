@@ -776,6 +776,41 @@ To that end, what would happen if semiconductor manufacturing continued at such 
 
 Accomplishing more with less is only a mitigating factor, but it is not an insignificant one. Certainly demand in new products continues unabatedly. Demand for general information does not increase exponentially, nor linearly. It plateaus. This allows solar energy to power the simplest systems first- 2D, text based command lines and basic I/O phones. What changes with Koomey's Law is that basic informational queries and communications can use less power on more advanced nodes (5nm, 3nm, 1nm, picometer, and so on), allowing energy harvesting devices from the ambient environment to power completely software defined hardware. This approach does not replace omnibus operating systems such as linux, android, windows and apple, but allows potentially for hybrid, micro and hardware decentralized kernels to run in parallel that rely on isolated energy storage systems, (rather than large 3,000 MAh battery banks, e.g. for one Android OS to power multiple apps), selected for their efficient harvesting, storage, and delivery mechanisms that use less materials. Similar to hyperscaling processors (such as near threshold voltage), "hyper harvesters" or "hyperstoragers" (a cactus stores  very efficiently but evaporates very little) could be the next best complement to efficient processors. Capacitors and Hybrid Lithium Ion capacitors can reduce the densities needed to provide long-term power solutions when singular and software defined hardware profiles provide the most efficient computation per joule: https://en.wikipedia.org/wiki/Performance_per_watt#Definition   
 
+https://beneinstein.medium.com/stop-saying-hardware-is-hard-62fdd3052a2 "Stop Saying “Hardware is Hard”
+
+Ironically, semantic satiation can dissolve the impression, if need be:
+
+https://en.wikipedia.org/wiki/Semantic_satiation
+
+Hardware is Hard
+
+Hardware is Hard
+
+Hardware is Hard
+
+Hardware is Hard
+
+Hardware is Hard
+
+Hardware is Hard
+
+Hardware is Hard
+
+Hardware is Hard
+
+Hardware is Hard
+
+Hardware is Hard
+
+Hardware is Hard
+
+Hardware is Hard
+
+Hardware is Hard
+
+Hardware is Hard
+
+
 A formula for energy efficiency can sound oversimplistic, but it is actually more a framework or a compass that leads to a new product category- autarkic systems. The other, human-centric question one can ask is, "What is something I don't I know about but need? (Or want)
 
 To that, I present Six Characters in Search of An Author, by Luigi Pirandello. 
