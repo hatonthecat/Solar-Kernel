@@ -851,6 +851,16 @@ My objective is now clear. I must write and speak with words and opinions that f
 When you have opponents labelling you both terms, you know that at least one of the sides' eyesights is worse than your own.
 
 https://www.adamsmith.org/blog/stop-saying-virtue-signalling (may be old news to some, and not a brand new term to me either)
+
+A refreshing analysis of AI
+
+https://adamsinger.substack.com/p/the-rise-of-ai-nihilism 
+
+"According to Ronald Hingley, it is Dostoevsky's "greatest onslaught on Nihilism", and "one of humanity's most impressive achievements—perhaps even its supreme achievement—in the art of prose fiction."[2]" 
+https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)#Demons_as_satire
+
+Thus to combat nihilistic AI, one might want to read Dostoevsky.
+
 ---
 
 
@@ -866,4 +876,6 @@ For more references, see my October 2022 post: https://github.com/EI2030/Low-pow
 Thank you for reading.  Writing was made possible by:
 
 ![7vj3eb](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/267e7b9a-81d7-4f6a-a881-1461bdae21d2)
+
+
 
