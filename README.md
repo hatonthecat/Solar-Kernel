@@ -870,6 +870,7 @@ https://en.wikipedia.org/wiki/Polyphony_(literature)#The_voice-idea
 For someone who has been aware of AI and technology as a way of life, it is interesting to see how some research fields ebb and flow. In the early 2000's, there was a lot of debate that genetic therapies would be like playing God. Later on, it was Nanotechnology (https://web.archive.org/web/20101223170126/http://www.hplusmagazine.com/articles/nano/singularity-nanotech-or-ai) It's not clear why so much emphasis was placed on nanofactories, but today the only analog could be IoT and other chips that augment AI.
 
 
+https://pmarca.substack.com/p/why-ai-will-save-the-world
 "The Baptists And Bootleggers Of AI
 
 Economists have observed a longstanding pattern in reform movements of this kind. The actors within movements like these fall into two categories – “Baptists” and “Bootleggers” – drawing on the historical example of the prohibition of alcohol in the United States in the 1920’s:
