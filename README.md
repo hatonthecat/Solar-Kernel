@@ -914,7 +914,7 @@ Since the tasks do not require a single server setup, they can be designed for a
 
 Open source LLMs could be as large as billions of CPUs running for 12 hours at a pre-announced time, or an asynchronous project to allow a number of cpus to run for a period of 30 days. This could be useful in cases where there are many known language/dataset instructions that need to be run and are known, but depend on a large number of CPU cycles that can process just part of the puzzle in smaller clusters or "brigades" Thus distributed computing can still be hiearchical and multi-level, and not permanently tied to a single organization.
 
-Thus, the claimed dichotomy of small AI players and big AI players, by both parties, in the future, could very well be a moot point. Projects to use AI for "special operations," could also save on costs since there a lower non-recoverable engineering cost (NRE) involved in designing the LLM on a general purpose, independent architecture, than a specific architecture that is vendor dependent. 
+Thus, the claimed dichotomy of small AI players and big AI players, by both parties, in the future, could very well be a moot point. Projects to use AI for "special operations," (e.g. to query a single question) could save on costs since there is a lower non-recoverable engineering cost (NRE) involved in designing the LLM on a general purpose, independent architecture, than a specific architecture that is vendor dependent, perhaps ones that can be partially re-used for running other queries. 
 
 ---
 
