@@ -900,7 +900,7 @@ And this is what is happening in the drive for AI regulation right now.
 However, it isn’t sufficient to simply identify the actors and impugn their motives. We should consider the arguments of both the Baptists and the Bootleggers on their merits."
 
 This reasoning seems to miss that the Dodd-Frank bill wasn't as strong as it could have been, and some of the regulations on derivatives and CDOs, which some say have been rebranded as "bespoke tranche opportunities", have been loosened again: https://money.usnews.com/investing/stock-market-news/articles/what-is-a-bespoke-tranche-opportunity
-Banks aren't bigger because of regulation, but because there weren't many other players that survived, and the ones that did just happened to grow with more customers (population).
+Banks aren't bigger because of regulation, but because there weren't many other players that survived, and the ones that did just happened to grow with more customers (population). Also, the criticism towards "Too Big to Fail" was more about penalizing the taxpayer for risky lending practices that were knowingly carried out by the bank (even if the borrower shared some of that risk knowingly), than allowing Banks to become large.
 
 ---
 
