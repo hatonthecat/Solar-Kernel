@@ -11,6 +11,12 @@ The acronym SOAP is defined as:
 
 Serial: applications and its tasks (threads, are run mutually exclusive of any other processes. Technically, no other processes are in queue while one application is in run time. The exception would be queues for context switching, which occurs only as a reformat of the operating system image- and this would be only as frequent as the user toggles between applications. Developing a syscall process to allow context switching without restarting is a future goal. 
 
+----
+Inferno (based on Plan 9) 
+----
+
+https://en.wikipedia.org/wiki/Inferno_(operating_system)
+
 One approach is similar to XiP ((https://en.wikipedia.org/wiki/Execute_in_place):
 
 https://github.com/dboddie/inferno-freeze-slides/tree/main/pdf
