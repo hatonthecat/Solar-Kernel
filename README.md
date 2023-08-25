@@ -9,7 +9,27 @@ Similar to Cubic: https://launchpad.net/cubic
 
 The acronym SOAP is defined as:
 
-Serial: applications and its tasks (threads, are run mutually exclusive of any other processes. Technically, no other processes are in queue while one application is in run time. The exception would be queues for context switching, which occurs only as a reformat of the operating system image- and this would be only as frequent as the user toggles between applications. Developing a syscall process to allow context switching without restarting is a future goal. See Minix video: https://youtu.be/MG29rUtvNXg?t=2462 
+Serial: applications and its tasks (threads, are run mutually exclusive of any other processes. Technically, no other processes are in queue while one application is in run time. The exception would be queues for context switching, which occurs only as a reformat of the operating system image- and this would be only as frequent as the user toggles between applications. Developing a syscall process to allow context switching without restarting is a future goal. 
+
+One approach is similar to XiP ((https://en.wikipedia.org/wiki/Execute_in_place):
+
+https://github.com/dboddie/inferno-freeze-slides/tree/main/pdf
+"This paper explores an approach where Dis virtual machine code is retained (‘‘frozen’’) in flash
+memory instead of being loaded into precious RAM.'
+
+p.2: "When processing the code section of the module, two things stand out. The amount of memory used to store
+the instructions is typically larger than the size of the corresponding code in the original file. In addition,
+once the instructions have been decoded, they never change. This suggests that they could be retained in
+flash memory in a pre-decoded form through a process of ‘‘freezing’’ at build-time."
+
+Additional papers: https://github.com/dboddie/inferno-freeze-slides/tree/main/pdf
+and https://9e.iwp9.org/9iwp9proceedings.pdf
+
+------
+Minix
+------
+
+ Minix video: https://youtu.be/MG29rUtvNXg?t=2462 
 This experimental process uses:
 
 "A manager to request a process (e.g. Old-FS) to get ready
@@ -19,8 +39,12 @@ Old-FS finishes its work and queues new work Manager creates New-FS process with
 
 Much better than Ksplice"
 
+---
+Symbian OS
+---
 ![image](https://user-images.githubusercontent.com/76194453/213937722-b3ee3e59-0b18-4895-9d65-5409c3437bb4.png)
 
+-----
 
 Some other kernel projects include:
 
