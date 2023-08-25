@@ -28,6 +28,7 @@ the instructions is typically larger than the size of the corresponding code in 
 once the instructions have been decoded, they never change. This suggests that they could be retained in
 flash memory in a pre-decoded form through a process of ‘‘freezing’’ at build-time."
 
+https://dboddie.gitlab.io/inferno-diary/2023-08-22.html
 Additional papers: https://github.com/dboddie/inferno-freeze-slides/tree/main/pdf
 and https://9e.iwp9.org/9iwp9proceedings.pdf
 
