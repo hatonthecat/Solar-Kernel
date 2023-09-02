@@ -514,7 +514,7 @@ A similar parallel can be seen in the kernel development community. While ostens
 Thus, as in the phrase "Wag the dog", is software ruling hardware, or hardware ruling software? 
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/b30627fd-2e64-4048-9924-81d49ace2752)
- $4B in research is towards SaaS, which could be anything from AI LLMs to mail-to-oder Rx apps. By contrast, only $1.3 B (1/3rd) is directly towards hardware. And these are just the startups. While other categories might classify as hardware (such as energy and med devices, there is no indication that renewable mobile devices with integrated solar panels are on the roadmap anywhere.
+ $4B in research is towards SaaS, which could be anything from AI LLMs to mail-to-order Rx apps. By contrast, only $1.3 B (1/3rd) is directly towards hardware. And these are just the startups. While other categories might classify as hardware (such as energy and med devices, there is no indication that renewable mobile devices with integrated solar panels are on the roadmap anywhere.
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/16c3671c-9cf8-45fc-ab90-840fc67835e1)
 
