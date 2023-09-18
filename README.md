@@ -80,6 +80,10 @@ For example, this paragraph:
 
 Understanding computer architecture is a necessity to understanding what allows code to be run on more than one arch. Code/Algorithmic efficiency is not a priority to a beginner, unless perhaps constrained memory controllers is part of the development process. Perhaps I am somewhat foolish to embrace kernel research without starting at some point in understanding how integrated circuits process binary bits. 
 
+---
+Motivation
+---
+
 The motivation of this project is algorithmic efficiency. Although assembly is understood to be "faster," efficiency is relativistic, based on the developer's experience in the context of novel hardware development. Thus, programmatic efficiency can, but does not always take priority. 
 
 The other motivation of this project is autarkic design-"crade to cradle" here is defined as a solar powered energy harvester integrated on a PCB, and a finite number of photons between zero and infinity, required to produce, flip and modify a binary bit of data, in both the central processing unit, and the display (for user applications). 
