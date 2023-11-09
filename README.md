@@ -1,4 +1,9 @@
-# Soap-Kernel
+# SOLAR-Kernel
+
+Formerly Soap Kernel, this repository is being renamed to "Serially Operating Light Application Repositories Kernel"
+
+A repository for single application kernels designed to maximize use of RAM while limiting the need of excess RAM, to allow lowest power application processors and system on a chips to run on solar energy.
+
 Serial(ly) Operating Application Processor Kernel (part of https://hackaday.io/project/177716-the-open-source-autarkic-laptop)
 
 This project seeks to develop a kernel for user applications in memory constrained microcontrollers, using message passing, similar to or based on the microkernel used in Minix 3: https://en.wikipedia.org/wiki/Minix_3#Architecture
