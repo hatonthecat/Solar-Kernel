@@ -407,9 +407,7 @@ Linux was a very clever marketing campaign, something thought of by someone like
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/36c7ae4a-37f0-4df0-beef-de240af6fe1c)
 
-Thus Linus is selling Happiness, in a libertarian, neo-liberal market. It certainly works as a cover:
-
-![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/2d5bbb71-725a-46b1-b64d-019166d3d55d)
+Thus Linus is selling Happiness, in a libertarian, neo-liberal market. It certainly works as a [cover](https://www.wired.com/2003/11/linus/):
 
 https://www.computerworld.com/article/2566721/commercialization-of-linux-helps-microsoft--exec-says.html
 
