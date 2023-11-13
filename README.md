@@ -229,8 +229,6 @@ Thus, Chomsky's strategy #2 applies with new tech:
 
  The problem is that your Apple Silicon circa 2020 is too old. The Solution is a VR Headset (so you can also forget about the real world):
 
- ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/65e17dd8-61f4-4642-86c3-16946dde0e2a)
-
 https://www.reddit.com/r/mildlyinteresting/comments/11p1gzt/homeless_man_in_silicon_valley_with_vr_headset/
 
 https://en.wikipedia.org/wiki/Experience_machine#In_fiction
