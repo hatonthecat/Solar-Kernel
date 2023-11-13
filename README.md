@@ -605,18 +605,6 @@ cause he is the only person aware of the nature of the present.”
 p.12 "The Medium is the Message"
 
 ----
-Pre-emptive self-criticism:
-
-Seinfeld's Muffin Tops Bakery Episode
-
-https://www.youtube.co m/watch?v=YYkj2yYaGtU The problem: Creating a muffin top product leads to rejected muffin bottoms. The premise of a solar powered, underclocked processor creates the appearance, real or perceived of a 2nd-tier of product- "the Stumps", when this is not the case.
-
-https://www.youtube.com/watch?v=Jxph6zErgYI
-
-Enter: Newman, the Muffin Bottoms Cleaner
-
-https://youtu.be/Jxph6zErgYI?t=41
-
 "When NVIDIA purchased mobile-chip designer Arm Holdings from SoftBank last year, NVIDIA CEO Jensen Huang made the bold prediction that in the years ahead, there will be trillions of artificial intelligence (AI)-enabled Internet of Things (IoT) devices. "
 
 https://cacm.acm.org/magazines/2021/7/253454-a-battery-free-internet-of-things/abstract 
@@ -974,10 +962,4 @@ For more references, see my October 2022 post: https://github.com/EI2030/Low-pow
 (download RAW)
 
 "It is difficult to get a man to understand something when his salary depends on his not understanding it." Upton Sinclair
-
-Thank you for reading.  Writing was made possible by:
-
-![7vj3eb](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/267e7b9a-81d7-4f6a-a881-1461bdae21d2)
-
-
 
