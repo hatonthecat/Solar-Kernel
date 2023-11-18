@@ -88,6 +88,19 @@ Understanding computer architecture is a necessity to understanding what allows 
 ---
 Motivation
 ---
+https://www.imdb.com/title/tt0037168/characters/nm0115558
+
+https://www.imdb.com/title/tt0037168/?ref_=tt_ch
+The Pearl of Death (1944)
+
+"Dr. John H. Watson : Well, how... how does the, uh, the thing work?
+
+Sherlock Holmes : Electricity. The high priest of false security."
+
+https://step-dad.blogspot.com/2010/07/electricity-high-priestess-of-false.html 
+
+" And with the blackout on our block last night that line from that fictional movie resonated quite solidly with all my family members even though they haven't seen that celluloid gem."
+"Just the thought of having no air conditioning, no lights, no TV and no Internet had us sitting on the couch collectively having to make conversation that we would normally never have. "
 
 The motivation of this project is algorithmic efficiency. Although assembly is understood to be "faster," efficiency is relativistic, based on the developer's experience in the context of novel hardware development. Thus, programmatic efficiency can, but does not always take priority. 
 
