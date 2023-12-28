@@ -1,5 +1,7 @@
 # SOLAR-Kernel
 
+12-28-2023 https://theimaginativeconservative.org/2018/04/teason-clerks-russell-kirk.html
+
 Formerly Soap Kernel, this repository is being renamed to "Serially Operating Light Application Repositories Kernel"
 
 A repository for single application kernels designed to maximize use of RAM while limiting the need of excess RAM, to allow lowest power application processors and system on a chips to run on solar energy.
