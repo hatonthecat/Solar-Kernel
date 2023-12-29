@@ -2,6 +2,28 @@
 
 12-28-2023 https://theimaginativeconservative.org/2018/04/teason-clerks-russell-kirk.html
 
+12-29-2023 https://newcriterion.com/issues/1992/12/the-treason-of-the-intellectuals-ldquothe-undoing-of-thoughtrdquo
+
+----
+
+What needs a Real Time Clock?
+
+https://www.quora.com/How-do-computers-work-without-clocks-If-they-dont-use-clocks-how-do-programs-run
+
+"This is a really interesting question.
+
+Almost all modern computers, from huge to tiny, have clocks built into them. In most cases, it is a real-time clock (RTC) deployed as either a small integrated circuit (IC), or built into a larger IC such as a microcontroller. The RTC allows the computer to track the passage of time, and in many cases it is paired with a small battery which allows it to continue tracking time when power is removed. This is how personal computers keep their clocks set even when unplugged (although the ability to set the clock on startup from an internet server has largely supplanted the need for this on many modern systems).
+
+However, small microcontrollers and other embedded systems sometimes use a simpler type of clock which is more of a counter than a clock. These systems generally don't need to “know what time it is"in the time and date sense, but they do need to be able to gauge the passage of time so they can do things on a schedule (for example, checking the voltage on an input pin every 5 seconds). What these smaller systems do is count the number of seconds, milliseconds, nanoseconds, etc. since they last booted up. The controller doesn't care that it's 3:05 PM US Eastern time; it just knows that it last checked that input pin at 16008765 milliseconds, and at 16009265 milliseconds it needs to check again.
+
+That's for modern computers, though. In the early days of personal computers, RTCs were very expensive and almost unheard of in smaller home machines. Computers like the Apple II had no built-in clock whatsoever, and therefore no good way to measure time. Instead, these machines and the software written for them used the frequency of the CPU cycles for anything that required timing. You couldn't tell the Apple II to “wait 5 seconds", but you could tell it to “wait 5,000 cycles" (I'm making that number up). This was true for other things, too. Game consoles like the Atari 2600 and Nintendo Entertainment System used the same concept of counting cycles to approximate a clock."
+
+----
+
+
+
+
+
 Formerly Soap Kernel, this repository is being renamed to "Serially Operating Light Application Repositories Kernel"
 
 A repository for single application kernels designed to maximize use of RAM while limiting the need of excess RAM, to allow lowest power application processors and system on a chips to run on solar energy.
