@@ -5,6 +5,8 @@
 12-29-2023 https://newcriterion.com/issues/1992/12/the-treason-of-the-intellectuals-ldquothe-undoing-of-thoughtrdquo
 
 ----
+![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/acc6e727-b04d-4941-a168-79f446870c09)
+
 
 What needs a Real Time Clock?
 
