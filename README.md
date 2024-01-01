@@ -9,8 +9,11 @@
 https://www.oreilly.com/openbook/opensources/book/appa.html
 
 From: ast@cs.vu.nl (Andy Tanenbaum)
+
 Subject: Unhappy campers
+
 Date: 3 Feb 92 22:46:40 GMT
+
 Organization: Fac. Wiskunde & Informatica, Vrije Universiteit, Amsterdam
 
 "Are we reaching a situation where another
