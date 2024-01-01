@@ -20,6 +20,8 @@ However, small microcontrollers and other embedded systems sometimes use a simpl
 
 That's for modern computers, though. In the early days of personal computers, RTCs were very expensive and almost unheard of in smaller home machines. Computers like the Apple II had no built-in clock whatsoever, and therefore no good way to measure time. Instead, these machines and the software written for them used the frequency of the CPU cycles for anything that required timing. You couldn't tell the Apple II to “wait 5 seconds", but you could tell it to “wait 5,000 cycles" (I'm making that number up). This was true for other things, too. Game consoles like the Atari 2600 and Nintendo Entertainment System used the same concept of counting cycles to approximate a clock."
 
+https://www.pjrc.com/teensy/td_timing_elaspedMillis.html
+
 ----
 
 
