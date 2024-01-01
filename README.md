@@ -4,6 +4,27 @@
 
 12-29-2023 https://newcriterion.com/issues/1992/12/the-treason-of-the-intellectuals-ldquothe-undoing-of-thoughtrdquo
 
+1-1-2024:
+
+https://www.oreilly.com/openbook/opensources/book/appa.html
+
+From: ast@cs.vu.nl (Andy Tanenbaum)
+Subject: Unhappy campers
+Date: 3 Feb 92 22:46:40 GMT
+Organization: Fac. Wiskunde & Informatica, Vrije Universiteit, Amsterdam
+
+"Are we reaching a situation where another
+critical industry, free software, that had been totally dominated by the U.S.
+is being taken over by the foreign competition?  Will we soon see
+President Bush coming to Europe with Richard Stallman and Rick Rashid
+in tow, demanding that Europe import more American free software?"
+
+"Are we reaching a situation where another
+critical industry, free hardware, that had been totally dominated by the U.S.
+is being taken over by the foreign competition?  Will we soon see
+President Biden coming to Europe with Jensen Huang and Sam Altman
+in tow, demanding that Europe import more American AI hardware?"
+
 ----
 ![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/acc6e727-b04d-4941-a168-79f446870c09)
 
