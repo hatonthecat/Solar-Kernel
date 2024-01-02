@@ -8,7 +8,7 @@
 
 https://www.oreilly.com/openbook/opensources/book/appa.html
 
-From: ast@cs.vu.nl (Andy Tanenbaum)
+"From: ast@cs.vu.nl (Andy Tanenbaum)
 
 Subject: Unhappy campers
 
@@ -16,17 +16,17 @@ Date: 3 Feb 92 22:46:40 GMT
 
 Organization: Fac. Wiskunde & Informatica, Vrije Universiteit, Amsterdam
 
-"Are we reaching a situation where another
+Are we reaching a situation where another
 critical industry, free software, that had been totally dominated by the U.S.
 is being taken over by the foreign competition?  Will we soon see
 President Bush coming to Europe with Richard Stallman and Rick Rashid
 in tow, demanding that Europe import more American free software?"
 
-"Are we reaching a situation where another
+Are we reaching a situation where another
 critical industry, free hardware, that had been totally dominated by the U.S.
 is being taken over by the foreign competition?  Will we soon see
 President Biden coming to Europe with Jensen Huang and Sam Altman
-in tow, demanding that Europe import more American AI hardware?"
+in tow, demanding that Europe import more American AI hardware?
 
 ----
 ![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/acc6e727-b04d-4941-a168-79f446870c09)
@@ -751,7 +751,7 @@ Thus, while many environmentally conscious users prefer not to buy new pcs to sa
 I think of that fable, by Aesop:
 https://en.wikipedia.org/wiki/The_Tortoise_and_the_Hare
 
-In elementary school, our school occasionally had guest speakers, some were motivational speakers in our auditorium. One of them was an acting couple, that told us the story of the the tortoise and the hare. They turned the gym into a racetrack, and one played a bipedal tortoise, and the other one a bipedal hare. The hare ran around the gym, and in his hubris, took a nap at about 75% near the finish line. The tortoise ran, diligently, around the gym, and the hare, sleeping, woke up just as he noticed the hare about the reach the finish line, and started sprinting but lost the race.
+In elementary school, our school occasionally had guest speakers, some were motivational speakers in our auditorium. One of them was an acting couple, that told us the story of the the tortoise and the hare. They turned the gym into a racetrack, and one played a bipedal tortoise, and the other one a bipedal hare. The hare ran around the gym, and in his hubris, took a nap at about 75% near the finish line. The tortoise ran, diligently, around the gym, and the hare, sleeping, woke up just as he noticed the tortoise about the reach the finish line, and started sprinting but lost the race.
 
 Why am I sharing this story? Because it is one of the most inspiring stories in my life. A person without internet access may not seem as cool to you. But they could be studying or reading even without a book or internet access, if only they had a computer that could power itself. So when they connect to the internet, they could upload a magnificent software or story (if they are a writer), which may appear out of nowhere, as the have wake up from their slumber. That is my dream. (It's more like an anecdote worth mentioning at least once)
 
