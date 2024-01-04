@@ -91,6 +91,12 @@ https://archive.ph/20120912130104/http://www.theinquirer.net/inquirer/news/563/1
 
 https://web.archive.org/web/20110320183427/http://www.linux-mag.com/id/8422/
 
+"As a result, he calls for the creation of "leaner" software and pioneered the development of Oberon, a software system developed between 1986 and 1989 based on nothing but hardware. Its primary goal was to show that software can be developed with a fraction of the memory capacity and processor power usually required, without sacrificing flexibility, functionality, or user convenience.[1]"
+
+https://en.wikipedia.org/wiki/Oberon_(operating_system)#Versions_and_availability
+
+https://en.wikipedia.org/wiki/A2_(operating_system)
+
 This project seeks to develop a kernel for user applications in memory constrained microcontrollers, using message passing, similar to or based on the microkernel used in Minix 3: https://en.wikipedia.org/wiki/Minix_3#Architecture
 
 A web based package manager (e.g https://tiny.slitaz.org/ ) could also make creating custom ISOs/images more user-friendly: https://groups.google.com/g/minix3/c/gs2z6m7Kj14
