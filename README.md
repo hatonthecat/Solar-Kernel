@@ -58,6 +58,39 @@ A repository for single application kernels designed to maximize use of RAM whil
 
 Serial(ly) Operating Application Processor Kernel (part of https://hackaday.io/project/177716-the-open-source-autarkic-laptop)
 
+Wirth's law https://en.wikipedia.org/wiki/Niklaus_Wirth#Wirth's_law
+"Main article: Wirth's law
+In 1995, he popularized the adage now named Wirth's law, which states that software is getting slower more rapidly than hardware becomes faster."
+
+https://en.wikipedia.org/wiki/Wirth%27s_law#Other_names
+
+"Other common forms use the names of the leading hardware and software companies of the 1990s, Intel and Microsoft, or their CEOs, Andy Grove and Bill Gates, for example "What Intel giveth, Microsoft taketh away"[7] and Andy and Bill's law: "What Andy giveth, Bill taketh away".[8]
+
+Gates's law ("The speed of software halves every 18 months"[9]) is an anonymously coined variant on Wirth's law, its name referencing Bill Gates,[9] co-founder of Microsoft. It is an observation that the speed of commercial software generally slows by 50% every 18 months, thereby negating all the benefits of Moore's law. This could occur for a variety of reasons: feature creep, code cruft, developer laziness, lack of funding, forced updates, forced porting (to a newer OS or to support a new technology) or a management turnover whose design philosophy does not coincide with the previous manager.[10]
+
+May's law, named after David May, is a variant stating: "Software efficiency halves every 18 months, compensating Moore's law".[11]"
+
+![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/140fa029-b793-40f1-b1d0-f6af5e61ab4a)
+
+
+https://www.computer.org/csdl/magazine/co/1995/02/r2064/13rRUwInv7E
+
+https://spectrum.ieee.org/5-commandments
+
+https://web.archive.org/web/20050310224703/http://tpug.icomm.ca/nl/tn-v2n1.htm#YesThereISADifference
+
+https://developers.slashdot.org/story/09/06/01/1232206/Can-Pages-Law-Be-Broken?from=rss
+
+https://www.youtube.com/watch?v=4kty5YNOaaw
+
+https://www.osnews.com/story/18931/what-intel-giveth-microsoft-taketh-away/
+
+https://www.forbes.com/2005/04/19/cz_rk_0419karlgaard.html?sh=3304aae0740d
+
+https://archive.ph/20120912130104/http://www.theinquirer.net/inquirer/news/563/1013563/wintel-trips-on-linux
+
+https://web.archive.org/web/20110320183427/http://www.linux-mag.com/id/8422/
+
 This project seeks to develop a kernel for user applications in memory constrained microcontrollers, using message passing, similar to or based on the microkernel used in Minix 3: https://en.wikipedia.org/wiki/Minix_3#Architecture
 
 A web based package manager (e.g https://tiny.slitaz.org/ ) could also make creating custom ISOs/images more user-friendly: https://groups.google.com/g/minix3/c/gs2z6m7Kj14
