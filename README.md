@@ -334,6 +334,22 @@ Today:
 
 400mA x (22nm/1000nm) = 8.8mA x1.8V = 15.84mW.  https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_22nm
 
+"Derivation
+Dennard's model of MOSFET scaling implies that, with every technology generation:
+
+Transistor dimensions could be scaled by −30% (0.7×). This has the following effects simultaneously:
+The area of an individual device reduces by 50%, because area is length times width.
+The capacitance associated with the device, C, is reduced by 30% (0.7×), because capacitance varies with area over distance.
+To keep the electric field unchanged, the voltage, V, is reduced by 30% (0.7×), because voltage is field times length.
+Characteristics such as current and transition time are likewise scaled down by 30%, due to their relationship with capacitance and voltage.
+Overall circuit delay is assumed to be dominated by transition time, so it too is reduced by 30%.
+Frequency f can increase by about 40% (1.4×), because frequency varies with one over delay.
+Power consumption of an individual transistor decreases by 50%, because active power is CV2f.[4]
+As a result, power consumption per unit area remains the same for every technology generation. Alternatively, with every generation the number of transistors in a chip can be doubled with no change in power consumption.
+Power consumption of an individual transistor decreases by 50%, because active power is CV2f.[4]"
+
+https://en.wikipedia.org/wiki/Dennard_scaling#cite_note-Borkar-4
+https://dl.acm.org/doi/10.1145/1941487.1941507
 
 Operating systems such as Slackware <9.1  and Slitaz, could run on it: 
 https://tiny.slitaz.org/ 
