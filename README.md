@@ -305,8 +305,26 @@ The amount of transistors needed to produce a VR headset is going to be in the h
 
 The first linux operating system ran on the Intel 30386, which had 275,000 transistors.
 
+"386DX Processors
+The 386DX chip was the first of the 386 family members that Intel introduced. The 386 is a full 32-bit processor with 32-bit internal registers, a 32-bit internal data bus, and a 32-bit external data bus. The 386 contains 275,000 transistors in a VLSI (very large scale integration) circuit. The chip comes in a 132-pin package and draws approximately 400 milliamperes (ma), which is less power than even the 8086 requires. The 386 has a smaller power requirement because it is made of CMOS (complementary metal oxide semiconductor) materials. The CMOS design enables devices to consume extremely low levels of power.
+
+The Intel 386 chip was available in clock speeds ranging from 16–33MHz; other manufacturers, primarily AMD and Cyrix, offered comparable versions with speeds up to 40MHz."
+
+"386SL Processors
+The 386SL is another variation on the 386 chip. This low-power CPU had the same capabilities as the 386SX, but it was designed for laptop systems in which low power consumption was needed. The SL chips offered special power-management features that were important to systems that ran on batteries. The SL chip also offered several sleep modes to conserve power.
+
+The chip included an extended architecture that contained a System Management Interrupt (SMI), which provided access to the power-management features. Also included in the SL chip was special support for LIM (Lotus Intel Microsoft) expanded memory functions and a cache controller. The cache controller was designed to control a 16–64KB external processor cache.
+
+These extra functions account for the higher transistor count in the SL chips (855,000) compared with even the 386DX processor (275,000). The 386SL was available in 25MHz clock speed.
+
+Intel offered a companion to the 386SL chip for laptops called the 82360SL I/O subsystem. The 82360SL provided many common peripheral functions such as serial and parallel ports, a direct memory access (DMA) controller, an interrupt controller, and power-management logic for the 386SL processor. This chip subsystem worked with the processor to provide an ideal solution for the small size and low power-consumption requirements of portable and laptop systems."  "
+
+https://www.informit.com/articles/article.aspx?p=130978&seqNum=27
+
 https://www.quora.com/Why-was-it-so-hard-for-Unix-to-run-on-a-386-CPU-before-Linux
 A great point is that UNIX  was still a major competitor (it still is, but the ecosystem changed), until Linux came along. That much software could run on a 386 is no small fact. 
+
+
 
 Operating systems such as Slackware <9.1  and Slitaz, could run on it: 
 https://tiny.slitaz.org/ 
