@@ -324,6 +324,12 @@ https://www.informit.com/articles/article.aspx?p=130978&seqNum=27
 https://www.quora.com/Why-was-it-so-hard-for-Unix-to-run-on-a-386-CPU-before-Linux
 A great point is that UNIX  was still a major competitor (it still is, but the ecosystem changed), until Linux came along. That much software could run on a 386 is no small fact. 
 
+https://en.wikipedia.org/wiki/I386 
+1985 Technology node:	1.5 µm to 1 µm (1000nm-1500 nanometer)
+
+Today:
+
+![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/57413a80-375f-4426-8b9b-b916e98adb35)
 
 
 Operating systems such as Slackware <9.1  and Slitaz, could run on it: 
