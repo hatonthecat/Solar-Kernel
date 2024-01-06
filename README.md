@@ -363,6 +363,17 @@ Power consumption of an individual transistor decreases by 50%, because active p
 https://en.wikipedia.org/wiki/Dennard_scaling#cite_note-Borkar-4
 https://dl.acm.org/doi/10.1145/1941487.1941507
 
+Other x86 manufacturers: 
+
+https://www.rdc.com.tw/?route=home/mcu32bit
+
+https://www.rdc.com.tw/?route=home/mcu_32bit_spec 
+
+
+
+![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/2cb972e5-83d1-4b26-a18d-9ec66686a8b2)
+
+
 Operating systems such as Slackware <9.1  and Slitaz, could run on it: 
 https://tiny.slitaz.org/ 
 https://distrowatch.com/?newsid=00777
