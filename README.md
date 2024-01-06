@@ -331,6 +331,9 @@ Today:
 
 ![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/57413a80-375f-4426-8b9b-b916e98adb35)
 
+![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/2ee62e47-3d1d-4892-9c8c-dae0db7b33f5)
+
+
 
 400mA x (22nm/1000nm) = 8.8mA x1.8V = 15.84mW.  https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_22nm
 
