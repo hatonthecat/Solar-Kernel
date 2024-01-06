@@ -332,7 +332,7 @@ Today:
 ![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/57413a80-375f-4426-8b9b-b916e98adb35)
 
 
-400mA x (22nm/1000nm) = ...8.8mA x1.8V = 15.84mW.  https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_22nm
+400mA x (22nm/1000nm) = 8.8mA x1.8V = 15.84mW.  https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_22nm
 
 
 Operating systems such as Slackware <9.1  and Slitaz, could run on it: 
