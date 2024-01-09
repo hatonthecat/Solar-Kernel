@@ -292,6 +292,8 @@ p.35
 
 The material-scarcity problem in the "developing" and "undeveloped world" is not necessarily scarcity to Raspberry Pi's. Even if 3 billion Raspberry Pis could be air-dropped for every person on earth without a PC, the scarcity issue that remains is power. Therefore solar-powerable mobile devices are deliberately avoided by the technocratic design class, if Barbrook's thesis remains true to this day.
 
+Often times, whenever an old, or even new technology becomes popularized, the secrets in how it functions largely becomes abstracted away by a technocratic class. For example, in 2010, the makerspace Noisebridge attempted to teach Insane Clown Posse fans how magnets work while idling in line, much to the interest of some of the fans, and the chagrin of the road crew: https://laughingsquid.com/noisebridge-attempts-to-teach-science-to-juggalos-at-insane-clown-posse-show-in-san-francisco/ Magnets being open source for centuries, obviously not in the purview of the musician's act, represent a challenge to the passive consumption of culture for a largely anti-intellectual message, regardless of the band that is against it. While many might not ever be able to learn how a kernel works, the development of a GUI was, in many ways, a way to increase computing access to the masses: https://en.wikipedia.org/wiki/Graphical_user_interface#History  
+
 ----
 640,000 transistors ought to be enough for anyone
 ----
