@@ -1,3 +1,5 @@
+![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/2e5d18aa-4172-495c-9df0-2a2bc159fa20)
+
 # SOLAR-Kernel
 
 12-28-2023 https://theimaginativeconservative.org/2018/04/teason-clerks-russell-kirk.html
