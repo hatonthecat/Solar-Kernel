@@ -1,0 +1,231 @@
+Slackware FAQ, last revised:  Sun Dec 12 18:45:09 CST 1993 
+
+These are questions people ask me quite often. Hopefully now that they're
+answered here that won't be the case. :^)
+
+-----
+
+Q: Why do I get "network unreachable" under Slackware?
+
+A: There are a couple of possibilities. For most users, things work right out
+   of the box. However, if you're running into this problem here are two
+   workarounds you can try:
+
+   1. Reverse the broadcast and netmask arguments (and their variables)
+      in the call to ifconfig in /etc/rc.d/rc.inet1. Make sure you are
+      not trying to route your own IP address - you shouldn't have to.
+
+   2. Make sure /etc/networks is properly configured.
+
+   [note for 1.1.1: There is a new script called 'netconfig' that should 
+   help with the configuration process. You may have to do some light
+   editing of the files to get it going, but it will at least get you close.
+
+   This feature is still in development, and suggestions of other files that
+   should be set up (and how!) would be appreciated. ]
+
+   These suggestions should fix even the most stubborn systems. 
+
+-----
+
+Q: Why the $%#@! isn't my UltraStor SCSI detected? It works under DOS!
+
+A: Set the I/O address to 0x340 instead to 0x330.
+ 
+   For any hardware that doesn't work, a good rule is to try playing around
+   with the IRQ and I/O settings on it to see what happens. If your system
+   is up and running and you're having problems with a CD-ROM or tape or
+   something like this, you can always look around for the driver source in
+   /usr/src/linux/drivers... really, it won't bite!  Often, the source 
+   contains important documentation, such as the default IRQ settings for
+   that type of device, and the major number for the entry in /dev. 
+
+-----
+
+Q: How can I install and remove software now that the Slackware Linux 
+   distribution is installed on my machine?
+
+A: To remove packages, type "pkgtool" and follow the prompts. Pkgtool will
+   also allow you to add packages that are in the current directory.
+
+   The preferred way to install software is with the "setup" script.
+   When you do your initial installation, setup puts a copy of itself in your 
+   /sbin for future use. You can also add software to your machine using the 
+   boot/install disk, if you really want to. 
+
+   When adding software to a running system via NFS, it is preferable to
+   mount the partition yourself and then use the 'install from a mounted
+   directory' feature of setup.
+
+-----
+
+Q: I set my partitions to "Linux native" but Slackware still won't detect
+   them! What can I do?
+
+A: This problem is rare and I still don't know what causes it. You're welcome
+   to send in any affected machines if you want me to get to the bottom of the
+   problem.
+
+   [ Note that this is not the same problem that usually affects the IBM PS/1,
+   Thinkpad, and similar machines that do not detect the harddrive. If you've
+   got one of these machines, and fdisk is giving you problems, your answer is
+   still ahead :^) ]
+
+   Here's a workaround you can use to install anyway:
+
+   1. Boot the bootdisk. 
+   2. Make and format partitions for Linux.
+   3. Mount the target partitions under /mnt.
+   4. Type "setup -target_mounted"
+   5. Follow the rest of the instructions to install.
+   6. Type "vi /mnt/etc/fstab" and enter an appropriate fstab.
+      As an example, here's what mine contains:
+
+/dev/hdb2   swap    swap   defaults 
+/dev/hda2   /       ext2   defaults
+/dev/hda3   /usr    xiafs  defaults 
+/dev/hda1   /dos    msdos  defaults 
+/dev/hdb1   /os2    msdos  defaults 
+none        /proc   proc   defaults
+
+   To give you some more info about this file, the first field is the
+   partition to be mounted, the second is where it should be mounted, the
+   third is the filesystem type, and the last field is the options to use.
+   Unless you're a Linux wizard, just set this to "defaults".
+
+   Other things to remember about this file:
+      - Make sure that you list the root partition before any other partitions
+        that are mounted beneath it.
+      - Add the /proc line, or "ps", "w", etc, won't work.
+      - It's a good idea to put a blank line at the end of the file, as I've
+        had reports that partitions listed on the last line might not be 
+        mounted.
+
+   7. Once you've made and saved this file you can reboot with ctrl-alt-delete.
+
+-----
+
+Q: I have a (PS/1 || Valuepoint || Thinkpad), and can't install because fdisk
+   can't see my hard drive. How can I get around this?
+
+A: First, you'll have to use "uniboot". Since this disk loads using LILO, you
+   can pass your drive parameters to the kernel at the LILO prompt and allow
+   your drive to be recognized.
+
+   Boot the disk while holding down the left shift key. You'll get a page of
+   information about how to pass your drive parameters to the kernel. Once you
+   do this, you should be able to install.
+
+   I don't know if it's possible to make the hard drive self boot. It would 
+   probably require compiling in your drive parameters, at the very least.
+   Also, this is important - LILO will not be able to probe for your drive 
+   successfully if you try to install it on your hard drive. Install LILO to
+   a floppy disk, and then use this disk whenever you boot Linux along with
+   the left-shift trick to pass your drive parameters to the kernel.
+   'linux hd=(whatever your parameters are)'.
+   
+   If anyone out there knows exactly where to compile in the parameters in the
+   kernel to see the drive automatically, let me know and I'll include the
+   information here. Also, if a list of the parameters for all the different
+   sized IBM drives could be collected, custom kernels might be provided. :^)
+
+-----
+
+Q: Emacs dumps core, complains of a missing library, or lacks X11 support! Why?
+
+A: As of Slackware 1.1.1, the included GNU Emacs series supports your choice
+   of a version with X11 support, or one without. Make sure you have the right
+   binary for your machine. 
+
+   The binary supporting X11 is installed as part of a package on the first 
+   disk that you'll need to install whether you want X11 support or not. If
+   you DO NOT want X11 support, install the package 'emac_nox.tgz' on the last
+   disk of the Emacs series.
+
+   If you just install all of the disks, you don't get X11 support. It had to
+   be one way or the other, so if you're not paying attention when you install
+   at least this way it will run no matter what.
+
+-----
+
+Q: How can I change (or get rid of) the color ls?
+
+A: Read the man page, and check out the file /etc/DIR_COLORS. You can
+   configure the colors any way you like, or shut them off entirely. Also, you
+   can copy /etc/DIR_COLORS into your home directory as '.dir_colors' to 
+   override the global defaults on a user by user basis.
+
+-----
+
+Q: I start X with "openwin" and it works OK, but I can't switch virtual
+   consoles. Why?
+
+A: On a Linux text screen, you switch virtual consoles with Alt-F1 through 
+   Alt-F8. Under XFree-86, you must use Ctrl-Alt-F1 through Ctrl-Alt-F8. 
+
+-----
+
+Q: Why can't I use the new ghostscript with X?
+
+A: Make sure you have gs_x11.tgz from disk XAP1 installed.
+
+-----
+
+Q: I can't get anything to work at all! What's the deal?
+
+A: If you seem to suffer catastrophic failure (!), then check the file FILE_LIST
+   on ftp.cdrom.com in /pub/linux/slackware against the contents of your disks
+   and make sure you're not missing any files. 
+
+   Also, I've noticed that most of the reports of kernel panics and system 
+   hangs have come from people with 4MB. If you're running into these types
+   of problems I'd suggest forking over the $$$ for 4 more meg. I have 8 MB of
+   RAM and never have crashes. (well, only when I really push my luck)
+   If you don't want to do that, then go through your /etc/rc.d/rc.* files and
+   get rid of any daemons you don't use, like crond, lpd, or selection.
+
+   If you've got 4 MB and you're getting 'virtual memory exceeded in new'
+   warnings, make sure you set up and activate a swap partition before running
+   setup. If you're really hard up on memory, you can boot a rootdisk using
+   'editroot' instead of one of the usual boot kernels. This will mount the 
+   floppy in the root drive, and you'll have to install from the other drive
+   or from the hard drive. You will also not be able to create any kind of boot
+   disk, so you'll have to install LILO and take your chances. I only suggest
+   using this approach if a swapfile will not work.
+
+-----
+
+Q: Why won't the kernel compile? I get an error about an incompatible 
+   redeclaration (kernel.h and sched.h, having to do with 'panic')
+
+A: 0.99pl13 won't compile under GCC 2.5.2 out-of-the-box. If you don't know
+   how to fix the source, use GCC 2.4.5 instead and you should be ok.
+  
+   Also, I suggest people stick with GCC 2.4.5 unless they have some special
+   reason to use a newer compiler. Untill the new C libraries are officially
+   released the new compilers will not support C++ under Linux.
+
+-----
+
+Q: I get "bad directory components" when I use "mput *" in ftp. How can this
+   be fixed?
+
+A: A workaround for this problem is to use "mput ./*" instead. Hopefully this
+   bug will be fixed in the next versions of the networking programs.
+
+   [Note for 1.1.1: It should be! Also, the fix is on ftp.cdrom.com, as 
+   /pub/linux/slackware_source/n/tcpip/FTP_PATCH ]
+
+-----
+
+Also - at ftp.gwdg.de:/pub/linux/install-mount/slack-info are some more
+networking hints.
+
+In addition, the LDP people have put out an excellant set of manuals that I
+may include in a future Slackware release. These are available on
+sunsite.unc.edu in /pub/Linux/docs/LDP.
+
+---
+Patrick Volkerding
+volkerdi@mhd1.moorhead.msus.edu
+volkerdi@ftp.cdrom.com
