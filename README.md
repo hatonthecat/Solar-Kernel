@@ -787,6 +787,169 @@ First, Big Semis can sell more IoT devices B2B. IoT devices, like a sub-threshol
 
 If there was a greater effort in developing a kernel that could run on a solar powered laptop, it could provide more information than a library with thousands of books. Manufacturing new technology is certainly a power intensive process, but once it is made, the only thing it needs to last 20 years is power. It doesn't need to be watered like a plant. It doesn't need an oil change like a car. Power is the only thing a laptop needs. Maybe it might need a new microSD card or SSD after 5 years, if the onboard NOR doesn't get corrupt, and if it supports external storage. These kinds of hardwares are useful because they do not age as quickly as software designed for feature updates and expandability. If computers can be designed and viewed like books, then there does not need be a desire to compete against against performance machines. If designs a computer like an encyclopedia, a toaster, or a book, there is no lock mechanism. A book doesn't need to be locked up. Likewise, there is not enough market demand for digital encyclopedias, because people prefer to close a popup or scroll down from Jimmy Wales banner ad. In the future Jimmy Wales banners and repositories can be hosted from every village willing to carry his flag.
 
+But today, there is more of a concerted effort to shame the consumer into buying a greener product, rather than regulating semiconductor companies from producing wasteful, limited support products:
+
+https://www.youtube.com/watch?v=mEB7WbTTlu4 From the 1995 movie Tommy Boy, in the brake pad salesmen (Chris Farley and David Spade) and the guarantee on the box scene:
+
+0:02
+like your life I like your brake pads
+0:04
+there's a problem no guarantee on the
+0:08
+box heck if something breaks down you
+0:10
+can call me even if I'm home watching TV
+0:12
+Callahan is guaranteed every part sold
+0:14
+since 1925 maybe so but it's not on the
+0:17
+box it should always be on the box
+0:19
+comforting you calling out I'm good I'll
+0:22
+never let you down but if I do I'm gonna
+0:24
+make things all better our brake pads
+0:26
+are made with a non corrosive Poli plate
+0:28
+on if you're not talking about a
+0:29
+guarantee skip my customers need to see
+0:31
+that little label looking them right in
+0:33
+the eye
+0:33
+hey you can get a good look at your
+0:34
+butcher what remember
+0:37
+chickens chicken wings all right you
+0:40
+want to talk about guarantees then
+0:42
+fellas
+0:42
+you just ran out of time
+0:47
+chicken wings let's think about this for
+0:50
+a sec Ted
+0:51
+why would somebody put a guarantee on a
+0:54
+box hmm very interesting all I'm
+0:57
+listening there's the way I see it that
+0:59
+guy puts a fancy guarantee in a box
+1:01
+because he wants you to feel all warm
+1:03
+and toasty inside yeah makes a man feel
+1:05
+good course it does why shouldn't it you
+1:08
+figured you put that little box under
+1:09
+your pillow at night the guarantee fairy
+1:11
+might come by and leave a quarter am i
+1:12
+right Ted what's your point the point is
+1:17
+how do you know the fairy isn't a crazy
+1:19
+glue-sniffer building model airplane
+1:21
+says the little fairy well we're not
+1:23
+buying it he sneaks into your house once
+1:25
+that's all it takes next thing you know
+1:26
+there's money missing off the dresser
+1:28
+and your daughter's knocked up I've seen
+1:29
+it a hundred times but why do they put a
+1:32
+guarantee on the box then cuz they know
+1:34
+all they sold you was a guaranteed piece
+1:36
+of that's all it is isn't it hey if
+1:38
+you want me to take a dump in a box and
+1:40
+market guaranteed I will I got spare
+1:42
+time but for now for your customers sake
+1:44
+for your daughter's sake you might want
+1:46
+to think about buying a quality product
+1:48
+from me okay I'll buy from you now
+1:53
+wait, what ?"
+
+Mass-manipulation/nudging of consumerism is side-steps the regulating of IoT and GPU makers, and creates the [similitude](https://en.wikipedia.org/wiki/Simulacra_and_Simulation#Definition) of green tech. [Greenwashing](https://en.wikipedia.org/wiki/Greenwashing):
+
+"Greenwashing (a compound word modeled on "whitewash"), also called green sheen,[1][2] is a form of advertising or marketing spin in which green PR and green marketing are deceptively used to persuade the public that an organization's products, aims, and policies are environmentally friendly. Companies that intentionally take up greenwashing communication strategies often do so to distance themselves from their environmental lapses or those of their suppliers.[3]
+
+An example of greenwashing occurs when an organization spends significantly more resources on advertising being "green" than on environmentally sound practices.[4] Greenwashing can range from changing the name or label of a product to evoke the natural environment (for example on a product containing harmful chemicals) to multimillion-dollar campaigns that portray highly-polluting energy companies as eco-friendly. Greenwashing covers up unsustainable corporate agendas and policies.[5] Highly public accusations of greenwashing have contributed to the term's increasing use.[6]"
+
+One may claim that creating the appearance of order and highlighting individual's helpful impact in reducing climate change:
+
+"The first stage is a faithful image/copy, where people believe, and may even be correct to believe, that a sign is a "reflection of a profound reality" (pg 6), this is a good appearance, in what Baudrillard called "the sacramental order"."
+
+"As part of the research, investigators will capture a first-of-its-kind dataset on actual emissions and resource usage of complex fabrication processes, build and validate tools for carbon-aware design, and establish an Electronic Sustainability Record for edge devices, similar to nutrition labels for food, or a digital health record, that allows consumers and manufacturers to understand the carbon costs of computing devices and use that in decision-making. The grant proposal was catalyzed through the Brook Byers Institute for Sustainable Systems Initiative Leads program, with additional funds from the Institute for Data Engineering and Science.
+
+“Right now, hardware designers, programmers, and consumers have only a vague idea of the actual carbon cost of the phone, wearable, or smart device they are working with. With rising e-waste and technology’s increasing contributions to climate change, we have to figure out how to do better. This project will lay the foundations for edge devices that can last for decades, or at least have a lifetime commensurate with the carbon cost, potentially reducing e-waste, emissions, and environmental footprint,” said Hester. “Our design tools, new datasets, and carbon models will consider factors like energy, e-waste, and water usage from the manufacturing of computational devices, as well as operational carbon footprint from factors like machine learning and software lifecycles.”
+
+https://research.gatech.edu/nsf-grant-develop-carbon-nutrition-labels-sustainable-internet-things
+
+This is not much different from that which was proposed by writer Ploum in 2021: https://ploum.net/the-computer-built-to-last-50-years/index.html 
+
+However, with the priority of Big Telcos and Social Media companies, manufacturers and academia (which is today corporatized beyond recognition and little more than a [technology transfer](https://en.wikipedia.org/wiki/Technology_transfer) licensing center and trade school exploiting free researcher's labors and unpaid or underpaid interns, as opposed to a [liberal arts](https://preprints.apsanet.org/engage/api-gateway/apsa/assets/orp/resource/item/5e337c0d0238e40018302a47/original/pedagogy-of-the-privileged-globalization-identity-belonging-and-empowerment.pdf) school) on the surface, are committed to Sustainability by addressing the carbon footprint, while framing the issue entirely within an access-based paradigm.
+
+https://www.wired.com/2015/01/diy-cellular-phone-networks-mexico/
+
+https://snfpaideia.upenn.edu/bridging-telecomm-unconnected-communities/ :
+
+"In order to be a well rounded public interest technologist, you need to be a well rounded person. See the world, see what people are up to, and bring those perspectives to everything you do with a sense of humility and openness. Don’t impose your own views on things, but really take the time to listen and see what is going on out there.
+
+—Peter Bloom"
+
+"It is hard to do technology as a nonprofit, to keep up when on one side you have people with billions of billions of dollars developing technology for very specific use cases that are massive in scale, and then you have other folks like us trying to develop technology for indigenous communities in the Amazon rain forest who are in a completely different reality most of the time. There is not a path to billions of dollars in terms of what we’re doing, and that’s not what we’re trying to do. So how do you raise the funds? How do you get talented people to work on the project when you’re in the shadow of these much larger efforts?" -Peter Bloom
+
+Contrasting the efforts of non-profits with for-profits, a false dichotomy and even a deliberate omission of non-profit efforts are often made. The objectives of for-profit industry essentially reduce the opportunity for non-competitiveness. Rather than shift the blame of regulators to consumers, as with the EPA CAFE standards and much of the ubiqitous SUV advertisements seeking to impress with fuel economies in the 30mpg, the objective of bridging the digital divide, where applicable, must emphasize the lax regulation and lack of scrutiny on Big Tech companies for NOT producing technology capable of working in regions without electricity. This is is not a lack of awareness. Since 2011, solar powerable Pentiums were demonstrated and when Wired interviewed Intel's CTO, a very public pivot away from sustainable computing due to the lack of immediate profit. That isn't to say Intel isn't enjoying the fruits of their discoveries. The same or very similar technology that went into the Claremont is being litigated for scalable servers in [European countries](https://www.eenewseurope.com/en/r2-semi-claims-many-intel-processors-could-be-banned-in-europe/). Translation: Intel doesn't care about making tech for  the whole world, even though they could; they only care to manudfacture for those with cash in their wallet. Universities that continue to trade their committment to knowledge and universal truths for corporate sponsorship and corporate [media laudatories](https://lunduke.substack.com/p/the-dirty-secret-of-big-tech-advertising?utm_source=profile&utm_medium=reader2)s are complicit in this quid-pro quo. 
+
+The selling point of lacking a "guarantee" on a brake pad box (or a "warranty," or "junk insurance") like in _Tommy Boy_ isn't suggesting that manufacturers shouldn't be regulated when there is a high propensity to producing defective products (e.g. [Boeing](https://e.customeriomail.com/deliveries/dgTF5wgDAIynCIunCAGOmTe5jJ1hhLAbadz-VXc=)) in the pursuit of quick profit, when firing competent  and necessary engineers, replacing them with underqualified candidates or eliminating their positions altogether. The selling point of not having a nutrition label is that it prioritizes the wrong kind of awareness. It becomes an act of pontificating eco-consciousness instead of developing an infrastructure for the undeveloped regions. Of all the megatons of lithium battery produced and shipped worldwide for electric cars, laptop batteries, and e-bikes, the specific use-case of energy anemic regions needing lightweight solar-powered networks and mobile devices represents a tiny fraction of industrialized countries's total consumption.  
+
+Net [Neutrality](https://www.theverge.com/2024/4/3/24119889/net-neutrality-fcc-vote-rules-restore),
+
+In 2008, the first major FCC ruling on Net Neutrality showed the the strong lobbying power of industry to regulate the internet:
+
+"In 2008, when the FCC auctioned off the 700 MHz block of wireless spectrum in anticipation of the DTV transition, Google promised to enter a bid of $4.6 billion, if the FCC required the winning licensee to adhere to four conditions:[47]
+
+Open applications: Consumers should be able to download and use any software application, content, or services they desire;
+Open devices: Consumers should be able to use a handheld communications device with whatever.. wireless network they prefer;
+Open services: Third parties (resellers) should be able to acquire wireless services from a 700 MHz licensee on a wholesale basis, based on reasonably nondiscriminatory commercial terms;
+Open networks: Third parties, such as Internet service providers, should be able to interconnect at any technically feasible point in a 700 MHz licensee's wireless network.
+These conditions were broadly similar to the FCC's Internet Policy Statement; FCC's applications and content were combined into a single bullet, and an extra bullet requiring wholesale access for third party providers was included. The FCC adopted only two of these four criteria for the auction, viz., open devices and open applications, and only applied these conditions to the nationwide C block portion of the band.[48]"
+
+What is the FCC's stance on internet accessibility today? What priorities does Big Tech have today? Regulatory capture, manipulating user experience, creating algorithms, ensuring only companies too big to fail are the only ones that can afford to make uncompetitive products, and shaming users for using a 50mAh battery, even if it was recovered from a discarded e-cigarette that would have gone to waste had it not been salvaged. 
+
+Many business analysts may be familiar with GE's former Jack Welch 10% rule: https://news.ycombinator.com/item?id=1865820
+https://en.wikipedia.org/wiki/Vitality_curve#:~:text=General%20Electric%2C%20by%20far%2C%20was,dubbed%20%22rank%20and%20yank%22.
+"https://www.missionmindedmanagement.com/where-jack-welch-got-it-wrong-the-mandatory-annual-low-performer-cut"
+
+While this has been abandoned only recently (2015), the point of this analogy is not about performance or quality (especially in Boeing's case, where eliminating redundant roles that contribute to higher quality and catching defects by a third or fourth line of defense improve safety), but about innovation. What if, instead of firing a 10% bottom performing number of workers, the company reallocated 10% of research and development to innovative products, such as solar powered Intel chips? Intel doesn't see an immediate profit. But too big to fail? Sure, we'll help you with your foundries, at taxpayer's expense: https://www.intel.com/content/www/us/en/newsroom/news/us-chips-act-intel-direct-funding.html So, Prof Hester, if you're reading this, I thought I'd give my two cents in advance, since your $2 million NSF grant on digital carbon "nutrition labels" is being paid from my tax dollars (333 million Americans, 258 million adults, paying 2 billion pennies is an average of 7.75 cents per adult, of which not every adult earns an income). If you prefer Zelle or Venmo, let me know and I can make it an even $0.10. I haven't even examined your other other grants, but I know some are much higher (though I won't claim I am informed enough in those fields, despite having studied Biology years ago). That money could be better spent staffing the Anti-trust department: https://www.osnews.com/story/138931/doctorow-on-the-antitrust-case-against-apple/
+
 "Non-Competitive Products means any (i) product or service that is not a Competitive Product (including products or services that are not sold in the Prior Areas, but would be Competitive Products if they were sold in the Prior Areas), (ii) product or service that is being designed, developed, manufactured, used, marketed, offered for sale or sold by Seller or its Affiliates (but excluding the Sold Companies) as of the date of this Agreement (or any improvements, new versions or successors thereof) or (iii) module or component that is incorporated into any product or service described in clause (i) or (ii) of this definition.'
 https://www.lawinsider.com/dictionary/non-competitive-products
 
