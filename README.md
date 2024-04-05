@@ -982,7 +982,19 @@ In academia, the phrase "Critical" is used before every thing that states Theory
 https://en.wikipedia.org/wiki/Paulo_Freire_Social_Justice_Charter_School This school closed down due to lack of rigor. It was certainly a worthwhile experiment, but nothing one would want to expand to such a vast scale so quickly (even the OLPC project I'd admit was probably better off as a small pilot than a wide scale study- and even then one doesn't hear much about the sucess stories).  
 
 22. "Texas Instruments TI-30 solar calculator. I got it in the early '80s for algebra class, and I still use it almost every day."
-https://www.buzzfeed.com/meganeliscomb/purchases-that-last 
+https://www.buzzfeed.com/meganeliscomb/purchases-that-last
+
+There are several typos in the previouos paragaphs, which will be corrected at some point. What strikes me as so condescening by the policy of educational reformists is that they believe education is opppressive when even inner city students were able to get passing AP Calculus scores by an excellent teacher, which is both a true story and a movie: 
+https://en.wikipedia.org/wiki/Stand_and_Deliver
+
+On historical [accuracy](https://en.wikipedia.org/wiki/Stand_and_Deliver#Historical_accuracy): 
+
+"In the first year (1978), only five students remained in the course at the end of the year, only two of whom passed the AP Calculus exam.[4] Writing in Reason, Jerry Jesness stated, "Unlike the students in the movie, the real Garfield students required years of solid preparation before they could take calculus. So Escalante established a program at East Los Angeles College where students could take those classes in intensive seven-week summer sessions. Escalante and [principal Henry] Gradillas were also instrumental in getting the feeder schools to offer algebra in the eighth and ninth grades."[5] In 1987, 27 percent of all Mexican Americans who scored three or higher on the AP Calculus exam were students at Garfield High.[6]
+
+Escalante himself described the film as "90 percent truth, 10 percent drama". He said that several points were left out of the film. He pointed out that no student who did not know multiplication tables or fractions was ever taught calculus in a single year."
+
+Is our society's test scores declining due to the pandemic, or other factors (mobile devices)? https://www.npr.org/2023/06/21/1183445544/u-s-reading-and-math-scores-drop-to-lowest-level-in-decades Likely, a combination of factors, but all the more reason to emphasize more basic literacy that doesn't require advanced 3D graphics- which isn't going to help improve math unless one is already in an accelerated learning course.  It seems that the idea that parents want a better life for their children gets conflated with the idea that a faster, and more featured smartphone is going to somehow result in a happier life for their children, when the real things that matter to educational development have always been a social life, and a balanced life outdoors, something I would never trade for a life glued to a screen.
+
 
 "Non-Competitive Products means any (i) product or service that is not a Competitive Product (including products or services that are not sold in the Prior Areas, but would be Competitive Products if they were sold in the Prior Areas), (ii) product or service that is being designed, developed, manufactured, used, marketed, offered for sale or sold by Seller or its Affiliates (but excluding the Sold Companies) as of the date of this Agreement (or any improvements, new versions or successors thereof) or (iii) module or component that is incorporated into any product or service described in clause (i) or (ii) of this definition.'
 https://www.lawinsider.com/dictionary/non-competitive-products
