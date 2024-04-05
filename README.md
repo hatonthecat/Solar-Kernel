@@ -778,6 +778,7 @@ Lewis, “The artist is always engaged in writing a detailed history of the futu
 cause he is the only person aware of the nature of the present.”
 p.12 "The Medium is the Message"
 
+Not An Inevitable Doomerism
 ----
 "When NVIDIA purchased mobile-chip designer Arm Holdings from SoftBank last year, NVIDIA CEO Jensen Huang made the bold prediction that in the years ahead, there will be trillions of artificial intelligence (AI)-enabled Internet of Things (IoT) devices. "
 
