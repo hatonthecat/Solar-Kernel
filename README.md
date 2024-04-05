@@ -973,7 +973,7 @@ https://lareviewofbooks.org/article/the-smartest-people-in-the-room-what-silicon
 
 If our society is to place so much trust on so-called experts, their expertise needs to be studied inasmuch as the system itself is shows signs of systemically uncritical group think or, at the very least, skewed criticality, which is exlusionary. 
 
-There was a Buzzfeed listicle a couple years back- a rift on the use of the over use of the word "premium" in everyday food packaging: 
+There was a Buzzfeed listicle a couple years back- a riff on the use of the over use of the word "premium" in everyday food packaging: 
 
 I couldn't find it but did find this Quora page: https://www.quora.com/Why-are-businesses-allowed-to-use-phrases-like-premium-and-best-quality-when-their-products-are-very-clearly-anything-but 
 
