@@ -958,6 +958,19 @@ Some people believe in the agenda of not teaching _other_ students Algebra becau
 https://www.piratewires.com/p/jo-boaler-misrepresented-citations
 https://twitter.com/KelseyTuoc/status/1775313292367712582
 
+You know what people want, Dr. Ames?
+
+![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/a29892a0-3dfb-41db-9905-1de4e866d8e5)
+
+Me Talk Pretty One Day!
+
+Before someone can learn to reason, they need to learn the vowels and the consonants needed to prounce those pretty woke words!
+
+You're probably thinking, that is so logocentric! Derrida coined the phrase [_phallogocentrism,_](https://en.wikipedia.org/wiki/Phallogocentrism#Critique) and a bunch of questionable scholars took the idea to nihilistic ends promoting it as a symbol of the Western Patriarchical Tech Bro Anthropocene. 
+https://en.wikipedia.org/wiki/Logocentrism
+
+Emiliano Zapata Salazar's horse would sneer at the thought. 
+
 And for someone who wrote an entire book on the OLPC, who got a Stanford level education, somehow, like Robin De-Angelo, feels so guilty for students being oppressed that they are being issued a laptop designed by a Western-male dominated lab(the lead engineer was actually a female)? Dr. Ames, when I mentioned the word "Latin America" to my college friend (who I also went to high school with), he got offended by being grouped with other countries- he said he is "from Mexico." So why would someone who, refuses to be grouped with Central American countries, want to be grouped with an even larger geographical space of Global South?? These are the questions the elite academics don't have an answer, or cant admit to publically admitting a dichotomy is as much a social construct as anything else created by the Global North. Many ub the Global "South" want to learn Math and English, even on a 1 MHz Apple II with Number Munchers and the Oregon Trail in calculating supplies with the lowest salary of Teacher:
 
 ![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/188e28e9-9b82-4bcf-bfe3-1b8a5bc55b15)
