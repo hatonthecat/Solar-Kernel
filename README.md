@@ -1013,6 +1013,9 @@ My point is, if teaching algebra and calculus helps students advance to college,
 
 And no one says there needs to be 1 trillion AI devices. If the semiconductor world decided, they could limit the amount of AI hardware and chips they manufacture. The most economically disadvantaged places in the world should not have to wait decades (if at all sustainable technology will ever arrive) while C-corp executives negotiate their golden parachutes for over _5 hours_ while Rome is burning. Just like in the 2009 PBS [Documentary](https://youtu.be/sYmGNetu-UU?t=1130) _Breaking the Bank._  The CEOs who had to leave their company (either AIG or Merrill Lynch, did not before getting generous comp/severance packages). Having a monopoloy or a strong control over the direction of R&D is tantamount to a potentially unjust privilege that no other sector can match.
 
+Universal Basic Computer
+---
+
 "Non-Competitive Products means any (i) product or service that is not a Competitive Product (including products or services that are not sold in the Prior Areas, but would be Competitive Products if they were sold in the Prior Areas), (ii) product or service that is being designed, developed, manufactured, used, marketed, offered for sale or sold by Seller or its Affiliates (but excluding the Sold Companies) as of the date of this Agreement (or any improvements, new versions or successors thereof) or (iii) module or component that is incorporated into any product or service described in clause (i) or (ii) of this definition.'
 https://www.lawinsider.com/dictionary/non-competitive-products
 
