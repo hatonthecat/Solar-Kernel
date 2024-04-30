@@ -2,6 +2,8 @@
 
 # SOLAR-Kernel
 
+4-30-2024 https://thecritic.co.uk/the-new-treason-of-the-intellectuals/
+
 12-28-2023 https://theimaginativeconservative.org/2018/04/teason-clerks-russell-kirk.html
 
 12-29-2023 https://newcriterion.com/issues/1992/12/the-treason-of-the-intellectuals-ldquothe-undoing-of-thoughtrdquo
