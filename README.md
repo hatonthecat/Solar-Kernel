@@ -1142,6 +1142,9 @@ But cell phones are an expensive necessity for many people, and would be a very 
 
 Processing power today has reached a transistor node that microcontrollers today can display high resolution outputs from a keyboard/remote that can produce more lines of text in a few seconds that a human can read in several hours . In the 1930s, it might have taken minutes or hours for a large mechanical calculator to calculate Pi to the 1000th decimal. Today, general purpose computing has scaled to billions of transistors, and software has followed. There is hardware available today that can display all the works of Shakespeare in less than a minute using a 240hz monitor, with thousands of pages, at 240 refreshes a second, for 60 seconds- maybe a couple seconds. The question is, do we really need yesterday's supercomputers for all of our portable e-viewing? I recently read smartphone review of middrange phones offered the pros and cons of a 90hz refresh rate and suggested, "It's not 120hz." There are 120hz phones https://www.digitaltrends.com/mobile/refresh-rate-smartphone-screen-explainer/ And what's remarkable, is that these features are more sought than a basic phone. https://en.wikipedia.org/wiki/Feature_creep 120hz is one way to use up the extra battery life that a 4 nanometer phone can allow for. Phones have so much processing power today, that we continue to try to add an IMAX theater visor to it before heavens forbid, making it solar powered. 
 
+Baudrillard
+--
+
 In a review of Alexander Galloway's Uncomputable: Play and Politics, Jacob Gaboury writes:
 
 "Instead, uncomputability is a frame for thinking through the presumed inevitability of computation by foregrounding those various moments in the history of what would become our computational culture, in which computing fails to emerge, networks fray, and the digital atrophies." https://muse.jhu.edu/article/904021/summary
