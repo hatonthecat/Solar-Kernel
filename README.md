@@ -984,6 +984,51 @@ I worry that nowadays, even this kind of educational learning _appears_ too math
 
 https://www.scientificamerican.com/article/elizabeth-bates-and-the-search-for-the-roots-of-human-language/ There's more than one way to learn to [read](https://www.theintrinsicperspective.com/p/how-to-teach-your-two-year-old-to)- auditory, visually, even [kinesthetic].(https://en.wikipedia.org/wiki/Kinesthetic_learning) The brain can convert audio sounds into words in the mind. Thus a multimedia PC, albeit a 2D one, is not less didactic than a 3D one
 
+https://psyling.talkbank.org/years/1984/crossling.pdf 
+
+Bates developed a model of language processing called the competition model, which views language acquisition as an emergentist phenomenon that results from competition between lexical items, phonological forms, and syntactic patterns, accounting for language processing on the synchronic, ontogenetic, and phylogenetic time scales.[6]
+
+[6] Bates, Elizabeth; MacWhinney, Brian (1989). The Crosslinguistic Study of Sentence Processing. New York: Cambridge University Press. 
+
+https://psyling.talkbank.org/years/1991/func-pragmatics.pdf 
+
+"2. GRAMMAR IS NOT ICONIC
+Instead, the relations between form and function are symbolic and indexical.
+Linguistic forms rarely, if ever, resemble their meanings. There are of course a few examples
+of words that "sound like" the things they stand for (e.g., Bang!), but these are few and far
+between. It is even more difficult to think of grammatical devices that bear a literal physical
+resemblance to their meanings. There is of course the apocryphal claim that natural languages
+prefer basic word orders in which the subject precedes the verb because human beings
+"naturally" tend to perceive actors before they perceive their actions. This claim is silly
+enough that it is not worth pursuing. But if grammars do not "look like" their meaning, what
+kind of natural cause-and-effect relationship could be said to hold between form and
+function?
+C. S. Peirce (1932) provided an analysis of sign-referent relations that may be as
+useful in the study of grammar as it is in the study of single signs. Icons are signs that come
+to stand for their referents because of a literal physical resemblance (e.g., a stylized picture of
+a cigarette to indicate a smoking zone). Indices are another class of "natural" signs that come
+to stand for their referents, not because of a physical resemblance but because of their
+participation in the same event (e.g., contiguity rather than similarity). For example, smoke
+can serve as an index to fire because the two are commonly associated in real life. Symbols
+are signs that bear no natural relation to their referents (neither iconic nor indexical); instead,
+they carry meaning only because of an arbitrary convention, an agreement that was reached
+by a particular community of users. As Langacker (1987) pointed out, most lexical and
+grammatical signs bear a symbolic relationship to their meanings. Grammatical devices exist
+to carry out communicative work, but the work they do does not determine their form.
+However, in the domain of grammar there may well be many cases of indexical causality if
+we keep in mind that grammars are jointly caused by cognitive content and cognitive
+processing."
+
+As for math,
+
+https://digifesto.com/2015/07/18/hannah-arendt-on-the-apoliticality-of-science/ 
+
+"While such possibilities [of space travel, and of artificial extension of human life and capabilities] still may lie in a distant future, the first boomerang effects of science’s great triumphs have made themselves felt in a crisis within the natural sciences themselves. The trouble concerns the fact that the “truths” of the modern scientific world view, though they can be demonstrated in mathematical formulas and proved technologically, will no longer lend themselves to normal expression in speech and thought. The moment these “truths” are spoken of conceptually and coherently, the resulting statements will be “perhaps not as meaningless as a ‘triangular circle,’ but much more so than a ‘winged lion'” (Erwin Schödinger). We do not yet know whether this situation is final. But it could be that we, who are earth-bound creatures and have begun to act as though we are dwellers of the universe, will forever be unable to unable to understand, that is, to think and speak about the things which nevertheless we are able to do. In this case, it would be as though our brain, which constitutes the physical, material condition of our thoughts, were unable to follow what we do, so that from now on we would indeed need artificial machines to do our thinking and speaking. If it should turn out to be true that knowledge (in the sense of know-how) and thought have parted company for good, then we would indeed become the helpless slaves, not so much of our machines as of our know-how, thoughtless creatures at the mercy of every gadget which is technically possible, no matter how murderous it is."
+
+"On the one hand, Arendt wisely situates mathematics as an expression of know-how, and sees technology as an extension of human capacity not as something autonomous from it. But it’s strange to read her argue essentially that mathematics and technology is not something that can be discussed. This ignores the daily practice of scientists, mathematicians, and their intellectual heirs, software engineers, which involves lots of discussion about about technology. Often these discussions are about the political impact of technical decisions."
+
+"EDIT: This is a misreading of Arendt. It appears that what makes mathematical science apolitical for Arendt is precisely its universality, and hence its inability to be part of discussion about the different situations of political actors. Still, something seems quite wrong about Arendt’s views here. How would she think about Dwork’s “[Fairness through awareness](https://arxiv.org/abs/1104.3913)"?"
+
 If our society believes in a future with less math than they themselves experienced/studied, then I am suspicious of such derisive works. The university no longer has room for intellectuals, because they've been bought out by big-tech. The era is post-truth by omission, because omission is easier more plausibly deniable than getting caught in a lie. Frame the conversation, and you can always fool someone at least once.
 
 https://lareviewofbooks.org/article/the-smartest-people-in-the-room-what-silicon-valleys-supposed-obsession-with-tech-free-private-schools-really-tells-us/
