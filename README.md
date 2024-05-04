@@ -978,9 +978,11 @@ And for someone who wrote an entire book on the OLPC, who got a Stanford level e
 
 ![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/188e28e9-9b82-4bcf-bfe3-1b8a5bc55b15)
 
-When I first played Oreogn Trail, it it was on a 5.25" floppy. Later, I played it on an early 90's era Performa. Initially, I played as the banker, because I wanted to complete the game with low difficulty, and had the most cash ($1600). As I got more experienced, I set the difficulty higher, playing as a farmer and teacher. I always found this quite the learning experience, because I could still complete the game with enough strategy to make it to Oregon with just $400. 
+When I first played Oregon Trail, it it was on a 5.25" floppy. Later, I played it on an early 90's era Performa. Initially, I played as the banker, because I wanted to complete the game with low difficulty, and had the most cash ($1600). As I got more experienced, I set the difficulty higher, playing as a farmer and teacher. I always found this quite the learning experience, because I could still complete the game with enough strategy to make it to Oregon with just $400. 
 
 I worry that nowadays, even this kind of educational learning _appears_ too mathematical (but is not), and probably would not be found in a middle school, if the above link on Algebra is true. I would probably guess that this edutainment was more of an accelerated learning aid than a [slide rule](https://en.wikipedia.org/wiki/Slide_rule). But I could be wrong- After all, my trigonometry skills declined after Honors Geomtry in my sophomore year of high school, since I did not use it often in Calculus nor until I retook Calculus.  
+
+https://www.scientificamerican.com/article/elizabeth-bates-and-the-search-for-the-roots-of-human-language/ There's more than one way to learn to [read](https://www.theintrinsicperspective.com/p/how-to-teach-your-two-year-old-to)- auditory, visually, even [kinesthetic].(https://en.wikipedia.org/wiki/Kinesthetic_learning) The brain can convert audio sounds into words in the mind. Thus a multimedia PC, albeit a 2D one, is not less didactic than a 3D one
 
 If our society believes in a future with less math than they themselves experienced/studied, then I am suspicious of such derisive works. The university no longer has room for intellectuals, because they've been bought out by big-tech. The era is post-truth by omission, because omission is easier more plausibly deniable than getting caught in a lie. Frame the conversation, and you can always fool someone at least once.
 
