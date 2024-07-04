@@ -274,6 +274,11 @@ in the area of the science, economics, psychology, neurobiology and cybernetics.
 matters of no real importance. Keep the public busy, busy, busy, no time to think, back to
 farm and other animals (quote from text Silent Weapons for Quiet War ).”
 
+Teenage Mutant Ninja Turtles (1990 film): "Go, Play..."
+
+https://www.youtube.com/watch?v=xyFtA40Ahlk
+
+https://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/#author
 
 So my thinking is, why should I contribute to this giant database project or some super high-level programming language front end that has hundreds of dependencies that someone will never be able to experience themselves unless they are running a quad core 15 watt i3? I really have little interest in that. I think there is enough software for users to navigate their way across the internet to provide services. The phrase "hardware is hard" certainly got its name from this fear by software developers, that it is not just technically hard, but economically hard. I can't blame anyone. But with more awareness, perhaps this can change. Until then, it is still Victorian England in the designer market.
 
