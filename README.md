@@ -1263,6 +1263,9 @@ A key issue in computer design is selecting the applications for the hardware. G
 https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=315530
 A lower power thermal envelope allows alternative energy sources in a portable design, potentially requiring far less computation per application.
 
+
+Copenhagen
+--
 What if energy design were a formula that would change the world? In the 2002 made-for TV film Copenhagen,
 https://www.youtube.com/watch?v=jx1Q5lhkff8
 https://en.wikipedia.org/wiki/Copenhagen_(2002_film) 
