@@ -1276,58 +1276,85 @@ Not in the above clip, but during the movie, a topic on factors of ten is brough
 "you suggested a stroll a week at most what
 1:35:03
 a great hike through Zealand you remember Elsinore the darkness inside the human soul
+
 1:35:11
 and out we go out under the Autumn trees now there's no one in the world except
+
 1:35:16
 bore and the invisible other who is he this all-enveloping presence in the darkness the flying particle wanders the
+
 1:35:24
 darkness no one knows where it's here it's there
+
 1:35:30
 it's everywhere and nowhere
+
 1:35:37
 with careful casualness he begins to ask the question he's prepared
+
 1:35:42
 does one as a physicist have the moral right to work on the
+
 1:35:49
 Practical exploitation of atomic energy the great Collision I stop he stops this is how they work
+
 1:35:59
 gazes at me horrified now at last he knows where he is
+
 1:36:04
 and what he's doing and even as the moment of collision begins it's over
+
 1:36:11
 he turns away already I'm hurrying back towards the house already they're both
+
 1:36:16
 flying away from each other into the darkness again our conversations over our great partnership for all our
+
 1:36:24
 friendship and everything about him becomes as uncertain as it was before
+
 1:36:30
 [Music] unless air thought experiment
+
 1:36:40
 let's suppose for a moment I don't go flying off into the night
+
 1:36:46
 let's see what happens if instead I remember the paternal role I'm supposed to play
+
 1:36:53
 if I stop and control my anger
+
 1:37:03
 and turn back to you and ask you why
+
 1:37:10
 why are you confident that's going to be so reassuringly difficult to build a bomb
+
 1:37:16
 with two three five is it because you've done the calculation the calculation of the diffusion in two
+
 1:37:24
 three five no it's because you haven't calculated
+
 1:37:29
 it you haven't considered calculating it
+
 1:37:35
 you haven't consciously realized there was a calculation to be made and of course now I have realized
+
 1:37:42
 in fact it wouldn't be all that difficult let's see scattering cross sections about six
+
 1:37:48
 times ten to 24 so the mean free and suddenly a very different very
+
 1:37:55
 terrible new world begins to take shape [Music]
+
 1:38:27
 that was the last and greatest demand that Heisenberg made on his friendship with you
+
 1:38:34
 to be understood when he couldn't understand himself"
 
@@ -1336,6 +1363,9 @@ https://youtu.be/RTn9eKfH11M?t=5737
 This, perhaps is the most direct clue that Bohr was willing to yield, and tantalizing for some, set in motion a new mode of thinking, not just for nuclear development, but in shortly after 1945, setting new, practical reasons for deterrence and avoiding mutual assured destruction (MAD). The first concern was, whether the chain reaction would never end, and, once that was determined, how to avoid MAD as it would eventually result in a similar predicament. Thus, WWII was the last Great War because the power from the offensive munitions became so great that there was a permanent shift to deterrence. As has been said about using all of the coal and oil fuels, the destruction would limit humanity's growth far sooner than it would destroy the planet. https://www.newyorker.com/news/daily-comment/if-we-burned-all-the-fossil-fuel-in-the-world
 
 To that end, what would happen if semiconductor manufacturing continued at such a pace that it allocated an even greater quantity of the world's freshwater than 99% of the world's population? Would semiconductors continue to be that useful? Hyperbole is sometimes more useful rhetorically.
+
+System Design
+--
 
 Accomplishing more with less is only a mitigating factor, but it is not an insignificant one. Certainly demand in new products continues unabatedly. Demand for general information does not increase exponentially, nor linearly. It plateaus. This allows solar energy to power the simplest systems first- 2D, text based command lines and basic I/O phones. What changes with Koomey's Law is that basic informational queries and communications can use less power on more advanced nodes (5nm, 3nm, 1nm, picometer, and so on), allowing energy harvesting devices from the ambient environment to power completely software defined hardware. This approach does not replace omnibus operating systems such as linux, android, windows and apple, but allows potentially for hybrid, micro and hardware decentralized kernels to run in parallel that rely on isolated energy storage systems, (rather than large 3,000 MAh battery banks, e.g. for one Android OS to power multiple apps), selected for their efficient harvesting, storage, and delivery mechanisms that use less materials. Similar to hyperscaling processors (such as near threshold voltage), "hyper harvesters" or "hyperstoragers" (a cactus stores  very efficiently but evaporates very little) could be the next best complement to efficient processors. Capacitors and Hybrid Lithium Ion capacitors can reduce the densities needed to provide long-term power solutions when singular and software defined hardware profiles provide the most efficient computation per joule: https://en.wikipedia.org/wiki/Performance_per_watt#Definition   
 
