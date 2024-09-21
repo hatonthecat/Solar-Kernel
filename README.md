@@ -1274,6 +1274,7 @@ Physicists Niels Bohr and Werner Heisenberg meet in Copenhagen (just about the o
 Not in the above clip, but during the movie, a topic on factors of ten is brought up. The film portrays Heisenberg as plausibly fishing for clues to support Germany's nuclear program as much as meeting Bohr to devise a plausible excuse to stall the program. A detail that I have not been able to locate in a video clip, regards that Heisenberg was describing a quantity that was off by a factor of 10 or 100, and seeking a hint from Bohr, suggests that Heisenberg had the right concept in mind (for the net production/exothermic reaction of energy), but had not grasped the magnitude of the quantities involved: 
 
 "you suggested a stroll a week at most what
+
 1:35:03
 a great hike through Zealand you remember Elsinore the darkness inside the human soul
 
@@ -1358,7 +1359,7 @@ that was the last and greatest demand that Heisenberg made on his friendship wit
 1:38:34
 to be understood when he couldn't understand himself"
 
-https://youtu.be/RTn9eKfH11M?t=5737
+https://youtu.be/RTn9eKfH11M?t=5719
 
 This, perhaps is the most direct clue that Bohr was willing to yield, and tantalizing for some, set in motion a new mode of thinking, not just for nuclear development, but in shortly after 1945, setting new, practical reasons for deterrence and avoiding mutual assured destruction (MAD). The first concern was, whether the chain reaction would never end, and, once that was determined, how to avoid MAD as it would eventually result in a similar predicament. Thus, WWII was the last Great War because the power from the offensive munitions became so great that there was a permanent shift to deterrence. As has been said about using all of the coal and oil fuels, the destruction would limit humanity's growth far sooner than it would destroy the planet. https://www.newyorker.com/news/daily-comment/if-we-burned-all-the-fossil-fuel-in-the-world
 
