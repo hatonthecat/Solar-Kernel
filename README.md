@@ -1271,7 +1271,7 @@ https://www.youtube.com/watch?v=jx1Q5lhkff8
 https://en.wikipedia.org/wiki/Copenhagen_(2002_film) 
 Physicists Niels Bohr and Werner Heisenberg meet in Copenhagen (just about the only plot detail that was based on a real meeting in 1941). The play is about what they spoke about, or could have spoken about.
 
-Not in the above clip, but during the movie, a topic on factors of ten is brought up. The film portrays Heisenberg as plausibly fishing for clues to support Germany's nuclear program as much as meeting Bohr to devise a plausible excuse to stall the program. A detail that I have not been able to locate in a video clip, regards that Heisenberg was describing a quantity that was off by a factor of 10 or 100, and seeking a hint from Bohr, suggests that Heisenberg had the right concept in mind (for the net production/exothermic reaction of energy), but had not grasped the magnitude of the quantities involved: 
+Not in the above clip, but during the movie, a topic ona calculation is made (edited due to this being written a year ago, with no access to the transcript at the time). The film portrays Heisenberg as plausibly fishing for clues to support Germany's nuclear program as much as meeting Bohr to devise a plausible excuse to stall the program. A detail that I have not been able to locate in a video clip, regards that Heisenberg was describing a quantity that was off by a factor of 10 or 100, and seeking a hint from Bohr, suggests that Heisenberg had the right concept in mind (for the net production/exothermic reaction of energy), but had not grasped the ~~magnitude~~possibility of the quantities involved (a calculation itself, it turns out): 
 
 "you suggested a stroll a week at most what
 
