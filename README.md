@@ -1329,6 +1329,9 @@ if I stop and control my anger
 1:37:03
 and turn back to you and ask you why
 
+![image](https://github.com/user-attachments/assets/852dae7e-e54f-4acc-a4a0-504b7ef9b139)
+
+
 1:37:10
 why are you confident that's going to be so reassuringly difficult to build a bomb
 
@@ -1341,8 +1344,13 @@ three five no it's because you haven't calculated
 1:37:29
 it you haven't considered calculating it
 
+![image](https://github.com/user-attachments/assets/c375ddc4-2c4b-48b0-96d6-d9ba45e88d13)
+
+
 1:37:35
 you haven't consciously realized there was a calculation to be made and of course now I have realized
+
+![image](https://github.com/user-attachments/assets/48eefec6-f635-4d69-8356-bde75cff7cc1)
 
 1:37:42
 in fact it wouldn't be all that difficult let's see scattering cross sections about six
