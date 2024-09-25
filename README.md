@@ -1369,6 +1369,8 @@ to be understood when he couldn't understand himself"
 
 https://youtu.be/RTn9eKfH11M?t=5719
 
+![tim-and-eric-mind-blown](https://github.com/user-attachments/assets/1806e916-f293-4ae0-8535-586ef98dead4)
+
 https://hackaday.io/project/177716/log/233032-thought-experiment
 
 This, perhaps is the most direct clue that Bohr was willing to yield, and tantalizing for some, set in motion a new mode of thinking, not just for nuclear development, but in shortly after 1945, setting new, practical reasons for deterrence and avoiding mutual assured destruction (MAD). The first concern was, whether the chain reaction would never end, and, once that was determined, how to avoid MAD as it would eventually result in a similar predicament. Thus, WWII was the last Great War because the power from the offensive munitions became so great that there was a permanent shift to deterrence. As has been said about using all of the coal and oil fuels, the destruction would limit humanity's growth far sooner than it would destroy the planet. https://www.newyorker.com/news/daily-comment/if-we-burned-all-the-fossil-fuel-in-the-world
