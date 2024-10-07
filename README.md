@@ -328,6 +328,11 @@ Apple M2:
 
 ![Pentium to Apple M2 Max 1993-2023](https://github.com/user-attachments/assets/0b3d7e60-8ad2-4ca7-b090-2597333c6eec)
 
+In case you're wondering, M2 is said to use 60 billion+, not 40 billion:
+
+![image](https://github.com/user-attachments/assets/ff549204-02f5-4f46-a46a-9fa035a67b2b)
+
+
 https://en.wikipedia.org/wiki/Dennard_scaling
 
 "Relation with Moore's law and computing performance
