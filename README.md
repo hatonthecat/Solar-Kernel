@@ -313,6 +313,26 @@ Often times, whenever an old, or even new technology becomes popularized, the se
 640,000 transistors ought to be enough for anyone
 ----
 
+![die-regions2](https://github.com/user-attachments/assets/5fb7af56-e9dd-4d90-bec9-68d4623412de)
+
+1993: 3.3 million transistors Pentium 0.6um-0.8um P54C (source: [Righto](https://www.righto.com/2024/07/pentium-standard-cells.html)) 
+
+2023: Apple M2: 60 billion transistors:
+
+![CNET](https://github.com/user-attachments/assets/b09b9c95-10c0-44f8-b74c-2e955e962948)
+(source: [CNET](https://www.cnet.com/tech/computing/apple-m2-pro-and-max-chips-repeat-a-successful-upgrade-strategy/
+))
+Apple M2:
+
+![image](https://github.com/user-attachments/assets/573c314d-f016-4e33-9805-cee038b1d6a4)
+
+![Pentium to Apple M2 Max 1993-2023](https://github.com/user-attachments/assets/0b3d7e60-8ad2-4ca7-b090-2597333c6eec)
+
+https://en.wikipedia.org/wiki/Dennard_scaling
+
+"Relation with Moore's law and computing performance
+Moore's law says that the number of transistors doubles approximately every two years. Combined with Dennard scaling, this means that performance per joule grows even faster, doubling about every 18 months (1.5 years). This trend is sometimes referred to as Koomey's law. The rate of doubling was originally suggested by Koomey to be 1.57 years,[5] but more recent estimates suggest this is slowing.[6]"
+
 "There are two types of people: Those who think VR will change the world—and those who haven’t tried it yet." -Meta Blog:
 https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/
 
