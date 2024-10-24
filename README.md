@@ -2,6 +2,11 @@
 
 # SOLAR-Kernel
 
+The Solar kernel
+
+![image](https://github.com/user-attachments/assets/b6ba37e0-394d-4f3a-aff5-fb1675e5b5ac)
+
+
 6-25-24
 
 The other time machine
