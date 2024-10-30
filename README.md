@@ -1405,6 +1405,10 @@ to be understood when he couldn't understand himself"
 
 https://youtu.be/RTn9eKfH11M?t=5719
 
+https://www.youtube.com/watch?v=thZUMaGEE-8 "We can split the atom but not distinguish truth. Our information is failing us | Yuval Noah Harari" 10/18/2024
+
+AI is an atomic information weapon. Question those who seek to monopolize social networks and their interests to evaluate the truthfulness of the information being presented. 
+
 ![tim-and-eric-mind-blown](https://github.com/user-attachments/assets/1806e916-f293-4ae0-8535-586ef98dead4)
 
 https://hackaday.io/project/177716/log/233032-thought-experiment
