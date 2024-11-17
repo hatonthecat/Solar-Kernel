@@ -13,6 +13,8 @@ The other time machine
 
 https://github.com/hatonthecat/Solar-Kernel/assets/76194453/97fd632d-6b0a-4c9f-8976-0e7093fa2aaa
 
+11-17-2024 https://www.the-hinternet.com/p/the-internet-is-killing-science-too
+
 4-30-2024 https://thecritic.co.uk/the-new-treason-of-the-intellectuals/
 
 12-28-2023 https://theimaginativeconservative.org/2018/04/teason-clerks-russell-kirk.html
