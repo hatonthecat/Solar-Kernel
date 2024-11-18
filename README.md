@@ -6,6 +6,9 @@ The Solar kernel
 
 ![image](https://github.com/user-attachments/assets/b6ba37e0-394d-4f3a-aff5-fb1675e5b5ac)
 
+"“We didn’t design them to last 30 years or 40 years, we designed them not to fail,” John Casani, Voyager project manager from 1975 to 1977, says in a NASA statement." 
+
+https://www.smithsonianmag.com/smart-news/voyager-1-breaks-its-silence-with-nasa-via-a-radio-transmitter-not-used-since-1981-180985399/
 
 6-25-24
 
