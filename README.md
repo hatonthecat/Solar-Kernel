@@ -371,6 +371,10 @@ These extra functions account for the higher transistor count in the SL chips (8
 
 Intel offered a companion to the 386SL chip for laptops called the 82360SL I/O subsystem. The 82360SL provided many common peripheral functions such as serial and parallel ports, a direct memory access (DMA) controller, an interrupt controller, and power-management logic for the 386SL processor. This chip subsystem worked with the processor to provide an ideal solution for the small size and low power-consumption requirements of portable and laptop systems."  "
 
+https://github.com/hatonthecat/linux_distro_tests/blob/main/Screenshot_20250114-102919~2.png
+
+![image](https://github.com/user-attachments/assets/b92a4013-cc73-459f-b30d-3aef13758604)
+
 https://www.informit.com/articles/article.aspx?p=130978&seqNum=27
 
 https://www.quora.com/Why-was-it-so-hard-for-Unix-to-run-on-a-386-CPU-before-Linux
