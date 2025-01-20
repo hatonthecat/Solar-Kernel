@@ -2,6 +2,10 @@
 
 # SOLAR-Kernel
 
+![image](https://github.com/user-attachments/assets/7647d218-ceef-4fe8-9c81-617e9c44a1d4)
+This is a solar powered laptop idea I've had since 2011. One day I hope this can become a reality. Start small.
+
+
 The Solar kernel
 
 ![image](https://github.com/user-attachments/assets/b6ba37e0-394d-4f3a-aff5-fb1675e5b5ac)
