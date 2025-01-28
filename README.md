@@ -96,7 +96,6 @@ May's law, named after David May, is a variant stating: "Software efficiency hal
 
 ![image](https://github.com/hatonthecat/Solar-Kernel/assets/76194453/140fa029-b793-40f1-b1d0-f6af5e61ab4a)
 
-
 https://www.computer.org/csdl/magazine/co/1995/02/r2064/13rRUwInv7E
 
 https://spectrum.ieee.org/5-commandments
@@ -122,6 +121,42 @@ https://en.wikipedia.org/wiki/Oberon_(operating_system)#Versions_and_availabilit
 https://en.wikipedia.org/wiki/A2_(operating_system)
 
 This project seeks to develop a kernel for user applications in memory constrained microcontrollers, using message passing, similar to or based on the microkernel used in Minix 3: https://en.wikipedia.org/wiki/Minix_3#Architecture
+
+https://blog.codinghorror.com/software-its-a-gas/ 
+
+
+
+https://blog.codinghorror.com/software-its-a-gas/ :
+
+"Nathan Myhrvold, the former CTO of Microsoft, is also a bona-fide physicist. He holds physics degress from UCAL and Princeton. He even had a postdoctoral fellowship under the famous Stephen Hawking. Thus, as you might expect, his 1997 ACM keynote presentation, The Next Fifty Years of Software is full of physics and science metaphors.
+It starts with Nathan's four Laws of Software:
+
+Software is a gas
+Software always expands to fit whatever container it is stored in.
+Software grows until it becomes limited by Moore's Law
+The initial growth of software is rapid, like gas expanding, but is inevitably limited by the rate of increase in hardware speed.
+Software growth makes Moore's Law possible
+People buy new hardware because the software requires it.
+Software is only limited by human ambition and expectation
+We'll always find new algorithms, new applications, and new users.
+Myhrvold goes on to describe software development as a state of Perpetual Crisis. The size and complexity of software is constantly rising, with no limit in sight. As we develop more advanced software-- and as we develop solutions to manage the ever-increasing complexity of this software-- the benefits of the new software are absorbed by the rising tide of customer expectations. Software development will never be easy; new software always has to push against the current complexity boundary if it wants to be commercially successful.
+
+This was all written in 1997. Nearly ten years later, are his points still valid? Software is certainly still a gas. Now that we're entering the multi-core era, there is one crucial difference. Historically hardware has gotten more complex because of limitations in the ability of software to scale; now the software needs to get more complex because of limitations in the ability of hardware to scale. The burden of scaling now falls on the software."
+
+
+"Pat Gelsinger
+Electrical engineering expert with four+ decades of technology leadership and experience
+Wisdom – Learning the lessons I thought I already knew
+
+The response to DeepSeek has been fascinating to watch and I would suggest the response misses three important lessons that we have learned in the last five decades of computing.
+
+First – Computing obeys the gas law. This means, it fills the available space as defined by available resources (capital, power, thermal budgets etc). As we saw in CMOS, PCs, multicore, virtualization, mobile and numerous others; making compute resources broadly available at radically lower price points, will drive an explosive expansion, not contraction, of the market. AI will be in everything going forward and today, it is orders of magnitude too expensive to realize that potential. I recall my first internet browser experience – WOW. And now – its every minute or second of everyday if you are a teenager. The market reaction is wrong, lowering the cost of AI will expand the market. Today I’m an nVidia and AI stock buyer and happy to benefit from lower prices.
+
+Second – Engineering is about constraints. It is clear that the DeepSeek team had numerous constraints and found creative ways to deliver a world class solution in every respect at 10-50X lower costs. Export laws limited the available resources so, Chinese engineers needed to get creative and they did. They didn’t need $10B’s of hardware and the latest chips and a multi-$B training budget.  One time years ago I was interviewing the famed (maybe the greatest) computer scientist of our age Donald Knuth. He described in detail how he did his best work when the resources were most severely limited and schedules most demanding. I considered that insight one of the most important of my engineering management career.
+
+Third – Open wins. It has been disappointing to watch the foundational model research become more and more closed over the last few years. In this, I’m more aligned with Elon than Sam – we really want, nay need AI research to increase its openness. We need to know what the training datasets are, study the algorithms and introspect on correctness, ethics and implications. Having seen the power of Linux, Gcc, USB, Wifi and numerous other examples has made this clear to all students of computing history. Fighting the battles of legal, spectrum, engineering and adoption – open is never easy and consistently challenged by market forces. Open wins every time it is given a proper shot. AI is much too important for our future to allow a closed ecosystem to ever emerge as the one and only in this space.
+
+DeepSeek is an incredible piece of engineering that will usher in greater adoption of AI. It will help reset the industry in its view of Open innovation. It took a highly constrained team from China to remind us all of these fundamental lessons of computing history." 01-27-2025
 
 A web based package manager (e.g https://tiny.slitaz.org/ ) could also make creating custom ISOs/images more user-friendly: https://groups.google.com/g/minix3/c/gs2z6m7Kj14
 Similar to Cubic: https://launchpad.net/cubic
@@ -228,11 +263,7 @@ https://conceptually.org/concepts/occams-razor
 
 https://en.wikipedia.org/wiki/Occam's_razor
 
-This logic, or approach, is useful in not just problem solving, but concept development. That is, this project isn't seeking to solve a problem, specifically. It could be argued that simpler computers are needed for certain tasks, and that technological convergence needs to deconverge (i.e smart phones should become dumbphones again, or there needs to be more dumbphone options in the market). But for the purpose of developing such a system, those arguments are irrelevant. That discussion  could be supplemental on a discussion or issue page. Feel free to raise it here, if the project encounters a philosophical fork in the road. As Yogi Berra once said, "if you encounter a fork in the road, take it." 
-
-All computers have all relied on a power input. Before the linux kernel, free software and open source needed a platform. Now open source can be use to develop more open source. In a way, linux is like a self-replicating machine. Thus, I am conscious to how power consumption is necessary to develop software. But that also reveals an odd aspect of linux accessibility:
-
-"According to official statistics, a tad under half of the world population is not connected to the Internet. In Latin America, according to the most recent statistics, close to 30% of the population is not online. Different variables contribute to the problem of the digital divide, but these can be generally parsed into four categories: no coverage or services available; access is too expensive; a lack of digital skills; or, the Internet simply does not offer anything of interest. While the number of people connected does go up every year, the rate of expansion is fairly modest at about 2 or 3% annually, and at the current rate (which is actually slowing) it will take decades to get everyone online who wishes to be.'
+This logic, or approach, is useful in not just problem solving, but concept development. That is, this project isn't seeking to solve a problem, specifically. It could be argued that simpler computers are needed for certain tasks, and that technological convergence needs to deconverge (i.e smart phones should become dumbphones again, or there needs to be more dumbphone options in the market). But for the purpose of developing such a system, those arguments are irrelevant. A, close to 30% of the population is not online. Different variables contribute to the problem of the digital divide, but these can be generally parsed into four categories: no coverage or services available; access is too expensive; a lack of digital skills; or, the Internet simply does not offer anything of interest. While the number of people connected does go up every year, the rate of expansion is fairly modest at about 2 or 3% annually, and at the current rate (which is actually slowing) it will take decades to get everyone online who wishes to be.'
 
 https://www.rhizomatica.org/keeping-it-analog-a-framework-for-opting-out-of-connectivity/ 
 
