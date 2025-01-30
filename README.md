@@ -158,6 +158,12 @@ Third – Open wins. It has been disappointing to watch the foundational model r
 
 DeepSeek is an incredible piece of engineering that will usher in greater adoption of AI. It will help reset the industry in its view of Open innovation. It took a highly constrained team from China to remind us all of these fundamental lessons of computing history." 01-27-2025
 
+https://en.wikipedia.org/wiki/Jevons_paradox
+
+"In economics, the Jevons paradox (/ˈdʒɛvənz/; sometimes Jevons effect) occurs when technological advancements make a resource more efficient to use (thereby reducing the amount needed for a single application); however, as the cost of using the resource drops, overall demand increases causing total resource consumption to rise.[1][2][3][4] Governments have typically expected efficiency gains to lower resource consumption, rather than anticipating possible increases due to the Jevons paradox.[5]"
+
+Nathan's 4 Laws of Software (namely the gas expansion one) is somewhat analogous to Jevon's Paradox. https://www.youtube.com/watch?v=-xr9rIQxwj4
+
 A web based package manager (e.g https://tiny.slitaz.org/ ) could also make creating custom ISOs/images more user-friendly: https://groups.google.com/g/minix3/c/gs2z6m7Kj14
 Similar to Cubic: https://launchpad.net/cubic
 
