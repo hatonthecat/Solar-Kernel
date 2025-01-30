@@ -162,7 +162,7 @@ https://en.wikipedia.org/wiki/Jevons_paradox
 
 "In economics, the Jevons paradox (/ˈdʒɛvənz/; sometimes Jevons effect) occurs when technological advancements make a resource more efficient to use (thereby reducing the amount needed for a single application); however, as the cost of using the resource drops, overall demand increases causing total resource consumption to rise.[1][2][3][4] Governments have typically expected efficiency gains to lower resource consumption, rather than anticipating possible increases due to the Jevons paradox.[5]"
 
-Nathan's 4 Laws of Software (namely the gas expansion one) is somewhat analogous to Jevon's Paradox. https://www.youtube.com/watch?v=-xr9rIQxwj4
+Nathan's 4 Laws of Software (namely the gas expansion one) and Koomey's Law is somewhat analogous to Jevon's Paradox. https://www.youtube.com/watch?v=-xr9rIQxwj4 Instead of using the same nuber of transistors in a smaller thermal power envelope, Dennard's scaling allows more performance in the same thermal envelope, thereby causing the sale of next generation semiconductor chips to replace an old one (and thereby consume more power and manufacturing). 
 
 A web based package manager (e.g https://tiny.slitaz.org/ ) could also make creating custom ISOs/images more user-friendly: https://groups.google.com/g/minix3/c/gs2z6m7Kj14
 Similar to Cubic: https://launchpad.net/cubic
