@@ -20,6 +20,10 @@ The other time machine
 
 https://github.com/hatonthecat/Solar-Kernel/assets/76194453/97fd632d-6b0a-4c9f-8976-0e7093fa2aaa
 
+https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2cfe2e6a-77a0-4ee0-a384-6e647d09018a_602x976.png
+
+https://books.google.com/books?id=lzgOduibRJgC&pg=PT27&source=gbs_toc_r&cad=2#v=onepage&q&f=false
+
 11-17-2024 https://www.the-hinternet.com/p/the-internet-is-killing-science-too
 
 4-30-2024 https://thecritic.co.uk/the-new-treason-of-the-intellectuals/
