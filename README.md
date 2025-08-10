@@ -616,7 +616,13 @@ The rise of feature-creep and 3D graphical performance today in operating system
 
 Barbrook, likewise, refers to Minitel as a "dumb terminal," but not disparagingly. Rather, he higlights the success of an internet that was able to connect many people, without ornament. While Minitel was of an era, the technology today does not need to evolve so quickly as to become obsolete- while landlines are certainly outdated, 40-50 year old protocols that still exist today could be paired with more efficient semiconductors powering 2d operating systems, low-power screens, and wireless radios.
 
+<img width="972" height="506" alt="image" src="https://github.com/user-attachments/assets/4f7df4e3-e64d-47f2-94dd-09e558cd28ea" />
+
+Why? because 2D is so passe.. and connecting anotheer 500 million people is not their priority, esp since the chips need [telemetry](https://en.wikipedia.org/wiki/Intel_Management_Engine#Design) to make their data sales to 3rd party worthwhile, and a 3 million transistor chip without telemetry is going to be harder to solar power. 
+
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/afffe495-3b5a-494b-8112-96ff5989ba9e)
+
+
 
 Games and Telecommunications?
 
