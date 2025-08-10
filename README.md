@@ -618,7 +618,7 @@ Barbrook, likewise, refers to Minitel as a "dumb terminal," but not disparagingl
 
 <img width="972" height="506" alt="image" src="https://github.com/user-attachments/assets/4f7df4e3-e64d-47f2-94dd-09e558cd28ea" />
 
-Why? because 2D is so passe.. and connecting anotheer 500 million people is not their priority, esp since the chips need [telemetry](https://en.wikipedia.org/wiki/Intel_Management_Engine#Design) to make their data sales to 3rd party worthwhile, and a 3 million transistor chip without telemetry is going to be harder to solar power. 
+Why? because 2D is so passe.. and connecting anotheer 500 million people is not their priority, esp since the chips need [telemetry](https://en.wikipedia.org/wiki/Intel_Management_Engine#Design) to make their data sales to 3rd party worthwhile, and a 3 million transistor chip additional telemetry circuitry, is going to be harder to solar power (esp 3D rich HTML5 & VR). 
 
 ![image](https://github.com/hatonthecat/Soap-Kernel/assets/76194453/afffe495-3b5a-494b-8112-96ff5989ba9e)
 
