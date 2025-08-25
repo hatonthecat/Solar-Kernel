@@ -80,7 +80,7 @@ https://www.pjrc.com/teensy/td_timing_elaspedMillis.html
 
 
 
-Formerly Soap Kernel, this repository is being renamed to "Serially Operating Light Application Repositories Kernel"
+Formerly Soap Kernel, this repository is being renamed to "Serially Operating Light(weight) Application Repositories Kernel"
 
 A repository for single application kernels designed to maximize use of RAM while limiting the need of excess RAM, to allow lowest power application processors and system on a chips to run on solar energy.
 
