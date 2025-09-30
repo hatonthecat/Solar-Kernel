@@ -2,6 +2,8 @@
 
 # SOLAR-Kernel
 
+Solar kernel, in essence, is a limbo kernel https://www.youtube.com/watch?v=s9P8gKvQ3TA 
+
 ![image](https://github.com/user-attachments/assets/7647d218-ceef-4fe8-9c81-617e9c44a1d4)
 This is a solar powered laptop idea I've had since 2011. One day I hope this can become a reality. Start small.
 
